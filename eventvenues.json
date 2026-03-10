@@ -1,0 +1,506 @@
+[
+    {
+        "id": 24,
+        "code": 37,
+        "name": "Australia Fair",
+        "state": "QLD",
+        "lat": -27.96131,
+        "long": 153.41255,
+        "url": "/Cinema/Australia-Fair"
+    },
+    {
+        "id": 64,
+        "code": 126,
+        "name": "Bondi Junction",
+        "state": "NSW",
+        "lat": -33.89147,
+        "long": 151.25047,
+        "url": "/Cinema/Bondi-Junction"
+    },
+    {
+        "id": 59,
+        "code": 117,
+        "name": "Brisbane City",
+        "state": "QLD",
+        "lat": -27.46977,
+        "long": 153.02681,
+        "url": "/Cinema/Brisbane-City"
+    },
+    {
+        "id": 58,
+        "code": 115,
+        "name": "Burwood",
+        "state": "NSW",
+        "lat": -33.87462,
+        "long": 151.10592,
+        "url": "/Cinema/Burwood"
+    },
+    {
+        "id": 44,
+        "code": 68,
+        "name": "Cairns Central",
+        "state": "QLD",
+        "lat": -16.92623,
+        "long": 145.77418,
+        "url": "/Cinema/Cairns-Central"
+    },
+    {
+        "id": 61,
+        "code": 121,
+        "name": "Cairns Earlville",
+        "state": "QLD",
+        "lat": -16.9441302,
+        "long": 145.740042,
+        "url": "/Cinema/Cairns-Earlville"
+    },
+    {
+        "id": 89,
+        "code": 169,
+        "name": "Cairns Smithfield",
+        "state": "QLD",
+        "lat": -16.838311,
+        "long": 145.691716,
+        "url": "/Cinema/Cairns-Smithfield"
+    },
+    {
+        "id": 65,
+        "code": 127,
+        "name": "Campbelltown",
+        "state": "NSW",
+        "lat": -34.07386,
+        "long": 150.79893,
+        "url": "/Cinema/Campbelltown"
+    },
+    {
+        "id": 30,
+        "code": 45,
+        "name": "Capalaba",
+        "state": "QLD",
+        "lat": -27.52208,
+        "long": 153.20113,
+        "url": "/Cinema/Capalaba"
+    },
+    {
+        "id": 28,
+        "code": 43,
+        "name": "Carindale",
+        "state": "QLD",
+        "lat": -27.5036171,
+        "long": 153.1028786,
+        "url": "/Cinema/Carindale"
+    },
+    {
+        "id": 53,
+        "code": 107,
+        "name": "Castle Hill",
+        "state": "NSW",
+        "lat": -33.73217,
+        "long": 151.00581,
+        "url": "/Cinema/Castle-Hill"
+    },
+    {
+        "id": 43,
+        "code": 60,
+        "name": "Casuarina",
+        "state": "NT",
+        "lat": -12.37461,
+        "long": 130.88171,
+        "url": "/Cinema/Casuarina"
+    },
+    {
+        "id": 56,
+        "code": 113,
+        "name": "Chermside",
+        "state": "QLD",
+        "lat": -27.3836162,
+        "long": 153.0313487,
+        "url": "/Cinema/Chermside"
+    },
+    {
+        "id": 36,
+        "code": 51,
+        "name": "Coffs Harbour",
+        "state": "NSW",
+        "lat": -30.28371,
+        "long": 153.12665,
+        "url": "/Cinema/Coffs-Harbour"
+    },
+    {
+        "id": 92,
+        "code": 173,
+        "name": "Coomera",
+        "state": "QLD",
+        "lat": -27.8559234,
+        "long": 153.3160207,
+        "url": "/Cinema/Coomera"
+    },
+    {
+        "id": 5,
+        "code": 6,
+        "name": "Drive In Blacktown",
+        "state": "NSW",
+        "lat": -33.80423,
+        "long": 150.90297,
+        "url": "/Cinema/Drive-In-Blacktown"
+    },
+    {
+        "id": 94,
+        "code": 178,
+        "name": "Ed Square",
+        "state": "NSW",
+        "lat": -33.9703845,
+        "long": 150.857161,
+        "url": "/Cinema/Ed-Square"
+    },
+    {
+        "id": 15,
+        "code": 19,
+        "name": "George Street",
+        "state": "NSW",
+        "lat": -33.87544,
+        "long": 151.20593,
+        "url": "/Cinema/George-Street"
+    },
+    {
+        "id": 21,
+        "code": 34,
+        "name": "Glendale",
+        "state": "NSW",
+        "lat": -32.92945,
+        "long": 151.64198,
+        "url": "/Cinema/Glendale"
+    },
+    {
+        "id": 87,
+        "code": 164,
+        "name": "Glenelg",
+        "state": "SA",
+        "lat": -34.980812,
+        "long": 138.516884,
+        "url": "/Cinema/Glenelg"
+    },
+    {
+        "id": 62,
+        "code": 122,
+        "name": "Hornsby",
+        "state": "NSW",
+        "lat": -33.70462,
+        "long": 151.09873,
+        "url": "/Cinema/Hornsby"
+    },
+    {
+        "id": 7,
+        "code": 8,
+        "name": "Hurstville",
+        "state": "NSW",
+        "lat": -33.96552,
+        "long": 151.1049,
+        "url": "/Cinema/Hurstville"
+    },
+    {
+        "id": 96,
+        "code": 179,
+        "name": "IMAX Sydney",
+        "state": "NSW",
+        "lat": -33.8738855311,
+        "long": 151.2024315295,
+        "url": "/Cinema/IMAX-Sydney"
+    },
+    {
+        "id": 48,
+        "code": 98,
+        "name": "Indooroopilly",
+        "state": "QLD",
+        "lat": -27.49952,
+        "long": 152.96768,
+        "url": "/Cinema/Indooroopilly"
+    },
+    {
+        "id": 17,
+        "code": 24,
+        "name": "Innaloo",
+        "state": "WA",
+        "lat": -31.90433,
+        "long": 115.79702,
+        "url": "/Cinema/Innaloo"
+    },
+    {
+        "id": 93,
+        "code": 174,
+        "name": "Kawana",
+        "state": "QLD",
+        "lat": -26.702854,
+        "long": 153.1306191,
+        "url": "/Cinema/Kawana"
+    },
+    {
+        "id": 85,
+        "code": 162,
+        "name": "Kotara",
+        "state": "NSW",
+        "lat": -32.9420705,
+        "long": 151.7088893,
+        "url": "/Cinema/Kotara"
+    },
+    {
+        "id": 19,
+        "code": 27,
+        "name": "Liverpool",
+        "state": "NSW",
+        "lat": -33.9195089,
+        "long": 150.9236158,
+        "url": "/Cinema/Liverpool"
+    },
+    {
+        "id": 79,
+        "code": 155,
+        "name": "Loganholme",
+        "state": "QLD",
+        "lat": -27.6828501,
+        "long": 153.1858235,
+        "url": "/Cinema/Loganholme"
+    },
+    {
+        "id": 50,
+        "code": 100,
+        "name": "Mackay Mount Pleasant",
+        "state": "QLD",
+        "lat": -21.12185,
+        "long": 149.15991,
+        "url": "/Cinema/Mackay-Mount-Pleasant"
+    },
+    {
+        "id": 55,
+        "code": 110,
+        "name": "Macquarie",
+        "state": "NSW",
+        "lat": -33.77747,
+        "long": 151.11816,
+        "url": "/Cinema/Macquarie"
+    },
+    {
+        "id": 22,
+        "code": 35,
+        "name": "Marion",
+        "state": "SA",
+        "lat": -35.01388,
+        "long": 138.54467,
+        "url": "/Cinema/Marion"
+    },
+    {
+        "id": 38,
+        "code": 53,
+        "name": "Maroochydore Sunshine Plaza",
+        "state": "QLD",
+        "lat": -26.65695,
+        "long": 153.08758,
+        "url": "/Cinema/Maroochydore-Sunshine-Plaza"
+    },
+    {
+        "id": 82,
+        "code": 159,
+        "name": "Miranda",
+        "state": "NSW",
+        "lat": -34.034458,
+        "long": 151.1000177,
+        "url": "/Cinema/Miranda"
+    },
+    {
+        "id": 71,
+        "code": 133,
+        "name": "Moonlight Cinema Adelaide",
+        "state": "SA",
+        "lat": -34.9143508,
+        "long": 138.6108231,
+        "url": "/Cinema/Moonlight-Cinema-Adelaide"
+    },
+    {
+        "id": 74,
+        "code": 136,
+        "name": "Moonlight Cinema Brisbane",
+        "state": "QLD",
+        "lat": -27.4627340339,
+        "long": 153.0201308382,
+        "url": "/Cinema/Moonlight-Cinema-Brisbane"
+    },
+    {
+        "id": 73,
+        "code": 137,
+        "name": "Moonlight Cinema Melbourne",
+        "state": "VIC",
+        "lat": -37.832022,
+        "long": 144.982538,
+        "url": "/Cinema/Moonlight-Cinema-Melbourne"
+    },
+    {
+        "id": 72,
+        "code": 134,
+        "name": "Moonlight Cinema Perth",
+        "state": "WA",
+        "lat": -31.962357,
+        "long": 115.822077,
+        "url": "/Cinema/Moonlight-Cinema-Perth"
+    },
+    {
+        "id": 75,
+        "code": 135,
+        "name": "Moonlight Cinema Sydney",
+        "state": "NSW",
+        "lat": -33.88994,
+        "long": 151.234875,
+        "url": "/Cinema/Moonlight-Cinema-Sydney"
+    },
+    {
+        "id": 49,
+        "code": 99,
+        "name": "Mt Gravatt",
+        "state": "QLD",
+        "lat": -27.56003,
+        "long": 153.08108,
+        "url": "/Cinema/Mt-Gravatt"
+    },
+    {
+        "id": 77,
+        "code": 130,
+        "name": "Noosa",
+        "state": "QLD",
+        "lat": -26.394022,
+        "long": 153.090363,
+        "url": "/Cinema/Noosa"
+    },
+    {
+        "id": 86,
+        "code": 163,
+        "name": "North Lakes",
+        "state": "QLD",
+        "lat": -27.2422868,
+        "long": 153.019873,
+        "url": "/Cinema/North-Lakes"
+    },
+    {
+        "id": 23,
+        "code": 36,
+        "name": "Pacific Fair",
+        "state": "QLD",
+        "lat": -28.03431,
+        "long": 153.43033,
+        "url": "/Cinema/Pacific-Fair"
+    },
+    {
+        "id": 91,
+        "code": 171,
+        "name": "Palmerston",
+        "state": "NT",
+        "lat": -12.4763285,
+        "long": 130.9800007,
+        "url": "/Cinema/Palmerston"
+    },
+    {
+        "id": 66,
+        "code": 128,
+        "name": "Parramatta",
+        "state": "NSW",
+        "lat": -33.8177,
+        "long": 151.00212,
+        "url": "/Cinema/Parramatta"
+    },
+    {
+        "id": 34,
+        "code": 49,
+        "name": "Robina",
+        "state": "QLD",
+        "lat": -28.07498,
+        "long": 153.38358,
+        "url": "/Cinema/Robina"
+    },
+    {
+        "id": 47,
+        "code": 97,
+        "name": "Rockhampton North",
+        "state": "QLD",
+        "lat": -23.35871,
+        "long": 150.50552,
+        "url": "/Cinema/Rockhampton-North"
+    },
+    {
+        "id": 63,
+        "code": 123,
+        "name": "Shellharbour",
+        "state": "NSW",
+        "lat": -34.56412,
+        "long": 150.83522,
+        "url": "/Cinema/Shellharbour"
+    },
+    {
+        "id": 83,
+        "code": 160,
+        "name": "Springfield",
+        "state": "QLD",
+        "lat": -27.678535,
+        "long": 152.904807,
+        "url": "/Cinema/Springfield"
+    },
+    {
+        "id": 26,
+        "code": 41,
+        "name": "Strathpine",
+        "state": "QLD",
+        "lat": -27.3069,
+        "long": 152.99332,
+        "url": "/Cinema/Strathpine"
+    },
+    {
+        "id": 52,
+        "code": 104,
+        "name": "Toowoomba Grand Central",
+        "state": "QLD",
+        "lat": -27.56065,
+        "long": 151.95052,
+        "url": "/Cinema/Toowoomba-Grand-Central"
+    },
+    {
+        "id": 37,
+        "code": 52,
+        "name": "Toowoomba Strand",
+        "state": "QLD",
+        "lat": -27.5613,
+        "long": 151.95566,
+        "url": "/Cinema/Toowoomba-Strand"
+    },
+    {
+        "id": 69,
+        "code": 131,
+        "name": "Top Ryde City",
+        "state": "NSW",
+        "lat": -33.8122433165,
+        "long": 151.1065471172,
+        "url": "/Cinema/Top-Ryde-City"
+    },
+    {
+        "id": 81,
+        "code": 156,
+        "name": "Townsville Central",
+        "state": "QLD",
+        "lat": -19.266097,
+        "long": 146.810661,
+        "url": "/Cinema/Townsville-Central"
+    },
+    {
+        "id": 9,
+        "code": 12,
+        "name": "Tuggerah",
+        "state": "NSW",
+        "lat": -33.3088094,
+        "long": 151.4118775,
+        "url": "/Cinema/Tuggerah"
+    },
+    {
+        "id": 90,
+        "code": 170,
+        "name": "Whitford",
+        "state": "WA",
+        "lat": -31.795581,
+        "long": 115.753984,
+        "url": "/Cinema/Whitford"
+    }
+]

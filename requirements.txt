@@ -1,0 +1,6 @@
+requests
+aiohttp
+aiohttp_retry
+tqdm
+cloudscraper
+tabulate
