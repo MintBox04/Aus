@@ -3,11 +3,11 @@
     "movieName": "Dhurandhar: The Revenge",
     "2026-03-19": {
       "summary": {
-        "shows": 39,
-        "totalSeats": 7369,
-        "soldSeats": 1360,
-        "gross": 44950.0,
-        "occupancy": "18.46%"
+        "shows": 40,
+        "totalSeats": 7646,
+        "soldSeats": 1398,
+        "gross": 46239.5,
+        "occupancy": "18.28%"
       },
       "shows": [
         {
@@ -50,9 +50,9 @@
           "showTime": "19:15:00",
           "screenType": "Gold Class",
           "totalSeats": 40,
-          "soldSeats": 2,
-          "occupancy": 5.0,
-          "gross": 103.0,
+          "soldSeats": 4,
+          "occupancy": 10.0,
+          "gross": 206.0,
           "maxGross": 2060.0
         },
         {
@@ -80,9 +80,9 @@
           "showTime": "14:40:00",
           "screenType": "Gold Class",
           "totalSeats": 40,
-          "soldSeats": 2,
-          "occupancy": 5.0,
-          "gross": 103.0,
+          "soldSeats": 5,
+          "occupancy": 12.5,
+          "gross": 257.5,
           "maxGross": 2060.0
         },
         {
@@ -245,9 +245,9 @@
           "showTime": "19:45:00",
           "screenType": "Vmax",
           "totalSeats": 277,
-          "soldSeats": 95,
-          "occupancy": 34.3,
-          "gross": 2850.0,
+          "soldSeats": 100,
+          "occupancy": 36.1,
+          "gross": 3000.0,
           "maxGross": 8310.0
         },
         {
@@ -380,9 +380,9 @@
           "showTime": "19:15:00",
           "screenType": "Vmax",
           "totalSeats": 355,
-          "soldSeats": 123,
-          "occupancy": 34.65,
-          "gross": 3936.0,
+          "soldSeats": 129,
+          "occupancy": 36.34,
+          "gross": 4128.0,
           "maxGross": 11360.0
         },
         {
@@ -575,9 +575,9 @@
           "showTime": "20:00:00",
           "screenType": "Vmax",
           "totalSeats": 190,
-          "soldSeats": 12,
-          "occupancy": 6.32,
-          "gross": 432.0,
+          "soldSeats": 17,
+          "occupancy": 8.95,
+          "gross": 612.0,
           "maxGross": 6840.0
         },
         {
@@ -594,16 +594,31 @@
           "occupancy": 2.6,
           "gross": 204.0,
           "maxGross": 7854.0
+        },
+        {
+          "cinemaId": "309",
+          "cinemaName": "Sunshine",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "889465",
+          "showTime": "15:00:00",
+          "screenType": "Vmax",
+          "totalSeats": 277,
+          "soldSeats": 17,
+          "occupancy": 6.14,
+          "gross": 510.0,
+          "maxGross": 8310.0
         }
       ]
     },
     "2026-03-20": {
       "summary": {
-        "shows": 39,
-        "totalSeats": 7680,
-        "soldSeats": 1391,
-        "gross": 45016.5,
-        "occupancy": "18.11%"
+        "shows": 41,
+        "totalSeats": 8234,
+        "soldSeats": 1439,
+        "gross": 46471.5,
+        "occupancy": "17.48%"
       },
       "shows": [
         {
@@ -616,9 +631,9 @@
           "showTime": "12:00:00",
           "screenType": "Gold Class",
           "totalSeats": 40,
-          "soldSeats": 0,
-          "occupancy": 0.0,
-          "gross": 0.0,
+          "soldSeats": 2,
+          "occupancy": 5.0,
+          "gross": 103.0,
           "maxGross": 2060.0
         },
         {
@@ -706,9 +721,9 @@
           "showTime": "15:45:00",
           "screenType": "Standard",
           "totalSeats": 163,
-          "soldSeats": 4,
-          "occupancy": 2.45,
-          "gross": 104.0,
+          "soldSeats": 6,
+          "occupancy": 3.68,
+          "gross": 156.0,
           "maxGross": 4238.0
         },
         {
@@ -781,9 +796,9 @@
           "showTime": "18:30:00",
           "screenType": "Standard",
           "totalSeats": 430,
-          "soldSeats": 30,
-          "occupancy": 6.98,
-          "gross": 780.0,
+          "soldSeats": 36,
+          "occupancy": 8.37,
+          "gross": 936.0,
           "maxGross": 11180.0
         },
         {
@@ -811,9 +826,9 @@
           "showTime": "19:45:00",
           "screenType": "Vmax",
           "totalSeats": 277,
-          "soldSeats": 107,
-          "occupancy": 38.63,
-          "gross": 3210.0,
+          "soldSeats": 109,
+          "occupancy": 39.35,
+          "gross": 3270.0,
           "maxGross": 8310.0
         },
         {
@@ -946,9 +961,9 @@
           "showTime": "19:15:00",
           "screenType": "Vmax",
           "totalSeats": 355,
-          "soldSeats": 111,
-          "occupancy": 31.27,
-          "gross": 3552.0,
+          "soldSeats": 113,
+          "occupancy": 31.83,
+          "gross": 3616.0,
           "maxGross": 11360.0
         },
         {
@@ -1190,16 +1205,46 @@
           "occupancy": 2.6,
           "gross": 204.0,
           "maxGross": 7854.0
+        },
+        {
+          "cinemaId": "309",
+          "cinemaName": "Sunshine",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "891774",
+          "showTime": "10:00:00",
+          "screenType": "Vmax",
+          "totalSeats": 277,
+          "soldSeats": 17,
+          "occupancy": 6.14,
+          "gross": 510.0,
+          "maxGross": 8310.0
+        },
+        {
+          "cinemaId": "309",
+          "cinemaName": "Sunshine",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "890208",
+          "showTime": "14:50:00",
+          "screenType": "Vmax",
+          "totalSeats": 277,
+          "soldSeats": 17,
+          "occupancy": 6.14,
+          "gross": 510.0,
+          "maxGross": 8310.0
         }
       ]
     },
     "2026-03-21": {
       "summary": {
-        "shows": 36,
-        "totalSeats": 7198,
-        "soldSeats": 1160,
-        "gross": 37626.0,
-        "occupancy": "16.12%"
+        "shows": 38,
+        "totalSeats": 7752,
+        "soldSeats": 1202,
+        "gross": 38941.0,
+        "occupancy": "15.51%"
       },
       "shows": [
         {
@@ -1212,9 +1257,9 @@
           "showTime": "18:50:00",
           "screenType": "Vmax",
           "totalSeats": 279,
-          "soldSeats": 169,
-          "occupancy": 60.57,
-          "gross": 6084.0,
+          "soldSeats": 171,
+          "occupancy": 61.29,
+          "gross": 6156.0,
           "maxGross": 10044.0
         },
         {
@@ -1632,9 +1677,9 @@
           "showTime": "13:15:00",
           "screenType": "Vmax",
           "totalSeats": 347,
-          "soldSeats": 6,
-          "occupancy": 1.73,
-          "gross": 180.0,
+          "soldSeats": 10,
+          "occupancy": 2.88,
+          "gross": 300.0,
           "maxGross": 10410.0
         },
         {
@@ -1647,9 +1692,9 @@
           "showTime": "19:50:00",
           "screenType": "Gold Class",
           "totalSeats": 40,
-          "soldSeats": 1,
-          "occupancy": 2.5,
-          "gross": 51.5,
+          "soldSeats": 3,
+          "occupancy": 7.5,
+          "gross": 154.5,
           "maxGross": 2060.0
         },
         {
@@ -1741,6 +1786,36 @@
           "occupancy": 6.06,
           "gross": 476.0,
           "maxGross": 7854.0
+        },
+        {
+          "cinemaId": "309",
+          "cinemaName": "Sunshine",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "890234",
+          "showTime": "10:30:00",
+          "screenType": "Vmax",
+          "totalSeats": 277,
+          "soldSeats": 17,
+          "occupancy": 6.14,
+          "gross": 510.0,
+          "maxGross": 8310.0
+        },
+        {
+          "cinemaId": "309",
+          "cinemaName": "Sunshine",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "890258",
+          "showTime": "20:15:00",
+          "screenType": "Vmax",
+          "totalSeats": 277,
+          "soldSeats": 17,
+          "occupancy": 6.14,
+          "gross": 510.0,
+          "maxGross": 8310.0
         }
       ]
     },
