@@ -3,132 +3,27 @@
     "movieName": "Dhurandhar: The Revenge",
     "2026-03-19": {
       "summary": {
-        "shows": 27,
-        "totalSeats": 5180,
-        "soldSeats": 1152,
-        "gross": 238600.0,
-        "occupancy": "22.24%"
+        "shows": 35,
+        "totalSeats": 6331,
+        "soldSeats": 1248,
+        "gross": 41341.0,
+        "occupancy": "19.71%"
       },
       "shows": [
         {
-          "cinemaId": "121",
-          "cinemaName": "Geelong",
-          "city": "VIC Regional",
-          "country": "AU",
-          "Source": "Village Cinemas",
-          "sessionId": "509827",
-          "showTime": "19:00:00",
-          "screenType": "Vpremium",
-          "totalSeats": 254,
-          "soldSeats": 36,
-          "occupancy": 14.17,
-          "gross": 6840.0,
-          "maxGross": 48260.0
-        },
-        {
-          "cinemaId": "302",
-          "cinemaName": "M-City",
+          "cinemaId": "330",
+          "cinemaName": "Fountain Gate",
           "city": "VIC Metro",
           "country": "AU",
           "Source": "Village Cinemas",
-          "sessionId": "46235",
-          "showTime": "14:30:00",
-          "screenType": "Vpremium",
-          "totalSeats": 156,
-          "soldSeats": 23,
-          "occupancy": 14.74,
-          "gross": 3910.0,
-          "maxGross": 26520.0
-        },
-        {
-          "cinemaId": "302",
-          "cinemaName": "M-City",
-          "city": "VIC Metro",
-          "country": "AU",
-          "Source": "Village Cinemas",
-          "sessionId": "46232",
-          "showTime": "19:30:00",
-          "screenType": "Vpremium",
-          "totalSeats": 156,
-          "soldSeats": 65,
-          "occupancy": 41.67,
-          "gross": 11050.0,
-          "maxGross": 26520.0
-        },
-        {
-          "cinemaId": "274",
-          "cinemaName": "Knox",
-          "city": "VIC Metro",
-          "country": "AU",
-          "Source": "Village Cinemas",
-          "sessionId": "718944",
-          "showTime": "17:00:00",
-          "screenType": "Standard",
-          "totalSeats": 284,
-          "soldSeats": 17,
-          "occupancy": 5.99,
-          "gross": 2550.0,
-          "maxGross": 42600.0
-        },
-        {
-          "cinemaId": "274",
-          "cinemaName": "Knox",
-          "city": "VIC Metro",
-          "country": "AU",
-          "Source": "Village Cinemas",
-          "sessionId": "718933",
-          "showTime": "19:45:00",
-          "screenType": "Vmax",
-          "totalSeats": 451,
-          "soldSeats": 109,
-          "occupancy": 24.17,
-          "gross": 21800.0,
-          "maxGross": 90200.0
-        },
-        {
-          "cinemaId": "274",
-          "cinemaName": "Knox",
-          "city": "VIC Metro",
-          "country": "AU",
-          "Source": "Village Cinemas",
-          "sessionId": "719595",
-          "showTime": "20:00:00",
+          "sessionId": "606584",
+          "showTime": "15:15:00",
           "screenType": "Gold Class",
-          "totalSeats": 32,
-          "soldSeats": 25,
-          "occupancy": 78.12,
-          "gross": 7500.0,
-          "maxGross": 9600.0
-        },
-        {
-          "cinemaId": "303",
-          "cinemaName": "Crown",
-          "city": "VIC Metro",
-          "country": "AU",
-          "Source": "Village Cinemas",
-          "sessionId": "658655",
-          "showTime": "19:15:00",
-          "screenType": "Vmax",
-          "totalSeats": 355,
-          "soldSeats": 103,
-          "occupancy": 29.01,
-          "gross": 20600.0,
-          "maxGross": 71000.0
-        },
-        {
-          "cinemaId": "303",
-          "cinemaName": "Crown",
-          "city": "VIC Metro",
-          "country": "AU",
-          "Source": "Village Cinemas",
-          "sessionId": "658876",
-          "showTime": "20:15:00",
-          "screenType": "Gold Class",
-          "totalSeats": 28,
-          "soldSeats": 24,
-          "occupancy": 85.71,
-          "gross": 7200.0,
-          "maxGross": 8400.0
+          "totalSeats": 40,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 2060.0
         },
         {
           "cinemaId": "330",
@@ -140,10 +35,25 @@
           "showTime": "18:50:00",
           "screenType": "Vmax",
           "totalSeats": 279,
-          "soldSeats": 131,
-          "occupancy": 46.95,
-          "gross": 32750.0,
-          "maxGross": 69750.0
+          "soldSeats": 139,
+          "occupancy": 49.82,
+          "gross": 5004.0,
+          "maxGross": 10044.0
+        },
+        {
+          "cinemaId": "330",
+          "cinemaName": "Fountain Gate",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "606583",
+          "showTime": "19:15:00",
+          "screenType": "Gold Class",
+          "totalSeats": 40,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 2060.0
         },
         {
           "cinemaId": "330",
@@ -157,8 +67,8 @@
           "totalSeats": 40,
           "soldSeats": 40,
           "occupancy": 100.0,
-          "gross": 12000.0,
-          "maxGross": 12000.0
+          "gross": 2060.0,
+          "maxGross": 2060.0
         },
         {
           "cinemaId": "080",
@@ -172,8 +82,8 @@
           "totalSeats": 40,
           "soldSeats": 2,
           "occupancy": 5.0,
-          "gross": 600.0,
-          "maxGross": 12000.0
+          "gross": 103.0,
+          "maxGross": 2060.0
         },
         {
           "cinemaId": "080",
@@ -187,8 +97,23 @@
           "totalSeats": 163,
           "soldSeats": 15,
           "occupancy": 9.2,
-          "gross": 2250.0,
-          "maxGross": 24450.0
+          "gross": 390.0,
+          "maxGross": 4238.0
+        },
+        {
+          "cinemaId": "080",
+          "cinemaName": "Werribee",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "321595",
+          "showTime": "15:45:00",
+          "screenType": "Standard",
+          "totalSeats": 162,
+          "soldSeats": 15,
+          "occupancy": 9.26,
+          "gross": 390.0,
+          "maxGross": 4212.0
         },
         {
           "cinemaId": "080",
@@ -200,10 +125,10 @@
           "showTime": "18:00:00",
           "screenType": "Standard",
           "totalSeats": 163,
-          "soldSeats": 39,
-          "occupancy": 23.93,
-          "gross": 5850.0,
-          "maxGross": 24450.0
+          "soldSeats": 40,
+          "occupancy": 24.54,
+          "gross": 1040.0,
+          "maxGross": 4238.0
         },
         {
           "cinemaId": "080",
@@ -215,10 +140,10 @@
           "showTime": "19:00:00",
           "screenType": "Standard",
           "totalSeats": 163,
-          "soldSeats": 38,
-          "occupancy": 23.31,
-          "gross": 5700.0,
-          "maxGross": 24450.0
+          "soldSeats": 42,
+          "occupancy": 25.77,
+          "gross": 1092.0,
+          "maxGross": 4238.0
         },
         {
           "cinemaId": "080",
@@ -232,8 +157,8 @@
           "totalSeats": 40,
           "soldSeats": 37,
           "occupancy": 92.5,
-          "gross": 11100.0,
-          "maxGross": 12000.0
+          "gross": 1905.5,
+          "maxGross": 2060.0
         },
         {
           "cinemaId": "080",
@@ -245,10 +170,10 @@
           "showTime": "19:30:00",
           "screenType": "Standard",
           "totalSeats": 163,
-          "soldSeats": 70,
-          "occupancy": 42.94,
-          "gross": 10500.0,
-          "maxGross": 24450.0
+          "soldSeats": 74,
+          "occupancy": 45.4,
+          "gross": 1924.0,
+          "maxGross": 4238.0
         },
         {
           "cinemaId": "080",
@@ -260,10 +185,10 @@
           "showTime": "20:30:00",
           "screenType": "Standard",
           "totalSeats": 162,
-          "soldSeats": 23,
-          "occupancy": 14.2,
-          "gross": 3450.0,
-          "maxGross": 24300.0
+          "soldSeats": 31,
+          "occupancy": 19.14,
+          "gross": 806.0,
+          "maxGross": 4212.0
         },
         {
           "cinemaId": "309",
@@ -277,8 +202,8 @@
           "totalSeats": 24,
           "soldSeats": 13,
           "occupancy": 54.17,
-          "gross": 3900.0,
-          "maxGross": 7200.0
+          "gross": 669.5,
+          "maxGross": 1236.0
         },
         {
           "cinemaId": "309",
@@ -292,8 +217,8 @@
           "totalSeats": 430,
           "soldSeats": 24,
           "occupancy": 5.58,
-          "gross": 3600.0,
-          "maxGross": 64500.0
+          "gross": 624.0,
+          "maxGross": 11180.0
         },
         {
           "cinemaId": "309",
@@ -307,8 +232,8 @@
           "totalSeats": 32,
           "soldSeats": 20,
           "occupancy": 62.5,
-          "gross": 6000.0,
-          "maxGross": 9600.0
+          "gross": 1030.0,
+          "maxGross": 1648.0
         },
         {
           "cinemaId": "309",
@@ -320,25 +245,10 @@
           "showTime": "19:45:00",
           "screenType": "Vmax",
           "totalSeats": 277,
-          "soldSeats": 89,
-          "occupancy": 32.13,
-          "gross": 16910.0,
-          "maxGross": 52630.0
-        },
-        {
-          "cinemaId": "311",
-          "cinemaName": "Century City",
-          "city": "VIC Metro",
-          "country": "AU",
-          "Source": "Village Cinemas",
-          "sessionId": "464717",
-          "showTime": "19:15:00",
-          "screenType": "Standard",
-          "totalSeats": 445,
-          "soldSeats": 42,
-          "occupancy": 9.44,
-          "gross": 6300.0,
-          "maxGross": 66750.0
+          "soldSeats": 93,
+          "occupancy": 33.57,
+          "gross": 2790.0,
+          "maxGross": 8310.0
         },
         {
           "cinemaId": "282",
@@ -352,8 +262,248 @@
           "totalSeats": 231,
           "soldSeats": 56,
           "occupancy": 24.24,
-          "gross": 14000.0,
-          "maxGross": 57750.0
+          "gross": 2016.0,
+          "maxGross": 8316.0
+        },
+        {
+          "cinemaId": "311",
+          "cinemaName": "Century City",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "464723",
+          "showTime": "15:00:00",
+          "screenType": "Vmax",
+          "totalSeats": 278,
+          "soldSeats": 4,
+          "occupancy": 1.44,
+          "gross": 120.0,
+          "maxGross": 8340.0
+        },
+        {
+          "cinemaId": "311",
+          "cinemaName": "Century City",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "464717",
+          "showTime": "19:15:00",
+          "screenType": "Standard",
+          "totalSeats": 445,
+          "soldSeats": 52,
+          "occupancy": 11.69,
+          "gross": 1352.0,
+          "maxGross": 11570.0
+        },
+        {
+          "cinemaId": "311",
+          "cinemaName": "Century City",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "465159",
+          "showTime": "20:00:00",
+          "screenType": "Gold Class",
+          "totalSeats": 30,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 1365.0
+        },
+        {
+          "cinemaId": "285",
+          "cinemaName": "Plenty Valley",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "125895",
+          "showTime": "19:30:00",
+          "screenType": "Vmax",
+          "totalSeats": 427,
+          "soldSeats": 82,
+          "occupancy": 19.2,
+          "gross": 2460.0,
+          "maxGross": 12810.0
+        },
+        {
+          "cinemaId": "285",
+          "cinemaName": "Plenty Valley",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "126460",
+          "showTime": "19:45:00",
+          "screenType": "Gold Class",
+          "totalSeats": 40,
+          "soldSeats": 26,
+          "occupancy": 65.0,
+          "gross": 1339.0,
+          "maxGross": 2060.0
+        },
+        {
+          "cinemaId": "303",
+          "cinemaName": "Crown",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "661291",
+          "showTime": "14:30:00",
+          "screenType": "Vmax",
+          "totalSeats": 355,
+          "soldSeats": 5,
+          "occupancy": 1.41,
+          "gross": 150.0,
+          "maxGross": 10650.0
+        },
+        {
+          "cinemaId": "303",
+          "cinemaName": "Crown",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "661284",
+          "showTime": "19:00:00",
+          "screenType": "Gold Class",
+          "totalSeats": 28,
+          "soldSeats": 5,
+          "occupancy": 17.86,
+          "gross": 257.5,
+          "maxGross": 1442.0
+        },
+        {
+          "cinemaId": "303",
+          "cinemaName": "Crown",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "658655",
+          "showTime": "19:15:00",
+          "screenType": "Vmax",
+          "totalSeats": 355,
+          "soldSeats": 107,
+          "occupancy": 30.14,
+          "gross": 3424.0,
+          "maxGross": 11360.0
+        },
+        {
+          "cinemaId": "303",
+          "cinemaName": "Crown",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "658876",
+          "showTime": "20:15:00",
+          "screenType": "Gold Class",
+          "totalSeats": 28,
+          "soldSeats": 24,
+          "occupancy": 85.71,
+          "gross": 1236.0,
+          "maxGross": 1442.0
+        },
+        {
+          "cinemaId": "302",
+          "cinemaName": "M-City",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "46235",
+          "showTime": "14:30:00",
+          "screenType": "Vpremium",
+          "totalSeats": 156,
+          "soldSeats": 25,
+          "occupancy": 16.03,
+          "gross": 700.0,
+          "maxGross": 4368.0
+        },
+        {
+          "cinemaId": "302",
+          "cinemaName": "M-City",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "46232",
+          "showTime": "19:30:00",
+          "screenType": "Vpremium",
+          "totalSeats": 156,
+          "soldSeats": 72,
+          "occupancy": 46.15,
+          "gross": 2016.0,
+          "maxGross": 4368.0
+        },
+        {
+          "cinemaId": "274",
+          "cinemaName": "Knox",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "719594",
+          "showTime": "15:00:00",
+          "screenType": "",
+          "totalSeats": 218,
+          "soldSeats": 6,
+          "occupancy": 2.75,
+          "gross": 156.0,
+          "maxGross": 5668.0
+        },
+        {
+          "cinemaId": "274",
+          "cinemaName": "Knox",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "718944",
+          "showTime": "17:00:00",
+          "screenType": "Standard",
+          "totalSeats": 284,
+          "soldSeats": 17,
+          "occupancy": 5.99,
+          "gross": 442.0,
+          "maxGross": 7384.0
+        },
+        {
+          "cinemaId": "274",
+          "cinemaName": "Knox",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "718933",
+          "showTime": "19:45:00",
+          "screenType": "Vmax",
+          "totalSeats": 451,
+          "soldSeats": 109,
+          "occupancy": 24.17,
+          "gross": 3379.0,
+          "maxGross": 13981.0
+        },
+        {
+          "cinemaId": "274",
+          "cinemaName": "Knox",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "719595",
+          "showTime": "20:00:00",
+          "screenType": "Gold Class",
+          "totalSeats": 32,
+          "soldSeats": 25,
+          "occupancy": 78.12,
+          "gross": 1287.5,
+          "maxGross": 1648.0
+        },
+        {
+          "cinemaId": "121",
+          "cinemaName": "Geelong",
+          "city": "VIC Regional",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "509827",
+          "showTime": "19:00:00",
+          "screenType": "Vpremium",
+          "totalSeats": 254,
+          "soldSeats": 38,
+          "occupancy": 14.96,
+          "gross": 988.0,
+          "maxGross": 6604.0
         },
         {
           "cinemaId": "272",
@@ -384,152 +534,32 @@
           "occupancy": 4.05,
           "gross": 133.0,
           "maxGross": 3287.0
-        },
-        {
-          "cinemaId": "285",
-          "cinemaName": "Plenty Valley",
-          "city": "VIC Metro",
-          "country": "AU",
-          "Source": "Village Cinemas",
-          "sessionId": "125895",
-          "showTime": "19:30:00",
-          "screenType": "Vmax",
-          "totalSeats": 427,
-          "soldSeats": 75,
-          "occupancy": 17.56,
-          "gross": 14250.0,
-          "maxGross": 81130.0
-        },
-        {
-          "cinemaId": "285",
-          "cinemaName": "Plenty Valley",
-          "city": "VIC Metro",
-          "country": "AU",
-          "Source": "Village Cinemas",
-          "sessionId": "126460",
-          "showTime": "19:45:00",
-          "screenType": "Gold Class",
-          "totalSeats": 40,
-          "soldSeats": 26,
-          "occupancy": 65.0,
-          "gross": 7800.0,
-          "maxGross": 12000.0
         }
       ]
     },
     "2026-03-20": {
       "summary": {
-        "shows": 25,
-        "totalSeats": 5001,
-        "soldSeats": 1155,
-        "gross": 237350.0,
-        "occupancy": "23.1%"
+        "shows": 33,
+        "totalSeats": 6399,
+        "soldSeats": 1239,
+        "gross": 40402.5,
+        "occupancy": "19.36%"
       },
       "shows": [
         {
-          "cinemaId": "121",
-          "cinemaName": "Geelong",
-          "city": "VIC Regional",
-          "country": "AU",
-          "Source": "Village Cinemas",
-          "sessionId": "510808",
-          "showTime": "19:00:00",
-          "screenType": "Vpremium",
-          "totalSeats": 254,
-          "soldSeats": 46,
-          "occupancy": 18.11,
-          "gross": 8740.0,
-          "maxGross": 48260.0
-        },
-        {
-          "cinemaId": "302",
-          "cinemaName": "M-City",
+          "cinemaId": "330",
+          "cinemaName": "Fountain Gate",
           "city": "VIC Metro",
           "country": "AU",
           "Source": "Village Cinemas",
-          "sessionId": "46456",
-          "showTime": "14:30:00",
-          "screenType": "Vpremium",
-          "totalSeats": 156,
-          "soldSeats": 12,
-          "occupancy": 7.69,
-          "gross": 2040.0,
-          "maxGross": 26520.0
-        },
-        {
-          "cinemaId": "274",
-          "cinemaName": "Knox",
-          "city": "VIC Metro",
-          "country": "AU",
-          "Source": "Village Cinemas",
-          "sessionId": "719665",
-          "showTime": "17:00:00",
-          "screenType": "Standard",
-          "totalSeats": 284,
-          "soldSeats": 16,
-          "occupancy": 5.63,
-          "gross": 2400.0,
-          "maxGross": 42600.0
-        },
-        {
-          "cinemaId": "274",
-          "cinemaName": "Knox",
-          "city": "VIC Metro",
-          "country": "AU",
-          "Source": "Village Cinemas",
-          "sessionId": "719676",
-          "showTime": "19:45:00",
+          "sessionId": "606590",
+          "showTime": "12:00:00",
           "screenType": "Gold Class",
-          "totalSeats": 32,
-          "soldSeats": 11,
-          "occupancy": 34.38,
-          "gross": 3300.0,
-          "maxGross": 9600.0
-        },
-        {
-          "cinemaId": "274",
-          "cinemaName": "Knox",
-          "city": "VIC Metro",
-          "country": "AU",
-          "Source": "Village Cinemas",
-          "sessionId": "719675",
-          "showTime": "19:45:00",
-          "screenType": "Vmax",
-          "totalSeats": 451,
-          "soldSeats": 141,
-          "occupancy": 31.26,
-          "gross": 28200.0,
-          "maxGross": 90200.0
-        },
-        {
-          "cinemaId": "303",
-          "cinemaName": "Crown",
-          "city": "VIC Metro",
-          "country": "AU",
-          "Source": "Village Cinemas",
-          "sessionId": "659479",
-          "showTime": "19:15:00",
-          "screenType": "Vmax",
-          "totalSeats": 355,
-          "soldSeats": 89,
-          "occupancy": 25.07,
-          "gross": 17800.0,
-          "maxGross": 71000.0
-        },
-        {
-          "cinemaId": "303",
-          "cinemaName": "Crown",
-          "city": "VIC Metro",
-          "country": "AU",
-          "Source": "Village Cinemas",
-          "sessionId": "659622",
-          "showTime": "20:15:00",
-          "screenType": "Gold Class",
-          "totalSeats": 28,
-          "soldSeats": 28,
-          "occupancy": 100.0,
-          "gross": 8400.0,
-          "maxGross": 8400.0
+          "totalSeats": 40,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 2060.0
         },
         {
           "cinemaId": "330",
@@ -541,10 +571,10 @@
           "showTime": "18:50:00",
           "screenType": "Vmax",
           "totalSeats": 279,
-          "soldSeats": 197,
-          "occupancy": 70.61,
-          "gross": 49250.0,
-          "maxGross": 69750.0
+          "soldSeats": 199,
+          "occupancy": 71.33,
+          "gross": 7164.0,
+          "maxGross": 10044.0
         },
         {
           "cinemaId": "330",
@@ -556,10 +586,10 @@
           "showTime": "20:15:00",
           "screenType": "Gold Class",
           "totalSeats": 40,
-          "soldSeats": 6,
-          "occupancy": 15.0,
-          "gross": 1800.0,
-          "maxGross": 12000.0
+          "soldSeats": 12,
+          "occupancy": 30.0,
+          "gross": 618.0,
+          "maxGross": 2060.0
         },
         {
           "cinemaId": "080",
@@ -573,8 +603,8 @@
           "totalSeats": 40,
           "soldSeats": 6,
           "occupancy": 15.0,
-          "gross": 1800.0,
-          "maxGross": 12000.0
+          "gross": 309.0,
+          "maxGross": 2060.0
         },
         {
           "cinemaId": "080",
@@ -586,10 +616,10 @@
           "showTime": "10:45:00",
           "screenType": "Standard",
           "totalSeats": 163,
-          "soldSeats": 5,
-          "occupancy": 3.07,
-          "gross": 750.0,
-          "maxGross": 24450.0
+          "soldSeats": 7,
+          "occupancy": 4.29,
+          "gross": 182.0,
+          "maxGross": 4238.0
         },
         {
           "cinemaId": "080",
@@ -603,8 +633,8 @@
           "totalSeats": 40,
           "soldSeats": 2,
           "occupancy": 5.0,
-          "gross": 600.0,
-          "maxGross": 12000.0
+          "gross": 103.0,
+          "maxGross": 2060.0
         },
         {
           "cinemaId": "080",
@@ -618,8 +648,8 @@
           "totalSeats": 163,
           "soldSeats": 4,
           "occupancy": 2.45,
-          "gross": 600.0,
-          "maxGross": 24450.0
+          "gross": 104.0,
+          "maxGross": 4238.0
         },
         {
           "cinemaId": "080",
@@ -631,10 +661,10 @@
           "showTime": "18:00:00",
           "screenType": "Standard",
           "totalSeats": 163,
-          "soldSeats": 40,
-          "occupancy": 24.54,
-          "gross": 6000.0,
-          "maxGross": 24450.0
+          "soldSeats": 42,
+          "occupancy": 25.77,
+          "gross": 1092.0,
+          "maxGross": 4238.0
         },
         {
           "cinemaId": "080",
@@ -646,10 +676,10 @@
           "showTime": "19:15:00",
           "screenType": "Gold Class",
           "totalSeats": 40,
-          "soldSeats": 30,
-          "occupancy": 75.0,
-          "gross": 9000.0,
-          "maxGross": 12000.0
+          "soldSeats": 40,
+          "occupancy": 100.0,
+          "gross": 2060.0,
+          "maxGross": 2060.0
         },
         {
           "cinemaId": "080",
@@ -663,8 +693,8 @@
           "totalSeats": 163,
           "soldSeats": 85,
           "occupancy": 52.15,
-          "gross": 12750.0,
-          "maxGross": 24450.0
+          "gross": 2210.0,
+          "maxGross": 4238.0
         },
         {
           "cinemaId": "080",
@@ -676,10 +706,10 @@
           "showTime": "20:30:00",
           "screenType": "Standard",
           "totalSeats": 163,
-          "soldSeats": 18,
-          "occupancy": 11.04,
-          "gross": 2700.0,
-          "maxGross": 24450.0
+          "soldSeats": 20,
+          "occupancy": 12.27,
+          "gross": 520.0,
+          "maxGross": 4238.0
         },
         {
           "cinemaId": "309",
@@ -693,8 +723,8 @@
           "totalSeats": 430,
           "soldSeats": 23,
           "occupancy": 5.35,
-          "gross": 3450.0,
-          "maxGross": 64500.0
+          "gross": 598.0,
+          "maxGross": 11180.0
         },
         {
           "cinemaId": "309",
@@ -708,8 +738,8 @@
           "totalSeats": 32,
           "soldSeats": 22,
           "occupancy": 68.75,
-          "gross": 6600.0,
-          "maxGross": 9600.0
+          "gross": 1133.0,
+          "maxGross": 1648.0
         },
         {
           "cinemaId": "309",
@@ -723,23 +753,8 @@
           "totalSeats": 277,
           "soldSeats": 107,
           "occupancy": 38.63,
-          "gross": 20330.0,
-          "maxGross": 52630.0
-        },
-        {
-          "cinemaId": "311",
-          "cinemaName": "Century City",
-          "city": "VIC Metro",
-          "country": "AU",
-          "Source": "Village Cinemas",
-          "sessionId": "465467",
-          "showTime": "19:15:00",
-          "screenType": "Standard",
-          "totalSeats": 445,
-          "soldSeats": 82,
-          "occupancy": 18.43,
-          "gross": 12300.0,
-          "maxGross": 66750.0
+          "gross": 3210.0,
+          "maxGross": 8310.0
         },
         {
           "cinemaId": "282",
@@ -753,8 +768,248 @@
           "totalSeats": 231,
           "soldSeats": 85,
           "occupancy": 36.8,
-          "gross": 21250.0,
-          "maxGross": 57750.0
+          "gross": 3060.0,
+          "maxGross": 8316.0
+        },
+        {
+          "cinemaId": "311",
+          "cinemaName": "Century City",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "466199",
+          "showTime": "14:15:00",
+          "screenType": "Standard",
+          "totalSeats": 445,
+          "soldSeats": 8,
+          "occupancy": 1.8,
+          "gross": 208.0,
+          "maxGross": 11570.0
+        },
+        {
+          "cinemaId": "311",
+          "cinemaName": "Century City",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "465467",
+          "showTime": "19:15:00",
+          "screenType": "Standard",
+          "totalSeats": 445,
+          "soldSeats": 86,
+          "occupancy": 19.33,
+          "gross": 2236.0,
+          "maxGross": 11570.0
+        },
+        {
+          "cinemaId": "311",
+          "cinemaName": "Century City",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "466203",
+          "showTime": "20:00:00",
+          "screenType": "Gold Class",
+          "totalSeats": 30,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 1365.0
+        },
+        {
+          "cinemaId": "285",
+          "cinemaName": "Plenty Valley",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "126408",
+          "showTime": "19:30:00",
+          "screenType": "Vmax",
+          "totalSeats": 427,
+          "soldSeats": 91,
+          "occupancy": 21.31,
+          "gross": 2730.0,
+          "maxGross": 12810.0
+        },
+        {
+          "cinemaId": "303",
+          "cinemaName": "Crown",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "659460",
+          "showTime": "13:30:00",
+          "screenType": "Vmax",
+          "totalSeats": 354,
+          "soldSeats": 7,
+          "occupancy": 1.98,
+          "gross": 224.0,
+          "maxGross": 11328.0
+        },
+        {
+          "cinemaId": "303",
+          "cinemaName": "Crown",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "661264",
+          "showTime": "14:30:00",
+          "screenType": "Gold Class",
+          "totalSeats": 28,
+          "soldSeats": 2,
+          "occupancy": 7.14,
+          "gross": 103.0,
+          "maxGross": 1442.0
+        },
+        {
+          "cinemaId": "303",
+          "cinemaName": "Crown",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "661258",
+          "showTime": "19:00:00",
+          "screenType": "Gold Class",
+          "totalSeats": 28,
+          "soldSeats": 2,
+          "occupancy": 7.14,
+          "gross": 103.0,
+          "maxGross": 1442.0
+        },
+        {
+          "cinemaId": "303",
+          "cinemaName": "Crown",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "659479",
+          "showTime": "19:15:00",
+          "screenType": "Vmax",
+          "totalSeats": 355,
+          "soldSeats": 111,
+          "occupancy": 31.27,
+          "gross": 3552.0,
+          "maxGross": 11360.0
+        },
+        {
+          "cinemaId": "303",
+          "cinemaName": "Crown",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "659622",
+          "showTime": "20:15:00",
+          "screenType": "Gold Class",
+          "totalSeats": 28,
+          "soldSeats": 28,
+          "occupancy": 100.0,
+          "gross": 1442.0,
+          "maxGross": 1442.0
+        },
+        {
+          "cinemaId": "302",
+          "cinemaName": "M-City",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "46456",
+          "showTime": "14:30:00",
+          "screenType": "Vpremium",
+          "totalSeats": 156,
+          "soldSeats": 13,
+          "occupancy": 8.33,
+          "gross": 364.0,
+          "maxGross": 4368.0
+        },
+        {
+          "cinemaId": "274",
+          "cinemaName": "Knox",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "719655",
+          "showTime": "12:00:00",
+          "screenType": "",
+          "totalSeats": 284,
+          "soldSeats": 4,
+          "occupancy": 1.41,
+          "gross": 104.0,
+          "maxGross": 7384.0
+        },
+        {
+          "cinemaId": "274",
+          "cinemaName": "Knox",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "719660",
+          "showTime": "14:40:00",
+          "screenType": "",
+          "totalSeats": 189,
+          "soldSeats": 5,
+          "occupancy": 2.65,
+          "gross": 130.0,
+          "maxGross": 4914.0
+        },
+        {
+          "cinemaId": "274",
+          "cinemaName": "Knox",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "719665",
+          "showTime": "17:00:00",
+          "screenType": "Standard",
+          "totalSeats": 284,
+          "soldSeats": 20,
+          "occupancy": 7.04,
+          "gross": 520.0,
+          "maxGross": 7384.0
+        },
+        {
+          "cinemaId": "274",
+          "cinemaName": "Knox",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "719676",
+          "showTime": "19:45:00",
+          "screenType": "Gold Class",
+          "totalSeats": 32,
+          "soldSeats": 11,
+          "occupancy": 34.38,
+          "gross": 566.5,
+          "maxGross": 1648.0
+        },
+        {
+          "cinemaId": "274",
+          "cinemaName": "Knox",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "719675",
+          "showTime": "19:45:00",
+          "screenType": "Vmax",
+          "totalSeats": 451,
+          "soldSeats": 141,
+          "occupancy": 31.26,
+          "gross": 4371.0,
+          "maxGross": 13981.0
+        },
+        {
+          "cinemaId": "121",
+          "cinemaName": "Geelong",
+          "city": "VIC Regional",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "510808",
+          "showTime": "19:00:00",
+          "screenType": "Vpremium",
+          "totalSeats": 254,
+          "soldSeats": 46,
+          "occupancy": 18.11,
+          "gross": 1196.0,
+          "maxGross": 6604.0
         },
         {
           "cinemaId": "272",
@@ -785,93 +1040,18 @@
           "occupancy": 4.05,
           "gross": 133.0,
           "maxGross": 3287.0
-        },
-        {
-          "cinemaId": "285",
-          "cinemaName": "Plenty Valley",
-          "city": "VIC Metro",
-          "country": "AU",
-          "Source": "Village Cinemas",
-          "sessionId": "126408",
-          "showTime": "19:30:00",
-          "screenType": "Vmax",
-          "totalSeats": 427,
-          "soldSeats": 90,
-          "occupancy": 21.08,
-          "gross": 17100.0,
-          "maxGross": 81130.0
         }
       ]
     },
     "2026-03-21": {
       "summary": {
-        "shows": 21,
-        "totalSeats": 4423,
-        "soldSeats": 981,
-        "gross": 199010.0,
-        "occupancy": "22.18%"
+        "shows": 28,
+        "totalSeats": 5530,
+        "soldSeats": 1024,
+        "gross": 33693.0,
+        "occupancy": "18.52%"
       },
       "shows": [
-        {
-          "cinemaId": "121",
-          "cinemaName": "Geelong",
-          "city": "VIC Regional",
-          "country": "AU",
-          "Source": "Village Cinemas",
-          "sessionId": "510809",
-          "showTime": "19:00:00",
-          "screenType": "Vpremium",
-          "totalSeats": 254,
-          "soldSeats": 14,
-          "occupancy": 5.51,
-          "gross": 2660.0,
-          "maxGross": 48260.0
-        },
-        {
-          "cinemaId": "274",
-          "cinemaName": "Knox",
-          "city": "VIC Metro",
-          "country": "AU",
-          "Source": "Village Cinemas",
-          "sessionId": "719700",
-          "showTime": "17:00:00",
-          "screenType": "Standard",
-          "totalSeats": 284,
-          "soldSeats": 35,
-          "occupancy": 12.32,
-          "gross": 5250.0,
-          "maxGross": 42600.0
-        },
-        {
-          "cinemaId": "274",
-          "cinemaName": "Knox",
-          "city": "VIC Metro",
-          "country": "AU",
-          "Source": "Village Cinemas",
-          "sessionId": "719710",
-          "showTime": "19:45:00",
-          "screenType": "Vmax",
-          "totalSeats": 451,
-          "soldSeats": 96,
-          "occupancy": 21.29,
-          "gross": 19200.0,
-          "maxGross": 90200.0
-        },
-        {
-          "cinemaId": "303",
-          "cinemaName": "Crown",
-          "city": "VIC Metro",
-          "country": "AU",
-          "Source": "Village Cinemas",
-          "sessionId": "659526",
-          "showTime": "19:15:00",
-          "screenType": "Vmax",
-          "totalSeats": 355,
-          "soldSeats": 97,
-          "occupancy": 27.32,
-          "gross": 19400.0,
-          "maxGross": 71000.0
-        },
         {
           "cinemaId": "330",
           "cinemaName": "Fountain Gate",
@@ -882,10 +1062,10 @@
           "showTime": "18:50:00",
           "screenType": "Vmax",
           "totalSeats": 279,
-          "soldSeats": 169,
-          "occupancy": 60.57,
-          "gross": 42250.0,
-          "maxGross": 69750.0
+          "soldSeats": 171,
+          "occupancy": 61.29,
+          "gross": 6156.0,
+          "maxGross": 10044.0
         },
         {
           "cinemaId": "330",
@@ -897,10 +1077,10 @@
           "showTime": "20:15:00",
           "screenType": "Gold Class",
           "totalSeats": 40,
-          "soldSeats": 10,
-          "occupancy": 25.0,
-          "gross": 3000.0,
-          "maxGross": 12000.0
+          "soldSeats": 12,
+          "occupancy": 30.0,
+          "gross": 618.0,
+          "maxGross": 2060.0
         },
         {
           "cinemaId": "080",
@@ -912,10 +1092,10 @@
           "showTime": "09:45:00",
           "screenType": "Gold Class",
           "totalSeats": 40,
-          "soldSeats": 25,
-          "occupancy": 62.5,
-          "gross": 7500.0,
-          "maxGross": 12000.0
+          "soldSeats": 27,
+          "occupancy": 67.5,
+          "gross": 1390.5,
+          "maxGross": 2060.0
         },
         {
           "cinemaId": "080",
@@ -929,8 +1109,8 @@
           "totalSeats": 163,
           "soldSeats": 53,
           "occupancy": 32.52,
-          "gross": 7950.0,
-          "maxGross": 24450.0
+          "gross": 1378.0,
+          "maxGross": 4238.0
         },
         {
           "cinemaId": "080",
@@ -944,8 +1124,8 @@
           "totalSeats": 40,
           "soldSeats": 27,
           "occupancy": 67.5,
-          "gross": 8100.0,
-          "maxGross": 12000.0
+          "gross": 1390.5,
+          "maxGross": 2060.0
         },
         {
           "cinemaId": "080",
@@ -959,8 +1139,8 @@
           "totalSeats": 163,
           "soldSeats": 9,
           "occupancy": 5.52,
-          "gross": 1350.0,
-          "maxGross": 24450.0
+          "gross": 234.0,
+          "maxGross": 4238.0
         },
         {
           "cinemaId": "080",
@@ -974,8 +1154,8 @@
           "totalSeats": 163,
           "soldSeats": 60,
           "occupancy": 36.81,
-          "gross": 9000.0,
-          "maxGross": 24450.0
+          "gross": 1560.0,
+          "maxGross": 4238.0
         },
         {
           "cinemaId": "080",
@@ -989,8 +1169,8 @@
           "totalSeats": 40,
           "soldSeats": 35,
           "occupancy": 87.5,
-          "gross": 10500.0,
-          "maxGross": 12000.0
+          "gross": 1802.5,
+          "maxGross": 2060.0
         },
         {
           "cinemaId": "080",
@@ -1002,10 +1182,25 @@
           "showTime": "19:30:00",
           "screenType": "Standard",
           "totalSeats": 163,
-          "soldSeats": 56,
-          "occupancy": 34.36,
-          "gross": 8400.0,
-          "maxGross": 24450.0
+          "soldSeats": 54,
+          "occupancy": 33.13,
+          "gross": 1404.0,
+          "maxGross": 4238.0
+        },
+        {
+          "cinemaId": "080",
+          "cinemaName": "Werribee",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "320220",
+          "showTime": "20:30:00",
+          "screenType": "Standard",
+          "totalSeats": 163,
+          "soldSeats": 4,
+          "occupancy": 2.45,
+          "gross": 104.0,
+          "maxGross": 4238.0
         },
         {
           "cinemaId": "309",
@@ -1019,8 +1214,8 @@
           "totalSeats": 32,
           "soldSeats": 26,
           "occupancy": 81.25,
-          "gross": 7800.0,
-          "maxGross": 9600.0
+          "gross": 1339.0,
+          "maxGross": 1648.0
         },
         {
           "cinemaId": "309",
@@ -1034,8 +1229,8 @@
           "totalSeats": 277,
           "soldSeats": 55,
           "occupancy": 19.86,
-          "gross": 10450.0,
-          "maxGross": 52630.0
+          "gross": 1650.0,
+          "maxGross": 8310.0
         },
         {
           "cinemaId": "309",
@@ -1047,10 +1242,10 @@
           "showTime": "18:30:00",
           "screenType": "Standard",
           "totalSeats": 430,
-          "soldSeats": 52,
-          "occupancy": 12.09,
-          "gross": 7800.0,
-          "maxGross": 64500.0
+          "soldSeats": 56,
+          "occupancy": 13.02,
+          "gross": 1456.0,
+          "maxGross": 11180.0
         },
         {
           "cinemaId": "309",
@@ -1064,8 +1259,8 @@
           "totalSeats": 32,
           "soldSeats": 19,
           "occupancy": 59.38,
-          "gross": 5700.0,
-          "maxGross": 9600.0
+          "gross": 978.5,
+          "maxGross": 1648.0
         },
         {
           "cinemaId": "311",
@@ -1077,10 +1272,175 @@
           "showTime": "19:15:00",
           "screenType": "Standard",
           "totalSeats": 445,
-          "soldSeats": 69,
-          "occupancy": 15.51,
-          "gross": 10350.0,
-          "maxGross": 66750.0
+          "soldSeats": 70,
+          "occupancy": 15.73,
+          "gross": 1820.0,
+          "maxGross": 11570.0
+        },
+        {
+          "cinemaId": "285",
+          "cinemaName": "Plenty Valley",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "126431",
+          "showTime": "19:30:00",
+          "screenType": "Vmax",
+          "totalSeats": 427,
+          "soldSeats": 64,
+          "occupancy": 14.99,
+          "gross": 1920.0,
+          "maxGross": 12810.0
+        },
+        {
+          "cinemaId": "303",
+          "cinemaName": "Crown",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "659507",
+          "showTime": "13:30:00",
+          "screenType": "Vmax",
+          "totalSeats": 354,
+          "soldSeats": 7,
+          "occupancy": 1.98,
+          "gross": 224.0,
+          "maxGross": 11328.0
+        },
+        {
+          "cinemaId": "303",
+          "cinemaName": "Crown",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "661235",
+          "showTime": "14:30:00",
+          "screenType": "Gold Class",
+          "totalSeats": 28,
+          "soldSeats": 2,
+          "occupancy": 7.14,
+          "gross": 103.0,
+          "maxGross": 1442.0
+        },
+        {
+          "cinemaId": "303",
+          "cinemaName": "Crown",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "661233",
+          "showTime": "19:00:00",
+          "screenType": "Gold Class",
+          "totalSeats": 28,
+          "soldSeats": 2,
+          "occupancy": 7.14,
+          "gross": 103.0,
+          "maxGross": 1442.0
+        },
+        {
+          "cinemaId": "303",
+          "cinemaName": "Crown",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "659526",
+          "showTime": "19:15:00",
+          "screenType": "Vmax",
+          "totalSeats": 355,
+          "soldSeats": 101,
+          "occupancy": 28.45,
+          "gross": 3232.0,
+          "maxGross": 11360.0
+        },
+        {
+          "cinemaId": "274",
+          "cinemaName": "Knox",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "719690",
+          "showTime": "12:00:00",
+          "screenType": "",
+          "totalSeats": 284,
+          "soldSeats": 4,
+          "occupancy": 1.41,
+          "gross": 104.0,
+          "maxGross": 7384.0
+        },
+        {
+          "cinemaId": "274",
+          "cinemaName": "Knox",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "719695",
+          "showTime": "14:40:00",
+          "screenType": "",
+          "totalSeats": 218,
+          "soldSeats": 6,
+          "occupancy": 2.75,
+          "gross": 156.0,
+          "maxGross": 5668.0
+        },
+        {
+          "cinemaId": "274",
+          "cinemaName": "Knox",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "719700",
+          "showTime": "17:00:00",
+          "screenType": "Standard",
+          "totalSeats": 284,
+          "soldSeats": 37,
+          "occupancy": 13.03,
+          "gross": 962.0,
+          "maxGross": 7384.0
+        },
+        {
+          "cinemaId": "274",
+          "cinemaName": "Knox",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "719711",
+          "showTime": "19:45:00",
+          "screenType": "",
+          "totalSeats": 32,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 1648.0
+        },
+        {
+          "cinemaId": "274",
+          "cinemaName": "Knox",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "719710",
+          "showTime": "19:45:00",
+          "screenType": "Vmax",
+          "totalSeats": 451,
+          "soldSeats": 96,
+          "occupancy": 21.29,
+          "gross": 2976.0,
+          "maxGross": 13981.0
+        },
+        {
+          "cinemaId": "121",
+          "cinemaName": "Geelong",
+          "city": "VIC Regional",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "510809",
+          "showTime": "19:00:00",
+          "screenType": "Vpremium",
+          "totalSeats": 254,
+          "soldSeats": 17,
+          "occupancy": 6.69,
+          "gross": 442.0,
+          "maxGross": 6604.0
         },
         {
           "cinemaId": "272",
@@ -1111,48 +1471,18 @@
           "occupancy": 4.05,
           "gross": 133.0,
           "maxGross": 3287.0
-        },
-        {
-          "cinemaId": "285",
-          "cinemaName": "Plenty Valley",
-          "city": "VIC Metro",
-          "country": "AU",
-          "Source": "Village Cinemas",
-          "sessionId": "126431",
-          "showTime": "19:30:00",
-          "screenType": "Vmax",
-          "totalSeats": 427,
-          "soldSeats": 64,
-          "occupancy": 14.99,
-          "gross": 12160.0,
-          "maxGross": 81130.0
         }
       ]
     },
     "2026-03-22": {
       "summary": {
-        "shows": 17,
-        "totalSeats": 3171,
-        "soldSeats": 315,
-        "gross": 59550.0,
-        "occupancy": "9.93%"
+        "shows": 29,
+        "totalSeats": 5881,
+        "soldSeats": 398,
+        "gross": 12635.0,
+        "occupancy": "6.77%"
       },
       "shows": [
-        {
-          "cinemaId": "274",
-          "cinemaName": "Knox",
-          "city": "VIC Metro",
-          "country": "AU",
-          "Source": "Village Cinemas",
-          "sessionId": "719735",
-          "showTime": "17:00:00",
-          "screenType": "Standard",
-          "totalSeats": 284,
-          "soldSeats": 32,
-          "occupancy": 11.27,
-          "gross": 4800.0,
-          "maxGross": 42600.0
-        },
         {
           "cinemaId": "330",
           "cinemaName": "Fountain Gate",
@@ -1165,8 +1495,8 @@
           "totalSeats": 279,
           "soldSeats": 51,
           "occupancy": 18.28,
-          "gross": 12750.0,
-          "maxGross": 69750.0
+          "gross": 1836.0,
+          "maxGross": 10044.0
         },
         {
           "cinemaId": "330",
@@ -1178,10 +1508,25 @@
           "showTime": "20:15:00",
           "screenType": "Gold Class",
           "totalSeats": 40,
-          "soldSeats": 2,
-          "occupancy": 5.0,
-          "gross": 600.0,
-          "maxGross": 12000.0
+          "soldSeats": 6,
+          "occupancy": 15.0,
+          "gross": 309.0,
+          "maxGross": 2060.0
+        },
+        {
+          "cinemaId": "080",
+          "cinemaName": "Werribee",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "321499",
+          "showTime": "10:00:00",
+          "screenType": "Gold Class",
+          "totalSeats": 40,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 2060.0
         },
         {
           "cinemaId": "080",
@@ -1193,10 +1538,10 @@
           "showTime": "11:15:00",
           "screenType": "Standard",
           "totalSeats": 163,
-          "soldSeats": 23,
-          "occupancy": 14.11,
-          "gross": 3450.0,
-          "maxGross": 24450.0
+          "soldSeats": 28,
+          "occupancy": 17.18,
+          "gross": 728.0,
+          "maxGross": 4238.0
         },
         {
           "cinemaId": "080",
@@ -1210,8 +1555,8 @@
           "totalSeats": 163,
           "soldSeats": 7,
           "occupancy": 4.29,
-          "gross": 1050.0,
-          "maxGross": 24450.0
+          "gross": 182.0,
+          "maxGross": 4238.0
         },
         {
           "cinemaId": "080",
@@ -1223,10 +1568,10 @@
           "showTime": "15:00:00",
           "screenType": "Gold Class",
           "totalSeats": 40,
-          "soldSeats": 17,
-          "occupancy": 42.5,
-          "gross": 5100.0,
-          "maxGross": 12000.0
+          "soldSeats": 19,
+          "occupancy": 47.5,
+          "gross": 978.5,
+          "maxGross": 2060.0
         },
         {
           "cinemaId": "080",
@@ -1238,10 +1583,10 @@
           "showTime": "16:00:00",
           "screenType": "Standard",
           "totalSeats": 163,
-          "soldSeats": 45,
-          "occupancy": 27.61,
-          "gross": 6750.0,
-          "maxGross": 24450.0
+          "soldSeats": 47,
+          "occupancy": 28.83,
+          "gross": 1222.0,
+          "maxGross": 4238.0
         },
         {
           "cinemaId": "080",
@@ -1253,10 +1598,10 @@
           "showTime": "18:00:00",
           "screenType": "Standard",
           "totalSeats": 163,
-          "soldSeats": 20,
-          "occupancy": 12.27,
-          "gross": 3000.0,
-          "maxGross": 24450.0
+          "soldSeats": 26,
+          "occupancy": 15.95,
+          "gross": 676.0,
+          "maxGross": 4238.0
         },
         {
           "cinemaId": "080",
@@ -1270,8 +1615,8 @@
           "totalSeats": 163,
           "soldSeats": 4,
           "occupancy": 2.45,
-          "gross": 600.0,
-          "maxGross": 24450.0
+          "gross": 104.0,
+          "maxGross": 4238.0
         },
         {
           "cinemaId": "080",
@@ -1283,10 +1628,10 @@
           "showTime": "19:45:00",
           "screenType": "Gold Class",
           "totalSeats": 40,
-          "soldSeats": 2,
-          "occupancy": 5.0,
-          "gross": 600.0,
-          "maxGross": 12000.0
+          "soldSeats": 9,
+          "occupancy": 22.5,
+          "gross": 463.5,
+          "maxGross": 2060.0
         },
         {
           "cinemaId": "080",
@@ -1300,8 +1645,8 @@
           "totalSeats": 162,
           "soldSeats": 15,
           "occupancy": 9.26,
-          "gross": 2250.0,
-          "maxGross": 24300.0
+          "gross": 390.0,
+          "maxGross": 4212.0
         },
         {
           "cinemaId": "309",
@@ -1315,8 +1660,8 @@
           "totalSeats": 277,
           "soldSeats": 53,
           "occupancy": 19.13,
-          "gross": 10070.0,
-          "maxGross": 52630.0
+          "gross": 1590.0,
+          "maxGross": 8310.0
         },
         {
           "cinemaId": "309",
@@ -1328,10 +1673,10 @@
           "showTime": "18:30:00",
           "screenType": "Standard",
           "totalSeats": 430,
-          "soldSeats": 8,
-          "occupancy": 1.86,
-          "gross": 1200.0,
-          "maxGross": 64500.0
+          "soldSeats": 11,
+          "occupancy": 2.56,
+          "gross": 286.0,
+          "maxGross": 11180.0
         },
         {
           "cinemaId": "309",
@@ -1345,8 +1690,203 @@
           "totalSeats": 32,
           "soldSeats": 20,
           "occupancy": 62.5,
-          "gross": 6000.0,
-          "maxGross": 9600.0
+          "gross": 1030.0,
+          "maxGross": 1648.0
+        },
+        {
+          "cinemaId": "311",
+          "cinemaName": "Century City",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "466209",
+          "showTime": "14:15:00",
+          "screenType": "Standard",
+          "totalSeats": 445,
+          "soldSeats": 8,
+          "occupancy": 1.8,
+          "gross": 208.0,
+          "maxGross": 11570.0
+        },
+        {
+          "cinemaId": "311",
+          "cinemaName": "Century City",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "466211",
+          "showTime": "18:15:00",
+          "screenType": "Gold Class",
+          "totalSeats": 30,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 1365.0
+        },
+        {
+          "cinemaId": "311",
+          "cinemaName": "Century City",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "466213",
+          "showTime": "19:15:00",
+          "screenType": "Standard",
+          "totalSeats": 445,
+          "soldSeats": 8,
+          "occupancy": 1.8,
+          "gross": 208.0,
+          "maxGross": 11570.0
+        },
+        {
+          "cinemaId": "285",
+          "cinemaName": "Plenty Valley",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "126451",
+          "showTime": "19:50:00",
+          "screenType": "Vmax",
+          "totalSeats": 427,
+          "soldSeats": 6,
+          "occupancy": 1.41,
+          "gross": 180.0,
+          "maxGross": 12810.0
+        },
+        {
+          "cinemaId": "303",
+          "cinemaName": "Crown",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "659554",
+          "showTime": "13:30:00",
+          "screenType": "Vmax",
+          "totalSeats": 354,
+          "soldSeats": 7,
+          "occupancy": 1.98,
+          "gross": 224.0,
+          "maxGross": 11328.0
+        },
+        {
+          "cinemaId": "303",
+          "cinemaName": "Crown",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "661253",
+          "showTime": "14:30:00",
+          "screenType": "Gold Class",
+          "totalSeats": 28,
+          "soldSeats": 2,
+          "occupancy": 7.14,
+          "gross": 103.0,
+          "maxGross": 1442.0
+        },
+        {
+          "cinemaId": "303",
+          "cinemaName": "Crown",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "661246",
+          "showTime": "19:00:00",
+          "screenType": "Gold Class",
+          "totalSeats": 28,
+          "soldSeats": 2,
+          "occupancy": 7.14,
+          "gross": 103.0,
+          "maxGross": 1442.0
+        },
+        {
+          "cinemaId": "303",
+          "cinemaName": "Crown",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "659573",
+          "showTime": "19:15:00",
+          "screenType": "Vmax",
+          "totalSeats": 355,
+          "soldSeats": 5,
+          "occupancy": 1.41,
+          "gross": 160.0,
+          "maxGross": 11360.0
+        },
+        {
+          "cinemaId": "274",
+          "cinemaName": "Knox",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "719725",
+          "showTime": "12:00:00",
+          "screenType": "",
+          "totalSeats": 284,
+          "soldSeats": 4,
+          "occupancy": 1.41,
+          "gross": 104.0,
+          "maxGross": 7384.0
+        },
+        {
+          "cinemaId": "274",
+          "cinemaName": "Knox",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "719730",
+          "showTime": "14:40:00",
+          "screenType": "",
+          "totalSeats": 218,
+          "soldSeats": 6,
+          "occupancy": 2.75,
+          "gross": 156.0,
+          "maxGross": 5668.0
+        },
+        {
+          "cinemaId": "274",
+          "cinemaName": "Knox",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "719735",
+          "showTime": "17:00:00",
+          "screenType": "Standard",
+          "totalSeats": 284,
+          "soldSeats": 32,
+          "occupancy": 11.27,
+          "gross": 832.0,
+          "maxGross": 7384.0
+        },
+        {
+          "cinemaId": "274",
+          "cinemaName": "Knox",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "719746",
+          "showTime": "19:45:00",
+          "screenType": "",
+          "totalSeats": 32,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 1648.0
+        },
+        {
+          "cinemaId": "274",
+          "cinemaName": "Knox",
+          "city": "VIC Metro",
+          "country": "AU",
+          "Source": "Village Cinemas",
+          "sessionId": "719745",
+          "showTime": "19:45:00",
+          "screenType": "",
+          "totalSeats": 451,
+          "soldSeats": 12,
+          "occupancy": 2.66,
+          "gross": 372.0,
+          "maxGross": 13981.0
         },
         {
           "cinemaId": "272",
@@ -1377,21 +1917,6 @@
           "occupancy": 4.05,
           "gross": 133.0,
           "maxGross": 3287.0
-        },
-        {
-          "cinemaId": "285",
-          "cinemaName": "Plenty Valley",
-          "city": "VIC Metro",
-          "country": "AU",
-          "Source": "Village Cinemas",
-          "sessionId": "126451",
-          "showTime": "19:50:00",
-          "screenType": "Vmax",
-          "totalSeats": 427,
-          "soldSeats": 6,
-          "occupancy": 1.41,
-          "gross": 1140.0,
-          "maxGross": 81130.0
         }
       ]
     }
