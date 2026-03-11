@@ -5,24 +5,24 @@
       "summary": {
         "shows": 221,
         "totalSeats": 46716,
-        "soldSeats": 9992,
-        "gross": 305783.5,
-        "occupancy": "21.39%"
+        "soldSeats": 9996,
+        "gross": 305927.0,
+        "occupancy": "21.4%"
       },
       "languages": {
         "English": {
           "shows": 165,
           "totalSeats": 33025,
           "soldSeats": 7526,
-          "gross": 226214.5,
+          "gross": 226219.0,
           "occupancy": "22.79%"
         },
         "Hindi": {
           "shows": 55,
           "totalSeats": 13616,
-          "soldSeats": 2466,
-          "gross": 79569.0,
-          "occupancy": "18.11%"
+          "soldSeats": 2470,
+          "gross": 79708.0,
+          "occupancy": "18.14%"
         },
         "Tamil": {
           "shows": 1,
@@ -37,15 +37,15 @@
           "shows": 126,
           "totalSeats": 25656,
           "soldSeats": 6169,
-          "gross": 181372.5,
+          "gross": 181377.0,
           "occupancy": "24.05%"
         },
         "Event Cinemas": {
           "shows": 56,
           "totalSeats": 13691,
-          "soldSeats": 2466,
-          "gross": 79569.0,
-          "occupancy": "18.01%"
+          "soldSeats": 2470,
+          "gross": 79708.0,
+          "occupancy": "18.04%"
         },
         "Village Cinemas": {
           "shows": 39,
@@ -98,9 +98,9 @@
           "showTime": "16:00:00",
           "screenType": "",
           "totalSeats": 200,
-          "soldSeats": 108,
-          "occupancy": 54.0,
-          "gross": 3078.0,
+          "soldSeats": 107,
+          "occupancy": 53.5,
+          "gross": 3049.5,
           "maxGross": 5700.0,
           "Language": "English"
         },
@@ -962,9 +962,9 @@
           "showTime": "15:30:00",
           "screenType": "",
           "totalSeats": 160,
-          "soldSeats": 6,
-          "occupancy": 3.75,
-          "gross": 198.0,
+          "soldSeats": 7,
+          "occupancy": 4.38,
+          "gross": 231.0,
           "maxGross": 5280.0,
           "Language": "English"
         },
@@ -2753,9 +2753,9 @@
           "sessionId": "15198210",
           "showTime": "20:00",
           "totalSeats": 434,
-          "soldSeats": 51,
-          "occupancy": 11.75,
-          "gross": 1568.25,
+          "soldSeats": 53,
+          "occupancy": 12.21,
+          "gross": 1629.75,
           "maxGross": 13345.5,
           "screenType": "Vmax",
           "Language": "Hindi"
@@ -2865,9 +2865,9 @@
           "sessionId": "15227174",
           "showTime": "16:00",
           "totalSeats": 169,
-          "soldSeats": 13,
-          "occupancy": 7.69,
-          "gross": 425.75,
+          "soldSeats": 15,
+          "occupancy": 8.88,
+          "gross": 503.25,
           "maxGross": 5965.0,
           "screenType": "Vmax",
           "Language": "Hindi"
@@ -3598,24 +3598,24 @@
       "summary": {
         "shows": 222,
         "totalSeats": 47009,
-        "soldSeats": 10194,
-        "gross": 309183.9,
-        "occupancy": "21.69%"
+        "soldSeats": 10199,
+        "gross": 309353.4,
+        "occupancy": "21.7%"
       },
       "languages": {
         "English": {
           "shows": 166,
           "totalSeats": 33265,
-          "soldSeats": 7568,
-          "gross": 226457.5,
-          "occupancy": "22.75%"
+          "soldSeats": 7571,
+          "gross": 226565.5,
+          "occupancy": "22.76%"
         },
         "Hindi": {
           "shows": 55,
           "totalSeats": 13669,
-          "soldSeats": 2626,
-          "gross": 82726.4,
-          "occupancy": "19.21%"
+          "soldSeats": 2628,
+          "gross": 82787.9,
+          "occupancy": "19.23%"
         },
         "Tamil": {
           "shows": 1,
@@ -3636,16 +3636,16 @@
         "Event Cinemas": {
           "shows": 56,
           "totalSeats": 13744,
-          "soldSeats": 2626,
-          "gross": 82726.4,
-          "occupancy": "19.11%"
+          "soldSeats": 2628,
+          "gross": 82787.9,
+          "occupancy": "19.12%"
         },
         "Village Cinemas": {
           "shows": 39,
           "totalSeats": 7680,
-          "soldSeats": 1385,
-          "gross": 44826.5,
-          "occupancy": "18.03%"
+          "soldSeats": 1388,
+          "gross": 44934.5,
+          "occupancy": "18.07%"
         }
       },
       "shows": [
@@ -6346,9 +6346,9 @@
           "sessionId": "15198209",
           "showTime": "20:00",
           "totalSeats": 434,
-          "soldSeats": 105,
-          "occupancy": 24.19,
-          "gross": 3228.75,
+          "soldSeats": 107,
+          "occupancy": 24.65,
+          "gross": 3290.25,
           "maxGross": 13345.5,
           "screenType": "Vmax",
           "Language": "Hindi"
@@ -7147,9 +7147,9 @@
           "showTime": "13:15:00",
           "screenType": "Vmax",
           "totalSeats": 279,
-          "soldSeats": 9,
-          "occupancy": 3.23,
-          "gross": 324.0,
+          "soldSeats": 12,
+          "occupancy": 4.3,
+          "gross": 432.0,
           "maxGross": 10044.0,
           "Language": "English"
         },
@@ -10448,17 +10448,17 @@
       "summary": {
         "shows": 176,
         "totalSeats": 38623,
-        "soldSeats": 4584,
-        "gross": 139627.5,
-        "occupancy": "11.87%"
+        "soldSeats": 4590,
+        "gross": 139825.5,
+        "occupancy": "11.88%"
       },
       "languages": {
         "English": {
           "shows": 135,
           "totalSeats": 28027,
-          "soldSeats": 3852,
-          "gross": 115716.0,
-          "occupancy": "13.74%"
+          "soldSeats": 3858,
+          "gross": 115914.0,
+          "occupancy": "13.77%"
         },
         "Hindi": {
           "shows": 41,
@@ -10472,9 +10472,9 @@
         "Hoyts": {
           "shows": 99,
           "totalSeats": 20706,
-          "soldSeats": 3359,
-          "gross": 99772.0,
-          "occupancy": "16.22%"
+          "soldSeats": 3365,
+          "gross": 99970.0,
+          "occupancy": "16.25%"
         },
         "Event Cinemas": {
           "shows": 41,
@@ -10790,9 +10790,9 @@
           "showTime": "21:00:00",
           "screenType": "",
           "totalSeats": 243,
-          "soldSeats": 77,
-          "occupancy": 31.69,
-          "gross": 2541.0,
+          "soldSeats": 83,
+          "occupancy": 34.16,
+          "gross": 2739.0,
           "maxGross": 8019.0,
           "Language": "English"
         },
