@@ -3,11 +3,11 @@
     "movieName": "Dhurandhar: The Revenge (Hindi, Eng Sub)",
     "2026-03-19": {
       "summary": {
-        "shows": 135,
-        "totalSeats": 27240,
-        "soldSeats": 7019,
-        "gross": 206081.0,
-        "occupancy": "25.77%"
+        "shows": 137,
+        "totalSeats": 27756,
+        "soldSeats": 7040,
+        "gross": 206701.0,
+        "occupancy": "25.36%"
       },
       "shows": [
         {
@@ -20,9 +20,9 @@
           "showTime": "15:30:00",
           "screenType": "",
           "totalSeats": 278,
-          "soldSeats": 81,
-          "occupancy": 29.14,
-          "gross": 2713.5,
+          "soldSeats": 84,
+          "occupancy": 30.22,
+          "gross": 2814.0,
           "maxGross": 9313.0
         },
         {
@@ -335,9 +335,9 @@
           "showTime": "21:15:00",
           "screenType": "",
           "totalSeats": 232,
-          "soldSeats": 55,
-          "occupancy": 23.71,
-          "gross": 1815.0,
+          "soldSeats": 59,
+          "occupancy": 25.43,
+          "gross": 1947.0,
           "maxGross": 7656.0
         },
         {
@@ -1175,9 +1175,9 @@
           "showTime": "21:30:00",
           "screenType": "",
           "totalSeats": 140,
-          "soldSeats": 34,
-          "occupancy": 24.29,
-          "gross": 952.0,
+          "soldSeats": 37,
+          "occupancy": 26.43,
+          "gross": 1036.0,
           "maxGross": 3920.0
         },
         {
@@ -1280,9 +1280,9 @@
           "showTime": "12:20:00",
           "screenType": "",
           "totalSeats": 180,
-          "soldSeats": 43,
-          "occupancy": 23.89,
-          "gross": 1204.0,
+          "soldSeats": 45,
+          "occupancy": 25.0,
+          "gross": 1260.0,
           "maxGross": 5040.0
         },
         {
@@ -1310,9 +1310,9 @@
           "showTime": "17:10:00",
           "screenType": "",
           "totalSeats": 180,
-          "soldSeats": 60,
-          "occupancy": 33.33,
-          "gross": 1680.0,
+          "soldSeats": 62,
+          "occupancy": 34.44,
+          "gross": 1736.0,
           "maxGross": 5040.0
         },
         {
@@ -1415,9 +1415,9 @@
           "showTime": "16:00:00",
           "screenType": "",
           "totalSeats": 108,
-          "soldSeats": 9,
-          "occupancy": 8.33,
-          "gross": 247.5,
+          "soldSeats": 11,
+          "occupancy": 10.19,
+          "gross": 302.5,
           "maxGross": 2970.0
         },
         {
@@ -1475,9 +1475,9 @@
           "showTime": "20:45:00",
           "screenType": "",
           "totalSeats": 108,
-          "soldSeats": 35,
-          "occupancy": 32.41,
-          "gross": 962.5,
+          "soldSeats": 36,
+          "occupancy": 33.33,
+          "gross": 990.0,
           "maxGross": 2970.0
         },
         {
@@ -1925,9 +1925,9 @@
           "showTime": "21:00:00",
           "screenType": "",
           "totalSeats": 96,
-          "soldSeats": 20,
-          "occupancy": 20.83,
-          "gross": 520.0,
+          "soldSeats": 22,
+          "occupancy": 22.92,
+          "gross": 572.0,
           "maxGross": 2496.0
         },
         {
@@ -2034,16 +2034,46 @@
           "occupancy": 10.99,
           "gross": 275.0,
           "maxGross": 2502.5
+        },
+        {
+          "cinemaId": "CHDSTN",
+          "cinemaName": "Chadstone",
+          "city": "Chadstone",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "333532",
+          "showTime": "13:10:00",
+          "screenType": "",
+          "totalSeats": 276,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 7866.0
+        },
+        {
+          "cinemaId": "CHDSTN",
+          "cinemaName": "Chadstone",
+          "city": "Chadstone",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "333595",
+          "showTime": "20:45:00",
+          "screenType": "",
+          "totalSeats": 240,
+          "soldSeats": 2,
+          "occupancy": 0.83,
+          "gross": 57.0,
+          "maxGross": 6840.0
         }
       ]
     },
     "2026-03-21": {
       "summary": {
-        "shows": 115,
-        "totalSeats": 23586,
-        "soldSeats": 6540,
-        "gross": 193384.0,
-        "occupancy": "27.73%"
+        "shows": 118,
+        "totalSeats": 24418,
+        "soldSeats": 6542,
+        "gross": 193479.0,
+        "occupancy": "26.79%"
       },
       "shows": [
         {
@@ -2836,9 +2866,9 @@
           "showTime": "20:00:00",
           "screenType": "",
           "totalSeats": 184,
-          "soldSeats": 90,
-          "occupancy": 48.91,
-          "gross": 2160.0,
+          "soldSeats": 85,
+          "occupancy": 46.2,
+          "gross": 2040.0,
           "maxGross": 4416.0
         },
         {
@@ -2881,9 +2911,9 @@
           "showTime": "21:00:00",
           "screenType": "",
           "totalSeats": 190,
-          "soldSeats": 31,
-          "occupancy": 16.32,
-          "gross": 868.0,
+          "soldSeats": 33,
+          "occupancy": 17.37,
+          "gross": 924.0,
           "maxGross": 5320.0
         },
         {
@@ -3346,9 +3376,9 @@
           "showTime": "15:45:00",
           "screenType": "",
           "totalSeats": 130,
-          "soldSeats": 72,
-          "occupancy": 55.38,
-          "gross": 2160.0,
+          "soldSeats": 74,
+          "occupancy": 56.92,
+          "gross": 2220.0,
           "maxGross": 3900.0
         },
         {
@@ -3661,9 +3691,9 @@
           "showTime": "11:00:00",
           "screenType": "",
           "totalSeats": 202,
-          "soldSeats": 17,
-          "occupancy": 8.42,
-          "gross": 561.0,
+          "soldSeats": 20,
+          "occupancy": 9.9,
+          "gross": 660.0,
           "maxGross": 6666.0
         },
         {
@@ -3770,16 +3800,61 @@
           "occupancy": 27.5,
           "gross": 1144.0,
           "maxGross": 4160.0
+        },
+        {
+          "cinemaId": "CHDSTN",
+          "cinemaName": "Chadstone",
+          "city": "Chadstone",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "333627",
+          "showTime": "13:10:00",
+          "screenType": "",
+          "totalSeats": 276,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 7866.0
+        },
+        {
+          "cinemaId": "CHDSTN",
+          "cinemaName": "Chadstone",
+          "city": "Chadstone",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "333629",
+          "showTime": "15:30:00",
+          "screenType": "",
+          "totalSeats": 278,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 9313.0
+        },
+        {
+          "cinemaId": "CHDSTN",
+          "cinemaName": "Chadstone",
+          "city": "Chadstone",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "333632",
+          "showTime": "20:20:00",
+          "screenType": "",
+          "totalSeats": 278,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 9313.0
         }
       ]
     },
     "2026-03-22": {
       "summary": {
-        "shows": 107,
-        "totalSeats": 22147,
-        "soldSeats": 4059,
-        "gross": 120551.5,
-        "occupancy": "18.33%"
+        "shows": 110,
+        "totalSeats": 22979,
+        "soldSeats": 4058,
+        "gross": 120550.5,
+        "occupancy": "17.66%"
       },
       "shows": [
         {
@@ -3882,9 +3957,9 @@
           "showTime": "20:30:00",
           "screenType": "",
           "totalSeats": 276,
-          "soldSeats": 132,
-          "occupancy": 47.83,
-          "gross": 3762.0,
+          "soldSeats": 124,
+          "occupancy": 44.93,
+          "gross": 3534.0,
           "maxGross": 7866.0
         },
         {
@@ -4707,9 +4782,9 @@
           "showTime": "16:00:00",
           "screenType": "",
           "totalSeats": 202,
-          "soldSeats": 80,
-          "occupancy": 39.6,
-          "gross": 2640.0,
+          "soldSeats": 83,
+          "occupancy": 41.09,
+          "gross": 2739.0,
           "maxGross": 6666.0
         },
         {
@@ -5337,9 +5412,9 @@
           "showTime": "15:30:00",
           "screenType": "",
           "totalSeats": 374,
-          "soldSeats": 5,
-          "occupancy": 1.34,
-          "gross": 165.0,
+          "soldSeats": 7,
+          "occupancy": 1.87,
+          "gross": 231.0,
           "maxGross": 12342.0
         },
         {
@@ -5352,9 +5427,9 @@
           "showTime": "15:00:00",
           "screenType": "",
           "totalSeats": 245,
-          "soldSeats": 36,
-          "occupancy": 14.69,
-          "gross": 1116.0,
+          "soldSeats": 38,
+          "occupancy": 15.51,
+          "gross": 1178.0,
           "maxGross": 7595.0
         },
         {
@@ -5386,16 +5461,61 @@
           "occupancy": 1.67,
           "gross": 25.0,
           "maxGross": 1500.0
+        },
+        {
+          "cinemaId": "CHDSTN",
+          "cinemaName": "Chadstone",
+          "city": "Chadstone",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "333647",
+          "showTime": "13:10:00",
+          "screenType": "",
+          "totalSeats": 276,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 7866.0
+        },
+        {
+          "cinemaId": "CHDSTN",
+          "cinemaName": "Chadstone",
+          "city": "Chadstone",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "333653",
+          "showTime": "15:45:00",
+          "screenType": "",
+          "totalSeats": 278,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 9313.0
+        },
+        {
+          "cinemaId": "CHDSTN",
+          "cinemaName": "Chadstone",
+          "city": "Chadstone",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "333671",
+          "showTime": "20:30:00",
+          "screenType": "",
+          "totalSeats": 278,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 9313.0
         }
       ]
     },
     "2026-03-20": {
       "summary": {
-        "shows": 136,
-        "totalSeats": 27113,
+        "shows": 138,
+        "totalSeats": 27667,
         "soldSeats": 6940,
         "gross": 203185.0,
-        "occupancy": "25.6%"
+        "occupancy": "25.08%"
       },
       "shows": [
         {
@@ -5573,9 +5693,9 @@
           "showTime": "19:45:00",
           "screenType": "",
           "totalSeats": 396,
-          "soldSeats": 185,
-          "occupancy": 46.72,
-          "gross": 6105.0,
+          "soldSeats": 187,
+          "occupancy": 47.22,
+          "gross": 6171.0,
           "maxGross": 13068.0
         },
         {
@@ -5648,9 +5768,9 @@
           "showTime": "21:00:00",
           "screenType": "",
           "totalSeats": 384,
-          "soldSeats": 223,
-          "occupancy": 58.07,
-          "gross": 7359.0,
+          "soldSeats": 221,
+          "occupancy": 57.55,
+          "gross": 7293.0,
           "maxGross": 12672.0
         },
         {
@@ -7437,6 +7557,36 @@
           "occupancy": 28.75,
           "gross": 1196.0,
           "maxGross": 4160.0
+        },
+        {
+          "cinemaId": "CHDSTN",
+          "cinemaName": "Chadstone",
+          "city": "Chadstone",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "333572",
+          "showTime": "13:10:00",
+          "screenType": "",
+          "totalSeats": 276,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 7866.0
+        },
+        {
+          "cinemaId": "CHDSTN",
+          "cinemaName": "Chadstone",
+          "city": "Chadstone",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "333588",
+          "showTime": "15:30:00",
+          "screenType": "",
+          "totalSeats": 278,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 9313.0
         }
       ]
     },
@@ -7444,9 +7594,9 @@
       "summary": {
         "shows": 17,
         "totalSeats": 4098,
-        "soldSeats": 238,
-        "gross": 7456.5,
-        "occupancy": "5.81%"
+        "soldSeats": 246,
+        "gross": 7664.5,
+        "occupancy": "6.0%"
       },
       "shows": [
         {
@@ -7639,9 +7789,9 @@
           "showTime": "19:00:00",
           "screenType": "",
           "totalSeats": 160,
-          "soldSeats": 12,
-          "occupancy": 7.5,
-          "gross": 312.0,
+          "soldSeats": 20,
+          "occupancy": 12.5,
+          "gross": 520.0,
           "maxGross": 4160.0
         },
         {
@@ -7797,7 +7947,7 @@
           "country": "AU",
           "Source": "Hoyts",
           "sessionId": "333375",
-          "showTime": "20:00:00",
+          "showTime": "19:50:00",
           "screenType": "",
           "totalSeats": 200,
           "soldSeats": 0,
