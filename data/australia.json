@@ -1,6 +1,6 @@
 {
   "region": "AUSTRALIA",
-  "lastUpdated": "2026-03-12 22:07:59 UTC",
+  "lastUpdated": "2026-03-12 22:18:36 UTC",
   "movies": {
     "Dhurandhar: The Revenge": {
       "movieName": "Dhurandhar: The Revenge",
@@ -2612,9 +2612,9 @@
             "sessionId": "15198246",
             "showTime": "17:00",
             "totalSeats": 386,
-            "soldSeats": 147,
-            "occupancy": 38.08,
-            "gross": 3785.25,
+            "soldSeats": 144,
+            "occupancy": 37.31,
+            "gross": 3708.0,
             "maxGross": 9939.5,
             "screenType": "Std",
             "Language": "Hindi"
@@ -2628,9 +2628,9 @@
             "sessionId": "15198245",
             "showTime": "20:40",
             "totalSeats": 383,
-            "soldSeats": 144,
-            "occupancy": 37.6,
-            "gross": 3708.0,
+            "soldSeats": 147,
+            "occupancy": 38.38,
+            "gross": 3785.25,
             "maxGross": 9862.25,
             "screenType": "Std",
             "Language": "Hindi"
@@ -3921,9 +3921,9 @@
         "summary": {
           "shows": 242,
           "totalSeats": 50408,
-          "soldSeats": 11569,
-          "gross": 350735.25,
-          "occupancy": "22.95%"
+          "soldSeats": 11572,
+          "gross": 350812.5,
+          "occupancy": "22.96%"
         },
         "languages": {
           "English": {
@@ -3936,9 +3936,9 @@
           "Hindi": {
             "shows": 61,
             "totalSeats": 14185,
-            "soldSeats": 3011,
-            "gross": 95057.25,
-            "occupancy": "21.23%"
+            "soldSeats": 3014,
+            "gross": 95134.5,
+            "occupancy": "21.25%"
           },
           "Tamil": {
             "shows": 1,
@@ -3959,9 +3959,9 @@
           "Event Cinemas": {
             "shows": 62,
             "totalSeats": 14260,
-            "soldSeats": 3011,
-            "gross": 95057.25,
-            "occupancy": "21.12%"
+            "soldSeats": 3014,
+            "gross": 95134.5,
+            "occupancy": "21.14%"
           },
           "Village Cinemas": {
             "shows": 42,
@@ -6541,9 +6541,9 @@
             "sessionId": "15198247",
             "showTime": "17:00",
             "totalSeats": 386,
-            "soldSeats": 72,
-            "occupancy": 18.65,
-            "gross": 1854.0,
+            "soldSeats": 75,
+            "occupancy": 19.43,
+            "gross": 1931.25,
             "maxGross": 9939.5,
             "screenType": "Std",
             "Language": "Hindi"
@@ -7850,8 +7850,8 @@
         "summary": {
           "shows": 222,
           "totalSeats": 47170,
-          "soldSeats": 10198,
-          "gross": 314034.4,
+          "soldSeats": 10200,
+          "gross": 314120.9,
           "occupancy": "21.62%"
         },
         "languages": {
@@ -7865,9 +7865,9 @@
           "Hindi": {
             "shows": 64,
             "totalSeats": 14678,
-            "soldSeats": 2284,
-            "gross": 76049.9,
-            "occupancy": "15.56%"
+            "soldSeats": 2286,
+            "gross": 76136.4,
+            "occupancy": "15.57%"
           },
           "Tamil": {
             "shows": 1,
@@ -7888,9 +7888,9 @@
           "Event Cinemas": {
             "shows": 65,
             "totalSeats": 14753,
-            "soldSeats": 2284,
-            "gross": 76049.9,
-            "occupancy": "15.48%"
+            "soldSeats": 2286,
+            "gross": 76136.4,
+            "occupancy": "15.5%"
           },
           "Village Cinemas": {
             "shows": 39,
@@ -10150,9 +10150,9 @@
             "sessionId": "15198249",
             "showTime": "17:00",
             "totalSeats": 386,
-            "soldSeats": 133,
-            "occupancy": 34.46,
-            "gross": 3424.75,
+            "soldSeats": 130,
+            "occupancy": 33.68,
+            "gross": 3347.5,
             "maxGross": 9939.5,
             "screenType": "Std",
             "Language": "Hindi"
@@ -10614,9 +10614,9 @@
             "sessionId": "15227179",
             "showTime": "16:00",
             "totalSeats": 169,
-            "soldSeats": 49,
-            "occupancy": 28.99,
-            "gross": 1646.75,
+            "soldSeats": 54,
+            "occupancy": 31.95,
+            "gross": 1810.5,
             "maxGross": 5965.0,
             "screenType": "Vmax",
             "Language": "Hindi"
@@ -11459,9 +11459,9 @@
         "summary": {
           "shows": 190,
           "totalSeats": 40961,
-          "soldSeats": 5545,
-          "gross": 169800.55,
-          "occupancy": "13.54%"
+          "soldSeats": 5551,
+          "gross": 169997.05,
+          "occupancy": "13.55%"
         },
         "languages": {
           "English": {
@@ -11474,9 +11474,9 @@
           "Hindi": {
             "shows": 44,
             "totalSeats": 10661,
-            "soldSeats": 881,
-            "gross": 29117.55,
-            "occupancy": "8.26%"
+            "soldSeats": 887,
+            "gross": 29314.05,
+            "occupancy": "8.32%"
           }
         },
         "sources": {
@@ -11490,9 +11490,9 @@
           "Event Cinemas": {
             "shows": 44,
             "totalSeats": 10661,
-            "soldSeats": 881,
-            "gross": 29117.55,
-            "occupancy": "8.26%"
+            "soldSeats": 887,
+            "gross": 29314.05,
+            "occupancy": "8.32%"
           },
           "Village Cinemas": {
             "shows": 36,
@@ -13640,9 +13640,9 @@
             "sessionId": "15227098",
             "showTime": "16:00",
             "totalSeats": 399,
-            "soldSeats": 32,
-            "occupancy": 8.02,
-            "gross": 1048.0,
+            "soldSeats": 38,
+            "occupancy": 9.52,
+            "gross": 1244.5,
             "maxGross": 13067.25,
             "screenType": "Vmax",
             "Language": "Hindi"
