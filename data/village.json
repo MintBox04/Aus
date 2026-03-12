@@ -5,9 +5,9 @@
       "summary": {
         "shows": 40,
         "totalSeats": 7646,
-        "soldSeats": 1398,
-        "gross": 46239.5,
-        "occupancy": "18.28%"
+        "soldSeats": 1413,
+        "gross": 46754.5,
+        "occupancy": "18.48%"
       },
       "shows": [
         {
@@ -80,9 +80,9 @@
           "showTime": "14:40:00",
           "screenType": "Gold Class",
           "totalSeats": 40,
-          "soldSeats": 5,
-          "occupancy": 12.5,
-          "gross": 257.5,
+          "soldSeats": 2,
+          "occupancy": 5.0,
+          "gross": 103.0,
           "maxGross": 2060.0
         },
         {
@@ -170,9 +170,9 @@
           "showTime": "19:30:00",
           "screenType": "Standard",
           "totalSeats": 163,
-          "soldSeats": 72,
-          "occupancy": 44.17,
-          "gross": 1872.0,
+          "soldSeats": 75,
+          "occupancy": 46.01,
+          "gross": 1950.0,
           "maxGross": 4238.0
         },
         {
@@ -200,9 +200,9 @@
           "showTime": "16:15:00",
           "screenType": "Gold Class",
           "totalSeats": 24,
-          "soldSeats": 13,
-          "occupancy": 54.17,
-          "gross": 669.5,
+          "soldSeats": 14,
+          "occupancy": 58.33,
+          "gross": 721.0,
           "maxGross": 1236.0
         },
         {
@@ -230,9 +230,9 @@
           "showTime": "19:30:00",
           "screenType": "Gold Class",
           "totalSeats": 32,
-          "soldSeats": 20,
-          "occupancy": 62.5,
-          "gross": 1030.0,
+          "soldSeats": 24,
+          "occupancy": 75.0,
+          "gross": 1236.0,
           "maxGross": 1648.0
         },
         {
@@ -245,9 +245,9 @@
           "showTime": "19:45:00",
           "screenType": "Vmax",
           "totalSeats": 277,
-          "soldSeats": 100,
-          "occupancy": 36.1,
-          "gross": 3000.0,
+          "soldSeats": 104,
+          "occupancy": 37.55,
+          "gross": 3120.0,
           "maxGross": 8310.0
         },
         {
@@ -267,8 +267,8 @@
         },
         {
           "cinemaId": "311",
-          "cinemaName": "Century City",
-          "city": "VIC Metro",
+          "cinemaName": "Unknown",
+          "city": "Unknown",
           "country": "AU",
           "Source": "Village Cinemas",
           "sessionId": "464723",
@@ -282,8 +282,8 @@
         },
         {
           "cinemaId": "311",
-          "cinemaName": "Century City",
-          "city": "VIC Metro",
+          "cinemaName": "Unknown",
+          "city": "Unknown",
           "country": "AU",
           "Source": "Village Cinemas",
           "sessionId": "464717",
@@ -297,8 +297,8 @@
         },
         {
           "cinemaId": "311",
-          "cinemaName": "Century City",
-          "city": "VIC Metro",
+          "cinemaName": "Unknown",
+          "city": "Unknown",
           "country": "AU",
           "Source": "Village Cinemas",
           "sessionId": "465159",
@@ -335,15 +335,15 @@
           "showTime": "19:45:00",
           "screenType": "Gold Class",
           "totalSeats": 40,
-          "soldSeats": 28,
-          "occupancy": 70.0,
-          "gross": 1442.0,
+          "soldSeats": 30,
+          "occupancy": 75.0,
+          "gross": 1545.0,
           "maxGross": 2060.0
         },
         {
           "cinemaId": "303",
-          "cinemaName": "Crown",
-          "city": "VIC Metro",
+          "cinemaName": "Unknown",
+          "city": "Unknown",
           "country": "AU",
           "Source": "Village Cinemas",
           "sessionId": "661291",
@@ -357,23 +357,23 @@
         },
         {
           "cinemaId": "303",
-          "cinemaName": "Crown",
-          "city": "VIC Metro",
+          "cinemaName": "Unknown",
+          "city": "Unknown",
           "country": "AU",
           "Source": "Village Cinemas",
           "sessionId": "661284",
           "showTime": "19:00:00",
           "screenType": "Gold Class",
           "totalSeats": 28,
-          "soldSeats": 9,
-          "occupancy": 32.14,
-          "gross": 463.5,
+          "soldSeats": 11,
+          "occupancy": 39.29,
+          "gross": 566.5,
           "maxGross": 1442.0
         },
         {
           "cinemaId": "303",
-          "cinemaName": "Crown",
-          "city": "VIC Metro",
+          "cinemaName": "Unknown",
+          "city": "Unknown",
           "country": "AU",
           "Source": "Village Cinemas",
           "sessionId": "658655",
@@ -387,8 +387,8 @@
         },
         {
           "cinemaId": "303",
-          "cinemaName": "Crown",
-          "city": "VIC Metro",
+          "cinemaName": "Unknown",
+          "city": "Unknown",
           "country": "AU",
           "Source": "Village Cinemas",
           "sessionId": "658876",
@@ -425,9 +425,9 @@
           "showTime": "19:30:00",
           "screenType": "Vpremium",
           "totalSeats": 156,
-          "soldSeats": 72,
-          "occupancy": 46.15,
-          "gross": 2016.0,
+          "soldSeats": 75,
+          "occupancy": 48.08,
+          "gross": 2100.0,
           "maxGross": 4368.0
         },
         {
@@ -492,17 +492,17 @@
         },
         {
           "cinemaId": "121",
-          "cinemaName": "Geelong",
-          "city": "VIC Regional",
+          "cinemaName": "Unknown",
+          "city": "Unknown",
           "country": "AU",
           "Source": "Village Cinemas",
           "sessionId": "509827",
           "showTime": "19:00:00",
           "screenType": "Vpremium",
           "totalSeats": 254,
-          "soldSeats": 38,
-          "occupancy": 14.96,
-          "gross": 988.0,
+          "soldSeats": 42,
+          "occupancy": 16.54,
+          "gross": 1092.0,
           "maxGross": 6604.0
         },
         {
@@ -575,9 +575,9 @@
           "showTime": "20:00:00",
           "screenType": "Vmax",
           "totalSeats": 190,
-          "soldSeats": 17,
-          "occupancy": 8.95,
-          "gross": 612.0,
+          "soldSeats": 12,
+          "occupancy": 6.32,
+          "gross": 432.0,
           "maxGross": 6840.0
         },
         {
@@ -616,9 +616,9 @@
       "summary": {
         "shows": 41,
         "totalSeats": 8234,
-        "soldSeats": 1439,
-        "gross": 46471.5,
-        "occupancy": "17.48%"
+        "soldSeats": 1462,
+        "gross": 47246.5,
+        "occupancy": "17.76%"
       },
       "shows": [
         {
@@ -631,9 +631,9 @@
           "showTime": "12:00:00",
           "screenType": "Gold Class",
           "totalSeats": 40,
-          "soldSeats": 2,
-          "occupancy": 5.0,
-          "gross": 103.0,
+          "soldSeats": 4,
+          "occupancy": 10.0,
+          "gross": 206.0,
           "maxGross": 2060.0
         },
         {
@@ -676,9 +676,9 @@
           "showTime": "10:00:00",
           "screenType": "Gold Class",
           "totalSeats": 40,
-          "soldSeats": 6,
-          "occupancy": 15.0,
-          "gross": 309.0,
+          "soldSeats": 10,
+          "occupancy": 25.0,
+          "gross": 515.0,
           "maxGross": 2060.0
         },
         {
@@ -691,9 +691,9 @@
           "showTime": "10:45:00",
           "screenType": "Standard",
           "totalSeats": 163,
-          "soldSeats": 9,
-          "occupancy": 5.52,
-          "gross": 234.0,
+          "soldSeats": 12,
+          "occupancy": 7.36,
+          "gross": 312.0,
           "maxGross": 4238.0
         },
         {
@@ -826,9 +826,9 @@
           "showTime": "19:45:00",
           "screenType": "Vmax",
           "totalSeats": 277,
-          "soldSeats": 109,
-          "occupancy": 39.35,
-          "gross": 3270.0,
+          "soldSeats": 110,
+          "occupancy": 39.71,
+          "gross": 3300.0,
           "maxGross": 8310.0
         },
         {
@@ -848,8 +848,8 @@
         },
         {
           "cinemaId": "311",
-          "cinemaName": "Century City",
-          "city": "VIC Metro",
+          "cinemaName": "Unknown",
+          "city": "Unknown",
           "country": "AU",
           "Source": "Village Cinemas",
           "sessionId": "466199",
@@ -863,8 +863,8 @@
         },
         {
           "cinemaId": "311",
-          "cinemaName": "Century City",
-          "city": "VIC Metro",
+          "cinemaName": "Unknown",
+          "city": "Unknown",
           "country": "AU",
           "Source": "Village Cinemas",
           "sessionId": "465467",
@@ -878,8 +878,8 @@
         },
         {
           "cinemaId": "311",
-          "cinemaName": "Century City",
-          "city": "VIC Metro",
+          "cinemaName": "Unknown",
+          "city": "Unknown",
           "country": "AU",
           "Source": "Village Cinemas",
           "sessionId": "466203",
@@ -901,15 +901,15 @@
           "showTime": "19:30:00",
           "screenType": "Vmax",
           "totalSeats": 427,
-          "soldSeats": 107,
-          "occupancy": 25.06,
-          "gross": 3210.0,
+          "soldSeats": 111,
+          "occupancy": 26.0,
+          "gross": 3330.0,
           "maxGross": 12810.0
         },
         {
           "cinemaId": "303",
-          "cinemaName": "Crown",
-          "city": "VIC Metro",
+          "cinemaName": "Unknown",
+          "city": "Unknown",
           "country": "AU",
           "Source": "Village Cinemas",
           "sessionId": "659460",
@@ -923,8 +923,8 @@
         },
         {
           "cinemaId": "303",
-          "cinemaName": "Crown",
-          "city": "VIC Metro",
+          "cinemaName": "Unknown",
+          "city": "Unknown",
           "country": "AU",
           "Source": "Village Cinemas",
           "sessionId": "661264",
@@ -938,8 +938,8 @@
         },
         {
           "cinemaId": "303",
-          "cinemaName": "Crown",
-          "city": "VIC Metro",
+          "cinemaName": "Unknown",
+          "city": "Unknown",
           "country": "AU",
           "Source": "Village Cinemas",
           "sessionId": "661258",
@@ -953,8 +953,8 @@
         },
         {
           "cinemaId": "303",
-          "cinemaName": "Crown",
-          "city": "VIC Metro",
+          "cinemaName": "Unknown",
+          "city": "Unknown",
           "country": "AU",
           "Source": "Village Cinemas",
           "sessionId": "659479",
@@ -968,8 +968,8 @@
         },
         {
           "cinemaId": "303",
-          "cinemaName": "Crown",
-          "city": "VIC Metro",
+          "cinemaName": "Unknown",
+          "city": "Unknown",
           "country": "AU",
           "Source": "Village Cinemas",
           "sessionId": "659622",
@@ -1006,9 +1006,9 @@
           "showTime": "12:00:00",
           "screenType": "Standard",
           "totalSeats": 284,
-          "soldSeats": 4,
-          "occupancy": 1.41,
-          "gross": 104.0,
+          "soldSeats": 6,
+          "occupancy": 2.11,
+          "gross": 156.0,
           "maxGross": 7384.0
         },
         {
@@ -1073,17 +1073,17 @@
         },
         {
           "cinemaId": "121",
-          "cinemaName": "Geelong",
-          "city": "VIC Regional",
+          "cinemaName": "Unknown",
+          "city": "Unknown",
           "country": "AU",
           "Source": "Village Cinemas",
           "sessionId": "510808",
           "showTime": "19:00:00",
           "screenType": "Vpremium",
           "totalSeats": 254,
-          "soldSeats": 60,
-          "occupancy": 23.62,
-          "gross": 1560.0,
+          "soldSeats": 63,
+          "occupancy": 24.8,
+          "gross": 1638.0,
           "maxGross": 6604.0
         },
         {
@@ -1171,9 +1171,9 @@
           "showTime": "20:15:00",
           "screenType": "Standard",
           "totalSeats": 228,
-          "soldSeats": 27,
-          "occupancy": 11.84,
-          "gross": 702.0,
+          "soldSeats": 29,
+          "occupancy": 12.72,
+          "gross": 754.0,
           "maxGross": 5928.0
         },
         {
@@ -1186,9 +1186,9 @@
           "showTime": "19:30:00",
           "screenType": "Vpremium",
           "totalSeats": 156,
-          "soldSeats": 15,
-          "occupancy": 9.62,
-          "gross": 420.0,
+          "soldSeats": 17,
+          "occupancy": 10.9,
+          "gross": 476.0,
           "maxGross": 4368.0
         },
         {
@@ -1242,9 +1242,9 @@
       "summary": {
         "shows": 38,
         "totalSeats": 7752,
-        "soldSeats": 1202,
-        "gross": 38941.0,
-        "occupancy": "15.51%"
+        "soldSeats": 1200,
+        "gross": 38883.0,
+        "occupancy": "15.48%"
       },
       "shows": [
         {
@@ -1257,9 +1257,9 @@
           "showTime": "18:50:00",
           "screenType": "Vmax",
           "totalSeats": 279,
-          "soldSeats": 171,
-          "occupancy": 61.29,
-          "gross": 6156.0,
+          "soldSeats": 172,
+          "occupancy": 61.65,
+          "gross": 6192.0,
           "maxGross": 10044.0
         },
         {
@@ -1332,9 +1332,9 @@
           "showTime": "15:45:00",
           "screenType": "Standard",
           "totalSeats": 163,
-          "soldSeats": 11,
-          "occupancy": 6.75,
-          "gross": 286.0,
+          "soldSeats": 9,
+          "occupancy": 5.52,
+          "gross": 234.0,
           "maxGross": 4238.0
         },
         {
@@ -1347,9 +1347,9 @@
           "showTime": "18:00:00",
           "screenType": "Standard",
           "totalSeats": 163,
-          "soldSeats": 66,
-          "occupancy": 40.49,
-          "gross": 1716.0,
+          "soldSeats": 69,
+          "occupancy": 42.33,
+          "gross": 1794.0,
           "maxGross": 4238.0
         },
         {
@@ -1459,8 +1459,8 @@
         },
         {
           "cinemaId": "311",
-          "cinemaName": "Century City",
-          "city": "VIC Metro",
+          "cinemaName": "Unknown",
+          "city": "Unknown",
           "country": "AU",
           "Source": "Village Cinemas",
           "sessionId": "465468",
@@ -1489,8 +1489,8 @@
         },
         {
           "cinemaId": "303",
-          "cinemaName": "Crown",
-          "city": "VIC Metro",
+          "cinemaName": "Unknown",
+          "city": "Unknown",
           "country": "AU",
           "Source": "Village Cinemas",
           "sessionId": "659507",
@@ -1504,8 +1504,8 @@
         },
         {
           "cinemaId": "303",
-          "cinemaName": "Crown",
-          "city": "VIC Metro",
+          "cinemaName": "Unknown",
+          "city": "Unknown",
           "country": "AU",
           "Source": "Village Cinemas",
           "sessionId": "661235",
@@ -1519,8 +1519,8 @@
         },
         {
           "cinemaId": "303",
-          "cinemaName": "Crown",
-          "city": "VIC Metro",
+          "cinemaName": "Unknown",
+          "city": "Unknown",
           "country": "AU",
           "Source": "Village Cinemas",
           "sessionId": "661233",
@@ -1534,8 +1534,8 @@
         },
         {
           "cinemaId": "303",
-          "cinemaName": "Crown",
-          "city": "VIC Metro",
+          "cinemaName": "Unknown",
+          "city": "Unknown",
           "country": "AU",
           "Source": "Village Cinemas",
           "sessionId": "659526",
@@ -1624,8 +1624,8 @@
         },
         {
           "cinemaId": "121",
-          "cinemaName": "Geelong",
-          "city": "VIC Regional",
+          "cinemaName": "Unknown",
+          "city": "Unknown",
           "country": "AU",
           "Source": "Village Cinemas",
           "sessionId": "510809",
@@ -1677,9 +1677,9 @@
           "showTime": "13:15:00",
           "screenType": "Vmax",
           "totalSeats": 347,
-          "soldSeats": 10,
-          "occupancy": 2.88,
-          "gross": 300.0,
+          "soldSeats": 6,
+          "occupancy": 1.73,
+          "gross": 180.0,
           "maxGross": 10410.0
         },
         {
@@ -1823,9 +1823,9 @@
       "summary": {
         "shows": 36,
         "totalSeats": 7321,
-        "soldSeats": 498,
-        "gross": 16145.0,
-        "occupancy": "6.8%"
+        "soldSeats": 512,
+        "gross": 16533.0,
+        "occupancy": "6.99%"
       },
       "shows": [
         {
@@ -1838,9 +1838,9 @@
           "showTime": "18:50:00",
           "screenType": "Vmax",
           "totalSeats": 279,
-          "soldSeats": 56,
-          "occupancy": 20.07,
-          "gross": 2016.0,
+          "soldSeats": 57,
+          "occupancy": 20.43,
+          "gross": 2052.0,
           "maxGross": 10044.0
         },
         {
@@ -1898,9 +1898,9 @@
           "showTime": "14:15:00",
           "screenType": "Standard",
           "totalSeats": 163,
-          "soldSeats": 7,
-          "occupancy": 4.29,
-          "gross": 182.0,
+          "soldSeats": 11,
+          "occupancy": 6.75,
+          "gross": 286.0,
           "maxGross": 4238.0
         },
         {
@@ -2003,9 +2003,9 @@
           "showTime": "15:30:00",
           "screenType": "Vmax",
           "totalSeats": 277,
-          "soldSeats": 53,
-          "occupancy": 19.13,
-          "gross": 1590.0,
+          "soldSeats": 54,
+          "occupancy": 19.49,
+          "gross": 1620.0,
           "maxGross": 8310.0
         },
         {
@@ -2040,8 +2040,8 @@
         },
         {
           "cinemaId": "311",
-          "cinemaName": "Century City",
-          "city": "VIC Metro",
+          "cinemaName": "Unknown",
+          "city": "Unknown",
           "country": "AU",
           "Source": "Village Cinemas",
           "sessionId": "466209",
@@ -2055,8 +2055,8 @@
         },
         {
           "cinemaId": "311",
-          "cinemaName": "Century City",
-          "city": "VIC Metro",
+          "cinemaName": "Unknown",
+          "city": "Unknown",
           "country": "AU",
           "Source": "Village Cinemas",
           "sessionId": "466211",
@@ -2070,8 +2070,8 @@
         },
         {
           "cinemaId": "311",
-          "cinemaName": "Century City",
-          "city": "VIC Metro",
+          "cinemaName": "Unknown",
+          "city": "Unknown",
           "country": "AU",
           "Source": "Village Cinemas",
           "sessionId": "466213",
@@ -2100,8 +2100,8 @@
         },
         {
           "cinemaId": "303",
-          "cinemaName": "Crown",
-          "city": "VIC Metro",
+          "cinemaName": "Unknown",
+          "city": "Unknown",
           "country": "AU",
           "Source": "Village Cinemas",
           "sessionId": "659554",
@@ -2115,8 +2115,8 @@
         },
         {
           "cinemaId": "303",
-          "cinemaName": "Crown",
-          "city": "VIC Metro",
+          "cinemaName": "Unknown",
+          "city": "Unknown",
           "country": "AU",
           "Source": "Village Cinemas",
           "sessionId": "661253",
@@ -2130,8 +2130,8 @@
         },
         {
           "cinemaId": "303",
-          "cinemaName": "Crown",
-          "city": "VIC Metro",
+          "cinemaName": "Unknown",
+          "city": "Unknown",
           "country": "AU",
           "Source": "Village Cinemas",
           "sessionId": "661246",
@@ -2145,8 +2145,8 @@
         },
         {
           "cinemaId": "303",
-          "cinemaName": "Crown",
-          "city": "VIC Metro",
+          "cinemaName": "Unknown",
+          "city": "Unknown",
           "country": "AU",
           "Source": "Village Cinemas",
           "sessionId": "659573",
@@ -2198,9 +2198,9 @@
           "showTime": "17:00:00",
           "screenType": "Standard",
           "totalSeats": 284,
-          "soldSeats": 32,
-          "occupancy": 11.27,
-          "gross": 832.0,
+          "soldSeats": 39,
+          "occupancy": 13.73,
+          "gross": 1014.0,
           "maxGross": 7384.0
         },
         {
@@ -2303,9 +2303,9 @@
           "showTime": "13:15:00",
           "screenType": "Vmax",
           "totalSeats": 279,
-          "soldSeats": 17,
-          "occupancy": 6.09,
-          "gross": 612.0,
+          "soldSeats": 18,
+          "occupancy": 6.45,
+          "gross": 648.0,
           "maxGross": 10044.0
         },
         {
