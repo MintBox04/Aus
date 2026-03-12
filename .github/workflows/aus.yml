@@ -10,7 +10,7 @@ jobs:
 
     strategy:
       matrix:
-        scraper: [VillageCinemas, eventCinemas, hoyts]
+        scraper: [VillageCinemas, eventCinemas, hoyts, hoynz, eventnz]
 
     steps:
       - name: Checkout repo
@@ -34,7 +34,7 @@ jobs:
 
           echo "Running $SCRIPT"
 
-          for i in {1..5}; do
+          for i in {1..6}; do
             echo "Attempt $i"
 
             if python $SCRIPT; then
@@ -51,7 +51,8 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add data/
+          git add data/ nz/
+
           git commit -m "[skip ci] ${{ matrix.scraper }} update ($(date -u +'%Y-%m-%d %H:%M:%S UTC'))" || echo "No changes"
 
           sleep $((RANDOM % 10))
@@ -110,6 +111,7 @@ jobs:
       - name: Run merger
         run: |
           echo "Running merger..."
+
           for i in {1..5}; do
             echo "Attempt $i"
 
@@ -124,7 +126,8 @@ jobs:
 
       - name: Commit merged data
         run: |
-          git add data/
+          git add data/ nz/
+
           git commit -m "Merged cinema data ($(date -u +'%Y-%m-%d %H:%M:%S UTC'))" || echo "No changes"
 
           sleep $((RANDOM % 10))

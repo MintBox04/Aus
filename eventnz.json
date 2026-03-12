@@ -1,0 +1,155 @@
+[
+  {
+    "id": 504,
+    "code": 144,
+    "name": "Albany",
+    "state": "NZ",
+    "lat": -36.724851,
+    "long": 174.708511,
+    "url": "/Cinema/Albany"
+  },
+  {
+    "id": 518,
+    "code": 172,
+    "name": "Blenheim",
+    "state": "NZ",
+    "lat": -41.5151102,
+    "long": 173.9577328,
+    "url": "/Cinema/Blenheim"
+  },
+  {
+    "id": 508,
+    "code": 148,
+    "name": "Chartwell",
+    "state": "NZ",
+    "lat": -37.750579,
+    "long": 175.279151,
+    "url": "/Cinema/Chartwell"
+  },
+  {
+    "id": 516,
+    "code": 167,
+    "name": "Coastlands",
+    "state": "NZ",
+    "lat": -40.917047,
+    "long": 175.003448,
+    "url": "/Cinema/Coastlands"
+  },
+  {
+    "id": 512,
+    "code": 152,
+    "name": "Embassy Theatre",
+    "state": "NZ",
+    "lat": -41.29432,
+    "long": 174.784058,
+    "url": "/Cinema/Embassy-Theatre"
+  },
+  {
+    "id": 507,
+    "code": 147,
+    "name": "Manukau",
+    "state": "NZ",
+    "lat": -36.991456,
+    "long": 174.880972,
+    "url": "/Cinema/Manukau"
+  },
+  {
+    "id": 510,
+    "code": 150,
+    "name": "New Plymouth",
+    "state": "NZ",
+    "lat": -39.056467,
+    "long": 174.077881,
+    "url": "/Cinema/New-Plymouth"
+  },
+  {
+    "id": 520,
+    "code": 176,
+    "name": "Newmarket (Westfield Mall)",
+    "state": "NZ",
+    "lat": -36.871756,
+    "long": 174.7745491,
+    "url": "/Cinema/Newmarket-Westfield"
+  },
+  {
+    "id": 517,
+    "code": 166,
+    "name": "Palmerston North",
+    "state": "NZ",
+    "lat": -40.3542359,
+    "long": 175.6107583,
+    "url": "/Cinema/Palmerston-North"
+  },
+  {
+    "id": 502,
+    "code": 142,
+    "name": "Queen Street (Auckland)",
+    "state": "NZ",
+    "lat": -36.8513867,
+    "long": 174.7616563,
+    "url": "/Cinema/Queen-Street"
+  },
+  {
+    "id": 511,
+    "code": 151,
+    "name": "Queensgate (Wellington)",
+    "state": "NZ",
+    "lat": -41.210397,
+    "long": 174.9061755,
+    "url": "/Cinema/Queensgate"
+  },
+  {
+    "id": 509,
+    "code": 149,
+    "name": "St Lukes",
+    "state": "NZ",
+    "lat": -36.88295,
+    "long": 174.733386,
+    "url": "/Cinema/St-Lukes"
+  },
+  {
+    "id": 513,
+    "code": 157,
+    "name": "Tauranga Central",
+    "state": "NZ",
+    "lat": -37.686815,
+    "long": 176.168396,
+    "url": "/Cinema/Tauranga-Central"
+  },
+  {
+    "id": 519,
+    "code": 175,
+    "name": "Tauranga Crossing",
+    "state": "NZ",
+    "lat": -37.744565,
+    "long": 176.10134,
+    "url": "/Cinema/Tauranga-Crossing"
+  },
+  {
+    "id": 506,
+    "code": 146,
+    "name": "Westcity",
+    "state": "NZ",
+    "lat": -36.881002,
+    "long": 174.632964,
+    "url": "/Cinema/Westcity"
+  },
+  {
+    "id": 505,
+    "code": 145,
+    "name": "Westgate (Auckland)",
+    "state": "NZ",
+    "lat": -36.821395,
+    "long": 174.611796,
+    "url": "/Cinema/Westgate"
+  },
+  {
+    "id": 503,
+    "code": 143,
+    "name": "Whangarei",
+    "state": "NZ",
+    "lat": -35.7252576,
+    "long": 174.3192153,
+    "url": "/Cinema/Whangarei"
+  }
+]
