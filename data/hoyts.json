@@ -3,11 +3,11 @@
     "movieName": "Dhurandhar: The Revenge (Hindi, Eng Sub)",
     "2026-03-19": {
       "summary": {
-        "shows": 145,
-        "totalSeats": 28960,
-        "soldSeats": 7535,
-        "gross": 220955.5,
-        "occupancy": "26.02%"
+        "shows": 146,
+        "totalSeats": 29140,
+        "soldSeats": 7615,
+        "gross": 223270.5,
+        "occupancy": "26.13%"
       },
       "shows": [
         {
@@ -20,9 +20,9 @@
           "showTime": "15:30:00",
           "screenType": "",
           "totalSeats": 278,
-          "soldSeats": 83,
-          "occupancy": 29.86,
-          "gross": 2780.5,
+          "soldSeats": 85,
+          "occupancy": 30.58,
+          "gross": 2847.5,
           "maxGross": 9313.0
         },
         {
@@ -230,9 +230,9 @@
           "showTime": "21:00:00",
           "screenType": "",
           "totalSeats": 140,
-          "soldSeats": 39,
-          "occupancy": 27.86,
-          "gross": 1053.0,
+          "soldSeats": 40,
+          "occupancy": 28.57,
+          "gross": 1080.0,
           "maxGross": 3780.0
         },
         {
@@ -245,9 +245,9 @@
           "showTime": "21:30:00",
           "screenType": "",
           "totalSeats": 316,
-          "soldSeats": 128,
-          "occupancy": 40.51,
-          "gross": 4224.0,
+          "soldSeats": 130,
+          "occupancy": 41.14,
+          "gross": 4290.0,
           "maxGross": 10428.0
         },
         {
@@ -260,9 +260,9 @@
           "showTime": "21:15:00",
           "screenType": "",
           "totalSeats": 163,
-          "soldSeats": 70,
-          "occupancy": 42.94,
-          "gross": 2030.0,
+          "soldSeats": 75,
+          "occupancy": 46.01,
+          "gross": 2175.0,
           "maxGross": 4727.0
         },
         {
@@ -860,9 +860,9 @@
           "showTime": "15:30:00",
           "screenType": "",
           "totalSeats": 160,
-          "soldSeats": 18,
-          "occupancy": 11.25,
-          "gross": 594.0,
+          "soldSeats": 20,
+          "occupancy": 12.5,
+          "gross": 660.0,
           "maxGross": 5280.0
         },
         {
@@ -1025,9 +1025,9 @@
           "showTime": "20:30:00",
           "screenType": "",
           "totalSeats": 140,
-          "soldSeats": 59,
-          "occupancy": 42.14,
-          "gross": 1652.0,
+          "soldSeats": 63,
+          "occupancy": 45.0,
+          "gross": 1764.0,
           "maxGross": 3920.0
         },
         {
@@ -1160,9 +1160,9 @@
           "showTime": "20:40:00",
           "screenType": "",
           "totalSeats": 134,
-          "soldSeats": 69,
-          "occupancy": 51.49,
-          "gross": 2001.0,
+          "soldSeats": 71,
+          "occupancy": 52.99,
+          "gross": 2059.0,
           "maxGross": 3886.0
         },
         {
@@ -1190,9 +1190,9 @@
           "showTime": "21:15:00",
           "screenType": "",
           "totalSeats": 180,
-          "soldSeats": 52,
-          "occupancy": 28.89,
-          "gross": 1508.0,
+          "soldSeats": 58,
+          "occupancy": 32.22,
+          "gross": 1682.0,
           "maxGross": 5220.0
         },
         {
@@ -1280,9 +1280,9 @@
           "showTime": "12:20:00",
           "screenType": "",
           "totalSeats": 180,
-          "soldSeats": 50,
-          "occupancy": 27.78,
-          "gross": 1400.0,
+          "soldSeats": 54,
+          "occupancy": 30.0,
+          "gross": 1512.0,
           "maxGross": 5040.0
         },
         {
@@ -1295,9 +1295,9 @@
           "showTime": "16:30:00",
           "screenType": "",
           "totalSeats": 408,
-          "soldSeats": 179,
-          "occupancy": 43.87,
-          "gross": 5907.0,
+          "soldSeats": 183,
+          "occupancy": 44.85,
+          "gross": 6039.0,
           "maxGross": 13464.0
         },
         {
@@ -1325,9 +1325,9 @@
           "showTime": "15:45:00",
           "screenType": "",
           "totalSeats": 180,
-          "soldSeats": 43,
-          "occupancy": 23.89,
-          "gross": 1204.0,
+          "soldSeats": 51,
+          "occupancy": 28.33,
+          "gross": 1428.0,
           "maxGross": 5040.0
         },
         {
@@ -1520,9 +1520,9 @@
           "showTime": "22:00:00",
           "screenType": "",
           "totalSeats": 180,
-          "soldSeats": 70,
-          "occupancy": 38.89,
-          "gross": 1960.0,
+          "soldSeats": 68,
+          "occupancy": 37.78,
+          "gross": 1904.0,
           "maxGross": 5040.0
         },
         {
@@ -1640,9 +1640,9 @@
           "showTime": "20:15:00",
           "screenType": "",
           "totalSeats": 280,
-          "soldSeats": 57,
-          "occupancy": 20.36,
-          "gross": 1396.5,
+          "soldSeats": 65,
+          "occupancy": 23.21,
+          "gross": 1592.5,
           "maxGross": 6860.0
         },
         {
@@ -1745,9 +1745,9 @@
           "showTime": "20:30:00",
           "screenType": "",
           "totalSeats": 272,
-          "soldSeats": 31,
-          "occupancy": 11.4,
-          "gross": 976.5,
+          "soldSeats": 33,
+          "occupancy": 12.13,
+          "gross": 1039.5,
           "maxGross": 8568.0
         },
         {
@@ -1760,9 +1760,9 @@
           "showTime": "20:00:00",
           "screenType": "",
           "totalSeats": 245,
-          "soldSeats": 108,
-          "occupancy": 44.08,
-          "gross": 3348.0,
+          "soldSeats": 110,
+          "occupancy": 44.9,
+          "gross": 3410.0,
           "maxGross": 7595.0
         },
         {
@@ -1790,9 +1790,9 @@
           "showTime": "11:00:00",
           "screenType": "",
           "totalSeats": 384,
-          "soldSeats": 40,
-          "occupancy": 10.42,
-          "gross": 1320.0,
+          "soldSeats": 46,
+          "occupancy": 11.98,
+          "gross": 1518.0,
           "maxGross": 12672.0
         },
         {
@@ -1880,9 +1880,9 @@
           "showTime": "16:00:00",
           "screenType": "",
           "totalSeats": 384,
-          "soldSeats": 103,
-          "occupancy": 26.82,
-          "gross": 3399.0,
+          "soldSeats": 105,
+          "occupancy": 27.34,
+          "gross": 3465.0,
           "maxGross": 12672.0
         },
         {
@@ -1955,9 +1955,9 @@
           "showTime": "11:20:00",
           "screenType": "",
           "totalSeats": 243,
-          "soldSeats": 31,
-          "occupancy": 12.76,
-          "gross": 1023.0,
+          "soldSeats": 32,
+          "occupancy": 13.17,
+          "gross": 1056.0,
           "maxGross": 8019.0
         },
         {
@@ -2030,9 +2030,9 @@
           "showTime": "19:45:00",
           "screenType": "",
           "totalSeats": 91,
-          "soldSeats": 34,
-          "occupancy": 37.36,
-          "gross": 935.0,
+          "soldSeats": 36,
+          "occupancy": 39.56,
+          "gross": 990.0,
           "maxGross": 2502.5
         },
         {
@@ -2045,9 +2045,9 @@
           "showTime": "13:10:00",
           "screenType": "",
           "totalSeats": 276,
-          "soldSeats": 0,
-          "occupancy": 0.0,
-          "gross": 0.0,
+          "soldSeats": 1,
+          "occupancy": 0.36,
+          "gross": 28.5,
           "maxGross": 7866.0
         },
         {
@@ -2060,9 +2060,9 @@
           "showTime": "20:45:00",
           "screenType": "",
           "totalSeats": 240,
-          "soldSeats": 61,
-          "occupancy": 25.42,
-          "gross": 1738.5,
+          "soldSeats": 68,
+          "occupancy": 28.33,
+          "gross": 1938.0,
           "maxGross": 6840.0
         },
         {
@@ -2120,9 +2120,9 @@
           "showTime": "14:00:00",
           "screenType": "",
           "totalSeats": 200,
-          "soldSeats": 0,
-          "occupancy": 0.0,
-          "gross": 0.0,
+          "soldSeats": 2,
+          "occupancy": 1.0,
+          "gross": 53.0,
           "maxGross": 5300.0
         },
         {
@@ -2180,20 +2180,35 @@
           "showTime": "21:30:00",
           "screenType": "",
           "totalSeats": 77,
-          "soldSeats": 2,
-          "occupancy": 2.6,
-          "gross": 52.0,
+          "soldSeats": 11,
+          "occupancy": 14.29,
+          "gross": 286.0,
           "maxGross": 2002.0
+        },
+        {
+          "cinemaId": "HIGPNT",
+          "cinemaName": "Highpoint",
+          "city": "Maribyrnong",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "534884",
+          "showTime": "16:40:00",
+          "screenType": "",
+          "totalSeats": 180,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 5040.0
         }
       ]
     },
     "2026-03-21": {
       "summary": {
-        "shows": 127,
-        "totalSeats": 25790,
-        "soldSeats": 7228,
-        "gross": 213973.5,
-        "occupancy": "28.03%"
+        "shows": 131,
+        "totalSeats": 26540,
+        "soldSeats": 7336,
+        "gross": 217284.0,
+        "occupancy": "27.64%"
       },
       "shows": [
         {
@@ -2281,9 +2296,9 @@
           "showTime": "21:00:00",
           "screenType": "",
           "totalSeats": 140,
-          "soldSeats": 33,
-          "occupancy": 23.57,
-          "gross": 891.0,
+          "soldSeats": 37,
+          "occupancy": 26.43,
+          "gross": 999.0,
           "maxGross": 3780.0
         },
         {
@@ -2311,9 +2326,9 @@
           "showTime": "14:45:00",
           "screenType": "",
           "totalSeats": 396,
-          "soldSeats": 117,
-          "occupancy": 29.55,
-          "gross": 3861.0,
+          "soldSeats": 121,
+          "occupancy": 30.56,
+          "gross": 3993.0,
           "maxGross": 13068.0
         },
         {
@@ -2326,9 +2341,9 @@
           "showTime": "11:00:00",
           "screenType": "",
           "totalSeats": 384,
-          "soldSeats": 108,
-          "occupancy": 28.12,
-          "gross": 3564.0,
+          "soldSeats": 110,
+          "occupancy": 28.65,
+          "gross": 3630.0,
           "maxGross": 12672.0
         },
         {
@@ -2356,9 +2371,9 @@
           "showTime": "16:00:00",
           "screenType": "",
           "totalSeats": 384,
-          "soldSeats": 164,
-          "occupancy": 42.71,
-          "gross": 5412.0,
+          "soldSeats": 167,
+          "occupancy": 43.49,
+          "gross": 5511.0,
           "maxGross": 12672.0
         },
         {
@@ -2431,9 +2446,9 @@
           "showTime": "19:45:00",
           "screenType": "",
           "totalSeats": 396,
-          "soldSeats": 162,
-          "occupancy": 40.91,
-          "gross": 5346.0,
+          "soldSeats": 165,
+          "occupancy": 41.67,
+          "gross": 5445.0,
           "maxGross": 13068.0
         },
         {
@@ -2536,9 +2551,9 @@
           "showTime": "16:10:00",
           "screenType": "",
           "totalSeats": 230,
-          "soldSeats": 29,
-          "occupancy": 12.61,
-          "gross": 957.0,
+          "soldSeats": 31,
+          "occupancy": 13.48,
+          "gross": 1023.0,
           "maxGross": 7590.0
         },
         {
@@ -2731,9 +2746,9 @@
           "showTime": "15:45:00",
           "screenType": "",
           "totalSeats": 476,
-          "soldSeats": 43,
-          "occupancy": 9.03,
-          "gross": 1290.0,
+          "soldSeats": 48,
+          "occupancy": 10.08,
+          "gross": 1440.0,
           "maxGross": 14280.0
         },
         {
@@ -2896,9 +2911,9 @@
           "showTime": "15:15:00",
           "screenType": "",
           "totalSeats": 202,
-          "soldSeats": 67,
-          "occupancy": 33.17,
-          "gross": 2211.0,
+          "soldSeats": 69,
+          "occupancy": 34.16,
+          "gross": 2277.0,
           "maxGross": 6666.0
         },
         {
@@ -2956,9 +2971,9 @@
           "showTime": "20:15:00",
           "screenType": "",
           "totalSeats": 202,
-          "soldSeats": 80,
-          "occupancy": 39.6,
-          "gross": 2640.0,
+          "soldSeats": 75,
+          "occupancy": 37.13,
+          "gross": 2475.0,
           "maxGross": 6666.0
         },
         {
@@ -3031,9 +3046,9 @@
           "showTime": "21:00:00",
           "screenType": "",
           "totalSeats": 190,
-          "soldSeats": 43,
-          "occupancy": 22.63,
-          "gross": 1204.0,
+          "soldSeats": 45,
+          "occupancy": 23.68,
+          "gross": 1260.0,
           "maxGross": 5320.0
         },
         {
@@ -3166,9 +3181,9 @@
           "showTime": "16:00:00",
           "screenType": "",
           "totalSeats": 202,
-          "soldSeats": 96,
-          "occupancy": 47.52,
-          "gross": 3168.0,
+          "soldSeats": 104,
+          "occupancy": 51.49,
+          "gross": 3432.0,
           "maxGross": 6666.0
         },
         {
@@ -3346,9 +3361,9 @@
           "showTime": "15:40:00",
           "screenType": "",
           "totalSeats": 144,
-          "soldSeats": 50,
-          "occupancy": 34.72,
-          "gross": 975.0,
+          "soldSeats": 45,
+          "occupancy": 31.25,
+          "gross": 877.5,
           "maxGross": 2808.0
         },
         {
@@ -3376,9 +3391,9 @@
           "showTime": "12:30:00",
           "screenType": "",
           "totalSeats": 108,
-          "soldSeats": 35,
-          "occupancy": 32.41,
-          "gross": 962.5,
+          "soldSeats": 38,
+          "occupancy": 35.19,
+          "gross": 1045.0,
           "maxGross": 2970.0
         },
         {
@@ -3406,9 +3421,9 @@
           "showTime": "15:15:00",
           "screenType": "",
           "totalSeats": 114,
-          "soldSeats": 22,
-          "occupancy": 19.3,
-          "gross": 726.0,
+          "soldSeats": 26,
+          "occupancy": 22.81,
+          "gross": 858.0,
           "maxGross": 3762.0
         },
         {
@@ -3616,9 +3631,9 @@
           "showTime": "20:15:00",
           "screenType": "",
           "totalSeats": 280,
-          "soldSeats": 11,
-          "occupancy": 3.93,
-          "gross": 269.5,
+          "soldSeats": 14,
+          "occupancy": 5.0,
+          "gross": 343.0,
           "maxGross": 6860.0
         },
         {
@@ -3631,9 +3646,9 @@
           "showTime": "16:30:00",
           "screenType": "",
           "totalSeats": 408,
-          "soldSeats": 184,
-          "occupancy": 45.1,
-          "gross": 6072.0,
+          "soldSeats": 188,
+          "occupancy": 46.08,
+          "gross": 6204.0,
           "maxGross": 13464.0
         },
         {
@@ -3766,9 +3781,9 @@
           "showTime": "20:00:00",
           "screenType": "",
           "totalSeats": 230,
-          "soldSeats": 85,
-          "occupancy": 36.96,
-          "gross": 2252.5,
+          "soldSeats": 86,
+          "occupancy": 37.39,
+          "gross": 2279.0,
           "maxGross": 6095.0
         },
         {
@@ -3781,9 +3796,9 @@
           "showTime": "10:30:00",
           "screenType": "",
           "totalSeats": 160,
-          "soldSeats": 24,
-          "occupancy": 15.0,
-          "gross": 792.0,
+          "soldSeats": 26,
+          "occupancy": 16.25,
+          "gross": 858.0,
           "maxGross": 5280.0
         },
         {
@@ -3796,9 +3811,9 @@
           "showTime": "21:00:00",
           "screenType": "",
           "totalSeats": 96,
-          "soldSeats": 28,
-          "occupancy": 29.17,
-          "gross": 728.0,
+          "soldSeats": 35,
+          "occupancy": 36.46,
+          "gross": 910.0,
           "maxGross": 2496.0
         },
         {
@@ -3811,9 +3826,9 @@
           "showTime": "11:00:00",
           "screenType": "",
           "totalSeats": 202,
-          "soldSeats": 26,
-          "occupancy": 12.87,
-          "gross": 858.0,
+          "soldSeats": 30,
+          "occupancy": 14.85,
+          "gross": 990.0,
           "maxGross": 6666.0
         },
         {
@@ -3856,9 +3871,9 @@
           "showTime": "21:30:00",
           "screenType": "",
           "totalSeats": 200,
-          "soldSeats": 67,
-          "occupancy": 33.5,
-          "gross": 1775.5,
+          "soldSeats": 69,
+          "occupancy": 34.5,
+          "gross": 1828.5,
           "maxGross": 5300.0
         },
         {
@@ -3931,9 +3946,9 @@
           "showTime": "13:10:00",
           "screenType": "",
           "totalSeats": 276,
-          "soldSeats": 8,
-          "occupancy": 2.9,
-          "gross": 228.0,
+          "soldSeats": 15,
+          "occupancy": 5.43,
+          "gross": 427.5,
           "maxGross": 7866.0
         },
         {
@@ -3946,9 +3961,9 @@
           "showTime": "15:30:00",
           "screenType": "",
           "totalSeats": 278,
-          "soldSeats": 53,
-          "occupancy": 19.06,
-          "gross": 1775.5,
+          "soldSeats": 64,
+          "occupancy": 23.02,
+          "gross": 2144.0,
           "maxGross": 9313.0
         },
         {
@@ -3961,9 +3976,9 @@
           "showTime": "20:20:00",
           "screenType": "",
           "totalSeats": 278,
-          "soldSeats": 95,
-          "occupancy": 34.17,
-          "gross": 3182.5,
+          "soldSeats": 111,
+          "occupancy": 39.93,
+          "gross": 3718.5,
           "maxGross": 9313.0
         },
         {
@@ -3976,9 +3991,9 @@
           "showTime": "19:30:00",
           "screenType": "",
           "totalSeats": 174,
-          "soldSeats": 8,
-          "occupancy": 4.6,
-          "gross": 152.0,
+          "soldSeats": 11,
+          "occupancy": 6.32,
+          "gross": 209.0,
           "maxGross": 3306.0
         },
         {
@@ -4021,9 +4036,9 @@
           "showTime": "19:45:00",
           "screenType": "",
           "totalSeats": 160,
-          "soldSeats": 37,
-          "occupancy": 23.12,
-          "gross": 980.5,
+          "soldSeats": 39,
+          "occupancy": 24.38,
+          "gross": 1033.5,
           "maxGross": 4240.0
         },
         {
@@ -4036,9 +4051,9 @@
           "showTime": "22:15:00",
           "screenType": "",
           "totalSeats": 228,
-          "soldSeats": 2,
-          "occupancy": 0.88,
-          "gross": 53.0,
+          "soldSeats": 5,
+          "occupancy": 2.19,
+          "gross": 132.5,
           "maxGross": 6042.0
         },
         {
@@ -4066,9 +4081,9 @@
           "showTime": "14:15:00",
           "screenType": "",
           "totalSeats": 77,
-          "soldSeats": 0,
-          "occupancy": 0.0,
-          "gross": 0.0,
+          "soldSeats": 2,
+          "occupancy": 2.6,
+          "gross": 52.0,
           "maxGross": 2002.0
         },
         {
@@ -4081,9 +4096,9 @@
           "showTime": "21:30:00",
           "screenType": "",
           "totalSeats": 77,
-          "soldSeats": 0,
-          "occupancy": 0.0,
-          "gross": 0.0,
+          "soldSeats": 5,
+          "occupancy": 6.49,
+          "gross": 130.0,
           "maxGross": 2002.0
         },
         {
@@ -4100,16 +4115,76 @@
           "occupancy": 6.58,
           "gross": 280.0,
           "maxGross": 4256.0
+        },
+        {
+          "cinemaId": "HIGPNT",
+          "cinemaName": "Highpoint",
+          "city": "Maribyrnong",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "534672",
+          "showTime": "12:20:00",
+          "screenType": "",
+          "totalSeats": 210,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 5880.0
+        },
+        {
+          "cinemaId": "HIGPNT",
+          "cinemaName": "Highpoint",
+          "city": "Maribyrnong",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "534676",
+          "showTime": "17:00:00",
+          "screenType": "",
+          "totalSeats": 180,
+          "soldSeats": 4,
+          "occupancy": 2.22,
+          "gross": 112.0,
+          "maxGross": 5040.0
+        },
+        {
+          "cinemaId": "HIGPNT",
+          "cinemaName": "Highpoint",
+          "city": "Maribyrnong",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "534670",
+          "showTime": "20:30:00",
+          "screenType": "",
+          "totalSeats": 180,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 5040.0
+        },
+        {
+          "cinemaId": "HIGPNT",
+          "cinemaName": "Highpoint",
+          "city": "Maribyrnong",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "534671",
+          "showTime": "10:20:00",
+          "screenType": "",
+          "totalSeats": 180,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 5040.0
         }
       ]
     },
     "2026-03-22": {
       "summary": {
-        "shows": 120,
-        "totalSeats": 23877,
-        "soldSeats": 4510,
-        "gross": 134240.5,
-        "occupancy": "18.89%"
+        "shows": 124,
+        "totalSeats": 24627,
+        "soldSeats": 4554,
+        "gross": 135599.5,
+        "occupancy": "18.49%"
       },
       "shows": [
         {
@@ -4152,9 +4227,9 @@
           "showTime": "20:15:00",
           "screenType": "",
           "totalSeats": 160,
-          "soldSeats": 43,
-          "occupancy": 26.88,
-          "gross": 1204.0,
+          "soldSeats": 45,
+          "occupancy": 28.12,
+          "gross": 1260.0,
           "maxGross": 4480.0
         },
         {
@@ -4257,9 +4332,9 @@
           "showTime": "21:15:00",
           "screenType": "",
           "totalSeats": 198,
-          "soldSeats": 17,
-          "occupancy": 8.59,
-          "gross": 544.0,
+          "soldSeats": 22,
+          "occupancy": 11.11,
+          "gross": 704.0,
           "maxGross": 6336.0
         },
         {
@@ -4272,9 +4347,9 @@
           "showTime": "11:00:00",
           "screenType": "",
           "totalSeats": 384,
-          "soldSeats": 71,
-          "occupancy": 18.49,
-          "gross": 2343.0,
+          "soldSeats": 77,
+          "occupancy": 20.05,
+          "gross": 2541.0,
           "maxGross": 12672.0
         },
         {
@@ -4302,9 +4377,9 @@
           "showTime": "13:30:00",
           "screenType": "",
           "totalSeats": 98,
-          "soldSeats": 32,
-          "occupancy": 32.65,
-          "gross": 896.0,
+          "soldSeats": 34,
+          "occupancy": 34.69,
+          "gross": 952.0,
           "maxGross": 2744.0
         },
         {
@@ -4332,9 +4407,9 @@
           "showTime": "14:45:00",
           "screenType": "",
           "totalSeats": 396,
-          "soldSeats": 94,
-          "occupancy": 23.74,
-          "gross": 3102.0,
+          "soldSeats": 95,
+          "occupancy": 23.99,
+          "gross": 3135.0,
           "maxGross": 13068.0
         },
         {
@@ -4362,9 +4437,9 @@
           "showTime": "16:00:00",
           "screenType": "",
           "totalSeats": 384,
-          "soldSeats": 135,
-          "occupancy": 35.16,
-          "gross": 4455.0,
+          "soldSeats": 133,
+          "occupancy": 34.64,
+          "gross": 4389.0,
           "maxGross": 12672.0
         },
         {
@@ -4467,9 +4542,9 @@
           "showTime": "21:30:00",
           "screenType": "",
           "totalSeats": 316,
-          "soldSeats": 37,
-          "occupancy": 11.71,
-          "gross": 1221.0,
+          "soldSeats": 39,
+          "occupancy": 12.34,
+          "gross": 1287.0,
           "maxGross": 10428.0
         },
         {
@@ -4542,9 +4617,9 @@
           "showTime": "20:30:00",
           "screenType": "",
           "totalSeats": 374,
-          "soldSeats": 53,
-          "occupancy": 14.17,
-          "gross": 1749.0,
+          "soldSeats": 57,
+          "occupancy": 15.24,
+          "gross": 1881.0,
           "maxGross": 12342.0
         },
         {
@@ -4587,9 +4662,9 @@
           "showTime": "20:00:00",
           "screenType": "",
           "totalSeats": 168,
-          "soldSeats": 37,
-          "occupancy": 22.02,
-          "gross": 962.0,
+          "soldSeats": 39,
+          "occupancy": 23.21,
+          "gross": 1014.0,
           "maxGross": 4368.0
         },
         {
@@ -4887,9 +4962,9 @@
           "showTime": "20:30:00",
           "screenType": "",
           "totalSeats": 160,
-          "soldSeats": 42,
-          "occupancy": 26.25,
-          "gross": 1386.0,
+          "soldSeats": 44,
+          "occupancy": 27.5,
+          "gross": 1452.0,
           "maxGross": 5280.0
         },
         {
@@ -5037,9 +5112,9 @@
           "showTime": "16:00:00",
           "screenType": "",
           "totalSeats": 202,
-          "soldSeats": 91,
-          "occupancy": 45.05,
-          "gross": 3003.0,
+          "soldSeats": 93,
+          "occupancy": 46.04,
+          "gross": 3069.0,
           "maxGross": 6666.0
         },
         {
@@ -5442,9 +5517,9 @@
           "showTime": "16:15:00",
           "screenType": "",
           "totalSeats": 236,
-          "soldSeats": 89,
-          "occupancy": 37.71,
-          "gross": 2492.0,
+          "soldSeats": 90,
+          "occupancy": 38.14,
+          "gross": 2520.0,
           "maxGross": 6608.0
         },
         {
@@ -5637,9 +5712,9 @@
           "showTime": "11:00:00",
           "screenType": "",
           "totalSeats": 202,
-          "soldSeats": 38,
-          "occupancy": 18.81,
-          "gross": 1254.0,
+          "soldSeats": 41,
+          "occupancy": 20.3,
+          "gross": 1353.0,
           "maxGross": 6666.0
         },
         {
@@ -5682,9 +5757,9 @@
           "showTime": "15:00:00",
           "screenType": "",
           "totalSeats": 245,
-          "soldSeats": 60,
-          "occupancy": 24.49,
-          "gross": 1860.0,
+          "soldSeats": 63,
+          "occupancy": 25.71,
+          "gross": 1953.0,
           "maxGross": 7595.0
         },
         {
@@ -5697,9 +5772,9 @@
           "showTime": "20:30:00",
           "screenType": "",
           "totalSeats": 160,
-          "soldSeats": 4,
-          "occupancy": 2.5,
-          "gross": 104.0,
+          "soldSeats": 6,
+          "occupancy": 3.75,
+          "gross": 156.0,
           "maxGross": 4160.0
         },
         {
@@ -5742,9 +5817,9 @@
           "showTime": "15:45:00",
           "screenType": "",
           "totalSeats": 278,
-          "soldSeats": 45,
-          "occupancy": 16.19,
-          "gross": 1507.5,
+          "soldSeats": 46,
+          "occupancy": 16.55,
+          "gross": 1541.0,
           "maxGross": 9313.0
         },
         {
@@ -5757,9 +5832,9 @@
           "showTime": "20:30:00",
           "screenType": "",
           "totalSeats": 278,
-          "soldSeats": 13,
-          "occupancy": 4.68,
-          "gross": 435.5,
+          "soldSeats": 16,
+          "occupancy": 5.76,
+          "gross": 536.0,
           "maxGross": 9313.0
         },
         {
@@ -5877,9 +5952,9 @@
           "showTime": "14:15:00",
           "screenType": "",
           "totalSeats": 77,
-          "soldSeats": 2,
-          "occupancy": 2.6,
-          "gross": 52.0,
+          "soldSeats": 5,
+          "occupancy": 6.49,
+          "gross": 130.0,
           "maxGross": 2002.0
         },
         {
@@ -5907,20 +5982,80 @@
           "showTime": "20:15:00",
           "screenType": "",
           "totalSeats": 152,
-          "soldSeats": 2,
-          "occupancy": 1.32,
-          "gross": 56.0,
+          "soldSeats": 4,
+          "occupancy": 2.63,
+          "gross": 112.0,
           "maxGross": 4256.0
+        },
+        {
+          "cinemaId": "HIGPNT",
+          "cinemaName": "Highpoint",
+          "city": "Maribyrnong",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "534872",
+          "showTime": "10:20:00",
+          "screenType": "",
+          "totalSeats": 180,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 5040.0
+        },
+        {
+          "cinemaId": "HIGPNT",
+          "cinemaName": "Highpoint",
+          "city": "Maribyrnong",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "534695",
+          "showTime": "12:20:00",
+          "screenType": "",
+          "totalSeats": 210,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 5880.0
+        },
+        {
+          "cinemaId": "HIGPNT",
+          "cinemaName": "Highpoint",
+          "city": "Maribyrnong",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "534879",
+          "showTime": "17:00:00",
+          "screenType": "",
+          "totalSeats": 180,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 5040.0
+        },
+        {
+          "cinemaId": "HIGPNT",
+          "cinemaName": "Highpoint",
+          "city": "Maribyrnong",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "534875",
+          "showTime": "20:30:00",
+          "screenType": "",
+          "totalSeats": 180,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 5040.0
         }
       ]
     },
     "2026-03-20": {
       "summary": {
-        "shows": 146,
-        "totalSeats": 29314,
-        "soldSeats": 7255,
-        "gross": 212170.5,
-        "occupancy": "24.75%"
+        "shows": 147,
+        "totalSeats": 29494,
+        "soldSeats": 7312,
+        "gross": 213824.0,
+        "occupancy": "24.79%"
       },
       "shows": [
         {
@@ -6098,9 +6233,9 @@
           "showTime": "19:45:00",
           "screenType": "",
           "totalSeats": 396,
-          "soldSeats": 196,
-          "occupancy": 49.49,
-          "gross": 6468.0,
+          "soldSeats": 198,
+          "occupancy": 50.0,
+          "gross": 6534.0,
           "maxGross": 13068.0
         },
         {
@@ -6278,9 +6413,9 @@
           "showTime": "16:10:00",
           "screenType": "",
           "totalSeats": 230,
-          "soldSeats": 10,
-          "occupancy": 4.35,
-          "gross": 330.0,
+          "soldSeats": 12,
+          "occupancy": 5.22,
+          "gross": 396.0,
           "maxGross": 7590.0
         },
         {
@@ -6428,9 +6563,9 @@
           "showTime": "20:00:00",
           "screenType": "",
           "totalSeats": 168,
-          "soldSeats": 75,
-          "occupancy": 44.64,
-          "gross": 1950.0,
+          "soldSeats": 80,
+          "occupancy": 47.62,
+          "gross": 2080.0,
           "maxGross": 4368.0
         },
         {
@@ -6593,9 +6728,9 @@
           "showTime": "20:45:00",
           "screenType": "",
           "totalSeats": 476,
-          "soldSeats": 155,
-          "occupancy": 32.56,
-          "gross": 4650.0,
+          "soldSeats": 157,
+          "occupancy": 32.98,
+          "gross": 4710.0,
           "maxGross": 14280.0
         },
         {
@@ -6638,9 +6773,9 @@
           "showTime": "20:15:00",
           "screenType": "",
           "totalSeats": 99,
-          "soldSeats": 41,
-          "occupancy": 41.41,
-          "gross": 1148.0,
+          "soldSeats": 43,
+          "occupancy": 43.43,
+          "gross": 1204.0,
           "maxGross": 2772.0
         },
         {
@@ -6773,9 +6908,9 @@
           "showTime": "15:30:00",
           "screenType": "",
           "totalSeats": 160,
-          "soldSeats": 16,
-          "occupancy": 10.0,
-          "gross": 528.0,
+          "soldSeats": 19,
+          "occupancy": 11.88,
+          "gross": 627.0,
           "maxGross": 5280.0
         },
         {
@@ -6908,9 +7043,9 @@
           "showTime": "14:50:00",
           "screenType": "",
           "totalSeats": 91,
-          "soldSeats": 3,
-          "occupancy": 3.3,
-          "gross": 82.5,
+          "soldSeats": 7,
+          "occupancy": 7.69,
+          "gross": 192.5,
           "maxGross": 2502.5
         },
         {
@@ -7133,9 +7268,9 @@
           "showTime": "21:30:00",
           "screenType": "",
           "totalSeats": 140,
-          "soldSeats": 60,
-          "occupancy": 42.86,
-          "gross": 1680.0,
+          "soldSeats": 53,
+          "occupancy": 37.86,
+          "gross": 1484.0,
           "maxGross": 3920.0
         },
         {
@@ -7238,9 +7373,9 @@
           "showTime": "20:30:00",
           "screenType": "",
           "totalSeats": 144,
-          "soldSeats": 59,
-          "occupancy": 40.97,
-          "gross": 1150.5,
+          "soldSeats": 60,
+          "occupancy": 41.67,
+          "gross": 1170.0,
           "maxGross": 2808.0
         },
         {
@@ -7748,9 +7883,9 @@
           "showTime": "20:30:00",
           "screenType": "",
           "totalSeats": 272,
-          "soldSeats": 15,
-          "occupancy": 5.51,
-          "gross": 472.5,
+          "soldSeats": 17,
+          "occupancy": 6.25,
+          "gross": 535.5,
           "maxGross": 8568.0
         },
         {
@@ -7763,9 +7898,9 @@
           "showTime": "15:00:00",
           "screenType": "",
           "totalSeats": 230,
-          "soldSeats": 39,
-          "occupancy": 16.96,
-          "gross": 1033.5,
+          "soldSeats": 37,
+          "occupancy": 16.09,
+          "gross": 980.5,
           "maxGross": 6095.0
         },
         {
@@ -7928,9 +8063,9 @@
           "showTime": "10:45:00",
           "screenType": "",
           "totalSeats": 130,
-          "soldSeats": 0,
-          "occupancy": 0.0,
-          "gross": 0.0,
+          "soldSeats": 1,
+          "occupancy": 0.77,
+          "gross": 30.0,
           "maxGross": 3900.0
         },
         {
@@ -7943,9 +8078,9 @@
           "showTime": "15:00:00",
           "screenType": "",
           "totalSeats": 245,
-          "soldSeats": 3,
-          "occupancy": 1.22,
-          "gross": 93.0,
+          "soldSeats": 5,
+          "occupancy": 2.04,
+          "gross": 155.0,
           "maxGross": 7595.0
         },
         {
@@ -7988,9 +8123,9 @@
           "showTime": "15:30:00",
           "screenType": "",
           "totalSeats": 278,
-          "soldSeats": 2,
-          "occupancy": 0.72,
-          "gross": 67.0,
+          "soldSeats": 8,
+          "occupancy": 2.88,
+          "gross": 268.0,
           "maxGross": 9313.0
         },
         {
@@ -8078,9 +8213,9 @@
           "showTime": "20:15:00",
           "screenType": "",
           "totalSeats": 160,
-          "soldSeats": 8,
-          "occupancy": 5.0,
-          "gross": 224.0,
+          "soldSeats": 21,
+          "occupancy": 13.12,
+          "gross": 588.0,
           "maxGross": 4480.0
         },
         {
@@ -8093,9 +8228,9 @@
           "showTime": "21:30:00",
           "screenType": "",
           "totalSeats": 77,
-          "soldSeats": 2,
-          "occupancy": 2.6,
-          "gross": 52.0,
+          "soldSeats": 8,
+          "occupancy": 10.39,
+          "gross": 208.0,
           "maxGross": 2002.0
         },
         {
@@ -8112,16 +8247,31 @@
           "occupancy": 0.0,
           "gross": 0.0,
           "maxGross": 15741.0
+        },
+        {
+          "cinemaId": "HIGPNT",
+          "cinemaName": "Highpoint",
+          "city": "Maribyrnong",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "534674",
+          "showTime": "20:40:00",
+          "screenType": "",
+          "totalSeats": 180,
+          "soldSeats": 15,
+          "occupancy": 8.33,
+          "gross": 420.0,
+          "maxGross": 5040.0
         }
       ]
     },
     "2026-03-24": {
       "summary": {
-        "shows": 30,
-        "totalSeats": 6662,
-        "soldSeats": 368,
-        "gross": 11402.5,
-        "occupancy": "5.52%"
+        "shows": 33,
+        "totalSeats": 7391,
+        "soldSeats": 379,
+        "gross": 11732.5,
+        "occupancy": "5.13%"
       },
       "shows": [
         {
@@ -8149,9 +8299,9 @@
           "showTime": "11:00:00",
           "screenType": "",
           "totalSeats": 408,
-          "soldSeats": 26,
-          "occupancy": 6.37,
-          "gross": 858.0,
+          "soldSeats": 28,
+          "occupancy": 6.86,
+          "gross": 924.0,
           "maxGross": 13464.0
         },
         {
@@ -8344,9 +8494,9 @@
           "showTime": "20:00:00",
           "screenType": "",
           "totalSeats": 245,
-          "soldSeats": 48,
-          "occupancy": 19.59,
-          "gross": 1488.0,
+          "soldSeats": 53,
+          "occupancy": 21.63,
+          "gross": 1643.0,
           "maxGross": 7595.0
         },
         {
@@ -8389,9 +8539,9 @@
           "showTime": "17:00:00",
           "screenType": "",
           "totalSeats": 150,
-          "soldSeats": 4,
-          "occupancy": 2.67,
-          "gross": 112.0,
+          "soldSeats": 6,
+          "occupancy": 4.0,
+          "gross": 168.0,
           "maxGross": 4200.0
         },
         {
@@ -8494,9 +8644,9 @@
           "showTime": "14:50:00",
           "screenType": "",
           "totalSeats": 230,
-          "soldSeats": 2,
-          "occupancy": 0.87,
-          "gross": 53.0,
+          "soldSeats": 4,
+          "occupancy": 1.74,
+          "gross": 106.0,
           "maxGross": 6095.0
         },
         {
@@ -8573,16 +8723,61 @@
           "occupancy": 0.0,
           "gross": 0.0,
           "maxGross": 7480.0
+        },
+        {
+          "cinemaId": "HIGPNT",
+          "cinemaName": "Highpoint",
+          "city": "Maribyrnong",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "534354",
+          "showTime": "11:20:00",
+          "screenType": "",
+          "totalSeats": 243,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 8019.0
+        },
+        {
+          "cinemaId": "HIGPNT",
+          "cinemaName": "Highpoint",
+          "city": "Maribyrnong",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "534355",
+          "showTime": "16:10:00",
+          "screenType": "",
+          "totalSeats": 243,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 8019.0
+        },
+        {
+          "cinemaId": "HIGPNT",
+          "cinemaName": "Highpoint",
+          "city": "Maribyrnong",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "534356",
+          "showTime": "21:00:00",
+          "screenType": "",
+          "totalSeats": 243,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 8019.0
         }
       ]
     },
     "2026-03-25": {
       "summary": {
-        "shows": 21,
-        "totalSeats": 5198,
-        "soldSeats": 57,
-        "gross": 1808.5,
-        "occupancy": "1.1%"
+        "shows": 24,
+        "totalSeats": 5927,
+        "soldSeats": 62,
+        "gross": 1973.5,
+        "occupancy": "1.05%"
       },
       "shows": [
         {
@@ -8610,9 +8805,9 @@
           "showTime": "21:00:00",
           "screenType": "",
           "totalSeats": 408,
-          "soldSeats": 29,
-          "occupancy": 7.11,
-          "gross": 957.0,
+          "soldSeats": 34,
+          "occupancy": 8.33,
+          "gross": 1122.0,
           "maxGross": 13464.0
         },
         {
@@ -8899,16 +9094,61 @@
           "occupancy": 0.0,
           "gross": 0.0,
           "maxGross": 7480.0
+        },
+        {
+          "cinemaId": "HIGPNT",
+          "cinemaName": "Highpoint",
+          "city": "Maribyrnong",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "534357",
+          "showTime": "11:20:00",
+          "screenType": "",
+          "totalSeats": 243,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 8019.0
+        },
+        {
+          "cinemaId": "HIGPNT",
+          "cinemaName": "Highpoint",
+          "city": "Maribyrnong",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "534358",
+          "showTime": "16:10:00",
+          "screenType": "",
+          "totalSeats": 243,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 8019.0
+        },
+        {
+          "cinemaId": "HIGPNT",
+          "cinemaName": "Highpoint",
+          "city": "Maribyrnong",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "534359",
+          "showTime": "21:00:00",
+          "screenType": "",
+          "totalSeats": 243,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 8019.0
         }
       ]
     },
     "2026-03-23": {
       "summary": {
-        "shows": 23,
-        "totalSeats": 5642,
-        "soldSeats": 195,
-        "gross": 6233.5,
-        "occupancy": "3.46%"
+        "shows": 26,
+        "totalSeats": 6371,
+        "soldSeats": 204,
+        "gross": 6492.0,
+        "occupancy": "3.2%"
       },
       "shows": [
         {
@@ -8951,9 +9191,9 @@
           "showTime": "11:00:00",
           "screenType": "",
           "totalSeats": 408,
-          "soldSeats": 20,
-          "occupancy": 4.9,
-          "gross": 660.0,
+          "soldSeats": 21,
+          "occupancy": 5.15,
+          "gross": 693.0,
           "maxGross": 13464.0
         },
         {
@@ -8981,9 +9221,9 @@
           "showTime": "20:00:00",
           "screenType": "",
           "totalSeats": 200,
-          "soldSeats": 13,
-          "occupancy": 6.5,
-          "gross": 370.5,
+          "soldSeats": 16,
+          "occupancy": 8.0,
+          "gross": 456.0,
           "maxGross": 5700.0
         },
         {
@@ -9026,9 +9266,9 @@
           "showTime": "19:00:00",
           "screenType": "",
           "totalSeats": 160,
-          "soldSeats": 5,
-          "occupancy": 3.12,
-          "gross": 130.0,
+          "soldSeats": 8,
+          "occupancy": 5.0,
+          "gross": 208.0,
           "maxGross": 4160.0
         },
         {
@@ -9041,9 +9281,9 @@
           "showTime": "20:00:00",
           "screenType": "",
           "totalSeats": 245,
-          "soldSeats": 18,
-          "occupancy": 7.35,
-          "gross": 558.0,
+          "soldSeats": 20,
+          "occupancy": 8.16,
+          "gross": 620.0,
           "maxGross": 7595.0
         },
         {
@@ -9255,6 +9495,51 @@
           "occupancy": 0.0,
           "gross": 0.0,
           "maxGross": 7480.0
+        },
+        {
+          "cinemaId": "HIGPNT",
+          "cinemaName": "Highpoint",
+          "city": "Maribyrnong",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "534513",
+          "showTime": "11:20:00",
+          "screenType": "",
+          "totalSeats": 243,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 8019.0
+        },
+        {
+          "cinemaId": "HIGPNT",
+          "cinemaName": "Highpoint",
+          "city": "Maribyrnong",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "534514",
+          "showTime": "16:10:00",
+          "screenType": "",
+          "totalSeats": 243,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 8019.0
+        },
+        {
+          "cinemaId": "HIGPNT",
+          "cinemaName": "Highpoint",
+          "city": "Maribyrnong",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "534515",
+          "showTime": "21:00:00",
+          "screenType": "",
+          "totalSeats": 243,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 8019.0
         }
       ]
     }
@@ -9263,11 +9548,11 @@
     "movieName": "Ustaad Bhagat Singh (Telugu, Eng Sub)",
     "2026-03-19": {
       "summary": {
-        "shows": 20,
-        "totalSeats": 3845,
-        "soldSeats": 188,
-        "gross": 5334.0,
-        "occupancy": "4.89%"
+        "shows": 26,
+        "totalSeats": 4909,
+        "soldSeats": 201,
+        "gross": 5708.5,
+        "occupancy": "4.09%"
       },
       "shows": [
         {
@@ -9310,9 +9595,9 @@
           "showTime": "08:45:00",
           "screenType": "",
           "totalSeats": 180,
-          "soldSeats": 42,
-          "occupancy": 23.33,
-          "gross": 1176.0,
+          "soldSeats": 44,
+          "occupancy": 24.44,
+          "gross": 1232.0,
           "maxGross": 5040.0
         },
         {
@@ -9325,9 +9610,9 @@
           "showTime": "17:45:00",
           "screenType": "",
           "totalSeats": 236,
-          "soldSeats": 36,
-          "occupancy": 15.25,
-          "gross": 1008.0,
+          "soldSeats": 38,
+          "occupancy": 16.1,
+          "gross": 1064.0,
           "maxGross": 6608.0
         },
         {
@@ -9340,9 +9625,9 @@
           "showTime": "21:20:00",
           "screenType": "",
           "totalSeats": 136,
-          "soldSeats": 53,
-          "occupancy": 38.97,
-          "gross": 1457.5,
+          "soldSeats": 57,
+          "occupancy": 41.91,
+          "gross": 1567.5,
           "maxGross": 3740.0
         },
         {
@@ -9430,9 +9715,9 @@
           "showTime": "21:20:00",
           "screenType": "",
           "totalSeats": 200,
-          "soldSeats": 15,
-          "occupancy": 7.5,
-          "gross": 397.5,
+          "soldSeats": 16,
+          "occupancy": 8.0,
+          "gross": 424.0,
           "maxGross": 5300.0
         },
         {
@@ -9445,9 +9730,9 @@
           "showTime": "10:45:00",
           "screenType": "",
           "totalSeats": 287,
-          "soldSeats": 5,
-          "occupancy": 1.74,
-          "gross": 157.5,
+          "soldSeats": 9,
+          "occupancy": 3.14,
+          "gross": 283.5,
           "maxGross": 9040.5
         },
         {
@@ -9569,16 +9854,106 @@
           "occupancy": 0.0,
           "gross": 0.0,
           "maxGross": 4160.0
+        },
+        {
+          "cinemaId": "NORTHL",
+          "cinemaName": "Northland",
+          "city": "Preston",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "420198",
+          "showTime": "10:00:00",
+          "screenType": "",
+          "totalSeats": 180,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 5040.0
+        },
+        {
+          "cinemaId": "NORTHL",
+          "cinemaName": "Northland",
+          "city": "Preston",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "420199",
+          "showTime": "13:30:00",
+          "screenType": "",
+          "totalSeats": 180,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 5040.0
+        },
+        {
+          "cinemaId": "NORTHL",
+          "cinemaName": "Northland",
+          "city": "Preston",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "420200",
+          "showTime": "17:00:00",
+          "screenType": "",
+          "totalSeats": 180,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 5040.0
+        },
+        {
+          "cinemaId": "NORTHL",
+          "cinemaName": "Northland",
+          "city": "Preston",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "420201",
+          "showTime": "21:15:00",
+          "screenType": "",
+          "totalSeats": 176,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 4928.0
+        },
+        {
+          "cinemaId": "HIGPNT",
+          "cinemaName": "Highpoint",
+          "city": "Maribyrnong",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "534630",
+          "showTime": "18:00:00",
+          "screenType": "",
+          "totalSeats": 168,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 4704.0
+        },
+        {
+          "cinemaId": "HIGPNT",
+          "cinemaName": "Highpoint",
+          "city": "Maribyrnong",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "534631",
+          "showTime": "20:40:00",
+          "screenType": "",
+          "totalSeats": 180,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 5040.0
         }
       ]
     },
     "2026-03-21": {
       "summary": {
-        "shows": 3,
-        "totalSeats": 374,
+        "shows": 4,
+        "totalSeats": 550,
         "soldSeats": 22,
         "gross": 605.0,
-        "occupancy": "5.88%"
+        "occupancy": "4.0%"
       },
       "shows": [
         {
@@ -9625,16 +10000,31 @@
           "occupancy": 0.0,
           "gross": 0.0,
           "maxGross": 2450.0
+        },
+        {
+          "cinemaId": "NORTHL",
+          "cinemaName": "Northland",
+          "city": "Preston",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "420251",
+          "showTime": "21:15:00",
+          "screenType": "",
+          "totalSeats": 176,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 4752.0
         }
       ]
     },
     "2026-03-20": {
       "summary": {
-        "shows": 3,
-        "totalSeats": 406,
-        "soldSeats": 0,
-        "gross": 0.0,
-        "occupancy": "0.0%"
+        "shows": 6,
+        "totalSeats": 968,
+        "soldSeats": 8,
+        "gross": 215.0,
+        "occupancy": "0.83%"
       },
       "shows": [
         {
@@ -9647,9 +10037,9 @@
           "showTime": "21:20:00",
           "screenType": "",
           "totalSeats": 200,
-          "soldSeats": 0,
-          "occupancy": 0.0,
-          "gross": 0.0,
+          "soldSeats": 6,
+          "occupancy": 3.0,
+          "gross": 159.0,
           "maxGross": 5300.0
         },
         {
@@ -9681,13 +10071,58 @@
           "occupancy": 0.0,
           "gross": 0.0,
           "maxGross": 1650.0
+        },
+        {
+          "cinemaId": "NORTHL",
+          "cinemaName": "Northland",
+          "city": "Preston",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "420237",
+          "showTime": "12:45:00",
+          "screenType": "",
+          "totalSeats": 176,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 4928.0
+        },
+        {
+          "cinemaId": "NORTHL",
+          "cinemaName": "Northland",
+          "city": "Preston",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "420238",
+          "showTime": "21:15:00",
+          "screenType": "",
+          "totalSeats": 176,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 4928.0
+        },
+        {
+          "cinemaId": "HIGPNT",
+          "cinemaName": "Highpoint",
+          "city": "Maribyrnong",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "534632",
+          "showTime": "21:00:00",
+          "screenType": "",
+          "totalSeats": 210,
+          "soldSeats": 2,
+          "occupancy": 0.95,
+          "gross": 56.0,
+          "maxGross": 5880.0
         }
       ]
     },
     "2026-03-22": {
       "summary": {
-        "shows": 1,
-        "totalSeats": 140,
+        "shows": 2,
+        "totalSeats": 316,
         "soldSeats": 0,
         "gross": 0.0,
         "occupancy": "0.0%"
@@ -9707,6 +10142,99 @@
           "occupancy": 0.0,
           "gross": 0.0,
           "maxGross": 3920.0
+        },
+        {
+          "cinemaId": "NORTHL",
+          "cinemaName": "Northland",
+          "city": "Preston",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "420289",
+          "showTime": "21:15:00",
+          "screenType": "",
+          "totalSeats": 176,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 4928.0
+        }
+      ]
+    },
+    "2026-03-23": {
+      "summary": {
+        "shows": 1,
+        "totalSeats": 180,
+        "soldSeats": 0,
+        "gross": 0.0,
+        "occupancy": "0.0%"
+      },
+      "shows": [
+        {
+          "cinemaId": "HIGPNT",
+          "cinemaName": "Highpoint",
+          "city": "Maribyrnong",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "534881",
+          "showTime": "18:00:00",
+          "screenType": "",
+          "totalSeats": 180,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 5040.0
+        }
+      ]
+    },
+    "2026-03-24": {
+      "summary": {
+        "shows": 1,
+        "totalSeats": 180,
+        "soldSeats": 0,
+        "gross": 0.0,
+        "occupancy": "0.0%"
+      },
+      "shows": [
+        {
+          "cinemaId": "HIGPNT",
+          "cinemaName": "Highpoint",
+          "city": "Maribyrnong",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "534882",
+          "showTime": "18:00:00",
+          "screenType": "",
+          "totalSeats": 180,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 5040.0
+        }
+      ]
+    },
+    "2026-03-25": {
+      "summary": {
+        "shows": 1,
+        "totalSeats": 180,
+        "soldSeats": 0,
+        "gross": 0.0,
+        "occupancy": "0.0%"
+      },
+      "shows": [
+        {
+          "cinemaId": "HIGPNT",
+          "cinemaName": "Highpoint",
+          "city": "Maribyrnong",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "534883",
+          "showTime": "18:00:00",
+          "screenType": "",
+          "totalSeats": 180,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 5040.0
         }
       ]
     }
