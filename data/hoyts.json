@@ -3,11 +3,11 @@
     "movieName": "Dhurandhar: The Revenge (Hindi, Eng Sub)",
     "2026-03-19": {
       "summary": {
-        "shows": 146,
-        "totalSeats": 28660,
-        "soldSeats": 7853,
-        "gross": 230166.5,
-        "occupancy": "27.4%"
+        "shows": 147,
+        "totalSeats": 28810,
+        "soldSeats": 7852,
+        "gross": 230048.5,
+        "occupancy": "27.25%"
       },
       "shows": [
         {
@@ -215,9 +215,9 @@
           "showTime": "20:50:00",
           "screenType": "",
           "totalSeats": 200,
-          "soldSeats": 140,
-          "occupancy": 70.0,
-          "gross": 3990.0,
+          "soldSeats": 136,
+          "occupancy": 68.0,
+          "gross": 3876.0,
           "maxGross": 5700.0
         },
         {
@@ -1057,8 +1057,8 @@
           "totalSeats": 108,
           "soldSeats": 41,
           "occupancy": 37.96,
-          "gross": 1189.0,
-          "maxGross": 3132.0
+          "gross": 1107.0,
+          "maxGross": 2916.0
         },
         {
           "cinemaId": "ERINAF",
@@ -1132,8 +1132,8 @@
           "totalSeats": 126,
           "soldSeats": 41,
           "occupancy": 32.54,
-          "gross": 1025.0,
-          "maxGross": 3150.0
+          "gross": 1107.0,
+          "maxGross": 3402.0
         },
         {
           "cinemaId": "STAFRD",
@@ -1147,8 +1147,8 @@
           "totalSeats": 105,
           "soldSeats": 25,
           "occupancy": 23.81,
-          "gross": 625.0,
-          "maxGross": 2625.0
+          "gross": 675.0,
+          "maxGross": 2835.0
         },
         {
           "cinemaId": "BMWCIN",
@@ -1190,9 +1190,9 @@
           "showTime": "21:15:00",
           "screenType": "",
           "totalSeats": 180,
-          "soldSeats": 68,
-          "occupancy": 37.78,
-          "gross": 1972.0,
+          "soldSeats": 69,
+          "occupancy": 38.33,
+          "gross": 2001.0,
           "maxGross": 5220.0
         },
         {
@@ -1222,8 +1222,8 @@
           "totalSeats": 108,
           "soldSeats": 68,
           "occupancy": 62.96,
-          "gross": 1972.0,
-          "maxGross": 3132.0
+          "gross": 1836.0,
+          "maxGross": 2916.0
         },
         {
           "cinemaId": "FHLCIN",
@@ -1670,9 +1670,9 @@
           "showTime": "15:00:00",
           "screenType": "",
           "totalSeats": 230,
-          "soldSeats": 50,
-          "occupancy": 21.74,
-          "gross": 1325.0,
+          "soldSeats": 52,
+          "occupancy": 22.61,
+          "gross": 1378.0,
           "maxGross": 6095.0
         },
         {
@@ -2199,16 +2199,31 @@
           "occupancy": 2.78,
           "gross": 140.0,
           "maxGross": 5040.0
+        },
+        {
+          "cinemaId": "TAYLOR",
+          "cinemaName": "Watergardens",
+          "city": "Taylors Lakes",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "287084",
+          "showTime": "17:00:00",
+          "screenType": "",
+          "totalSeats": 150,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 4200.0
         }
       ]
     },
     "2026-03-21": {
       "summary": {
-        "shows": 131,
-        "totalSeats": 25964,
-        "soldSeats": 7654,
-        "gross": 226114.5,
-        "occupancy": "29.48%"
+        "shows": 132,
+        "totalSeats": 26124,
+        "soldSeats": 7656,
+        "gross": 226040.5,
+        "occupancy": "29.31%"
       },
       "shows": [
         {
@@ -2311,9 +2326,9 @@
           "showTime": "21:15:00",
           "screenType": "",
           "totalSeats": 198,
-          "soldSeats": 49,
-          "occupancy": 24.75,
-          "gross": 1568.0,
+          "soldSeats": 51,
+          "occupancy": 25.76,
+          "gross": 1632.0,
           "maxGross": 6336.0
         },
         {
@@ -3243,8 +3258,8 @@
           "totalSeats": 108,
           "soldSeats": 55,
           "occupancy": 50.93,
-          "gross": 1595.0,
-          "maxGross": 3132.0
+          "gross": 1485.0,
+          "maxGross": 2916.0
         },
         {
           "cinemaId": "BMWCIN",
@@ -3288,8 +3303,8 @@
           "totalSeats": 108,
           "soldSeats": 36,
           "occupancy": 33.33,
-          "gross": 1044.0,
-          "maxGross": 3132.0
+          "gross": 972.0,
+          "maxGross": 2916.0
         },
         {
           "cinemaId": "BMWCIN",
@@ -3318,8 +3333,8 @@
           "totalSeats": 126,
           "soldSeats": 22,
           "occupancy": 17.46,
-          "gross": 550.0,
-          "maxGross": 3150.0
+          "gross": 594.0,
+          "maxGross": 3402.0
         },
         {
           "cinemaId": "BMWCIN",
@@ -4175,6 +4190,21 @@
           "occupancy": 0.0,
           "gross": 0.0,
           "maxGross": 5040.0
+        },
+        {
+          "cinemaId": "TAYLOR",
+          "cinemaName": "Watergardens",
+          "city": "Taylors Lakes",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "287155",
+          "showTime": "12:30:00",
+          "screenType": "",
+          "totalSeats": 160,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 4480.0
         }
       ]
     },
@@ -4182,9 +4212,9 @@
       "summary": {
         "shows": 124,
         "totalSeats": 24051,
-        "soldSeats": 4887,
-        "gross": 145549.5,
-        "occupancy": "20.32%"
+        "soldSeats": 4892,
+        "gross": 145605.0,
+        "occupancy": "20.34%"
       },
       "shows": [
         {
@@ -5160,7 +5190,7 @@
           "soldSeats": 0,
           "occupancy": 0.0,
           "gross": 0.0,
-          "maxGross": 3150.0
+          "maxGross": 3402.0
         },
         {
           "cinemaId": "STAFRD",
@@ -5174,8 +5204,8 @@
           "totalSeats": 108,
           "soldSeats": 37,
           "occupancy": 34.26,
-          "gross": 1073.0,
-          "maxGross": 3132.0
+          "gross": 999.0,
+          "maxGross": 2916.0
         },
         {
           "cinemaId": "BMWCIN",
@@ -5234,8 +5264,8 @@
           "totalSeats": 108,
           "soldSeats": 16,
           "occupancy": 14.81,
-          "gross": 464.0,
-          "maxGross": 3132.0
+          "gross": 432.0,
+          "maxGross": 2916.0
         },
         {
           "cinemaId": "BMWCIN",
@@ -5352,9 +5382,9 @@
           "showTime": "20:30:00",
           "screenType": "",
           "totalSeats": 198,
-          "soldSeats": 37,
-          "occupancy": 18.69,
-          "gross": 1091.5,
+          "soldSeats": 39,
+          "occupancy": 19.7,
+          "gross": 1150.5,
           "maxGross": 5841.0
         },
         {
@@ -5789,8 +5819,8 @@
           "totalSeats": 60,
           "soldSeats": 1,
           "occupancy": 1.67,
-          "gross": 25.0,
-          "maxGross": 1500.0
+          "gross": 27.0,
+          "maxGross": 1620.0
         },
         {
           "cinemaId": "CHDSTN",
@@ -5832,9 +5862,9 @@
           "showTime": "20:30:00",
           "screenType": "",
           "totalSeats": 278,
-          "soldSeats": 34,
-          "occupancy": 12.23,
-          "gross": 1139.0,
+          "soldSeats": 37,
+          "occupancy": 13.31,
+          "gross": 1239.5,
           "maxGross": 9313.0
         },
         {
@@ -6054,7 +6084,7 @@
         "shows": 147,
         "totalSeats": 28792,
         "soldSeats": 7498,
-        "gross": 219191.0,
+        "gross": 219169.0,
         "occupancy": "26.04%"
       },
       "shows": [
@@ -7210,8 +7240,8 @@
           "totalSeats": 126,
           "soldSeats": 41,
           "occupancy": 32.54,
-          "gross": 1025.0,
-          "maxGross": 3150.0
+          "gross": 1107.0,
+          "maxGross": 3402.0
         },
         {
           "cinemaId": "STAFRD",
@@ -7225,8 +7255,8 @@
           "totalSeats": 108,
           "soldSeats": 63,
           "occupancy": 58.33,
-          "gross": 1827.0,
-          "maxGross": 3132.0
+          "gross": 1701.0,
+          "maxGross": 2916.0
         },
         {
           "cinemaId": "STAFRD",
@@ -7240,8 +7270,8 @@
           "totalSeats": 108,
           "soldSeats": 15,
           "occupancy": 13.89,
-          "gross": 435.0,
-          "maxGross": 3132.0
+          "gross": 405.0,
+          "maxGross": 2916.0
         },
         {
           "cinemaId": "BMWCIN",
@@ -7300,8 +7330,8 @@
           "totalSeats": 105,
           "soldSeats": 30,
           "occupancy": 28.57,
-          "gross": 750.0,
-          "maxGross": 2625.0
+          "gross": 810.0,
+          "maxGross": 2835.0
         },
         {
           "cinemaId": "BMWCIN",
@@ -8005,8 +8035,8 @@
           "totalSeats": 108,
           "soldSeats": 4,
           "occupancy": 3.7,
-          "gross": 116.0,
-          "maxGross": 3132.0
+          "gross": 108.0,
+          "maxGross": 2916.0
         },
         {
           "cinemaId": "WWGCIN",
@@ -8270,7 +8300,7 @@
         "shows": 33,
         "totalSeats": 7391,
         "soldSeats": 454,
-        "gross": 13965.5,
+        "gross": 13949.5,
         "occupancy": "6.14%"
       },
       "shows": [
@@ -8512,7 +8542,7 @@
           "soldSeats": 0,
           "occupancy": 0.0,
           "gross": 0.0,
-          "maxGross": 3132.0
+          "maxGross": 2916.0
         },
         {
           "cinemaId": "STAFRD",
@@ -8526,8 +8556,8 @@
           "totalSeats": 108,
           "soldSeats": 8,
           "occupancy": 7.41,
-          "gross": 232.0,
-          "maxGross": 3132.0
+          "gross": 216.0,
+          "maxGross": 2916.0
         },
         {
           "cinemaId": "TAYLOR",
@@ -8773,11 +8803,11 @@
     },
     "2026-03-25": {
       "summary": {
-        "shows": 24,
-        "totalSeats": 5927,
+        "shows": 25,
+        "totalSeats": 6077,
         "soldSeats": 88,
         "gross": 2774.0,
-        "occupancy": "1.48%"
+        "occupancy": "1.45%"
       },
       "shows": [
         {
@@ -9139,6 +9169,21 @@
           "occupancy": 0.0,
           "gross": 0.0,
           "maxGross": 8019.0
+        },
+        {
+          "cinemaId": "TAYLOR",
+          "cinemaName": "Watergardens",
+          "city": "Taylors Lakes",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "287299",
+          "showTime": "17:00:00",
+          "screenType": "",
+          "totalSeats": 150,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 4200.0
         }
       ]
     },
@@ -9551,7 +9596,7 @@
         "shows": 29,
         "totalSeats": 5266,
         "soldSeats": 239,
-        "gross": 6780.0,
+        "gross": 6788.0,
         "occupancy": "4.54%"
       },
       "shows": [
@@ -9808,7 +9853,7 @@
           "soldSeats": 0,
           "occupancy": 0.0,
           "gross": 0.0,
-          "maxGross": 3132.0
+          "maxGross": 2916.0
         },
         {
           "cinemaId": "TTPLZA",
@@ -9837,8 +9882,8 @@
           "totalSeats": 98,
           "soldSeats": 4,
           "occupancy": 4.08,
-          "gross": 100.0,
-          "maxGross": 2450.0
+          "gross": 108.0,
+          "maxGross": 2646.0
         },
         {
           "cinemaId": "TTPLZA",
@@ -9994,11 +10039,11 @@
     },
     "2026-03-21": {
       "summary": {
-        "shows": 5,
-        "totalSeats": 694,
+        "shows": 6,
+        "totalSeats": 854,
         "soldSeats": 22,
         "gross": 605.0,
-        "occupancy": "3.17%"
+        "occupancy": "2.58%"
       },
       "shows": [
         {
@@ -10044,7 +10089,7 @@
           "soldSeats": 0,
           "occupancy": 0.0,
           "gross": 0.0,
-          "maxGross": 2450.0
+          "maxGross": 2646.0
         },
         {
           "cinemaId": "NORTHL",
@@ -10075,16 +10120,31 @@
           "occupancy": 0.0,
           "gross": 0.0,
           "maxGross": 2808.0
+        },
+        {
+          "cinemaId": "TAYLOR",
+          "cinemaName": "Watergardens",
+          "city": "Taylors Lakes",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "287129",
+          "showTime": "21:45:00",
+          "screenType": "",
+          "totalSeats": 160,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 4480.0
         }
       ]
     },
     "2026-03-20": {
       "summary": {
-        "shows": 8,
-        "totalSeats": 1189,
+        "shows": 9,
+        "totalSeats": 1339,
         "soldSeats": 12,
         "gross": 327.0,
-        "occupancy": "1.01%"
+        "occupancy": "0.9%"
       },
       "shows": [
         {
@@ -10130,7 +10190,7 @@
           "soldSeats": 0,
           "occupancy": 0.0,
           "gross": 0.0,
-          "maxGross": 1650.0
+          "maxGross": 1782.0
         },
         {
           "cinemaId": "NORTHL",
@@ -10206,13 +10266,28 @@
           "occupancy": 0.0,
           "gross": 0.0,
           "maxGross": 2808.0
+        },
+        {
+          "cinemaId": "TAYLOR",
+          "cinemaName": "Watergardens",
+          "city": "Taylors Lakes",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "287094",
+          "showTime": "10:00:00",
+          "screenType": "",
+          "totalSeats": 150,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 4200.0
         }
       ]
     },
     "2026-03-22": {
       "summary": {
-        "shows": 3,
-        "totalSeats": 460,
+        "shows": 4,
+        "totalSeats": 620,
         "soldSeats": 0,
         "gross": 0.0,
         "occupancy": "0.0%"
@@ -10262,6 +10337,21 @@
           "occupancy": 0.0,
           "gross": 0.0,
           "maxGross": 2808.0
+        },
+        {
+          "cinemaId": "TAYLOR",
+          "cinemaName": "Watergardens",
+          "city": "Taylors Lakes",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "287162",
+          "showTime": "21:45:00",
+          "screenType": "",
+          "totalSeats": 160,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 4480.0
         }
       ]
     },
