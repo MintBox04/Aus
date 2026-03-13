@@ -1,6 +1,6 @@
 {
   "region": "NEW ZEALAND",
-  "lastUpdated": "2026-03-13 17:01:11 UTC",
+  "lastUpdated": "2026-03-13 17:55:19 UTC",
   "movies": {
     "Dhurandhar: The Revenge": {
       "movieName": "Dhurandhar: The Revenge",
@@ -700,26 +700,26 @@
         "summary": {
           "shows": 37,
           "totalSeats": 8211,
-          "soldSeats": 1398,
-          "gross": 39789.75,
-          "occupancy": "17.03%"
+          "soldSeats": 1401,
+          "gross": 39864.75,
+          "occupancy": "17.06%"
         },
         "languages": {
           "English": {
             "shows": 37,
             "totalSeats": 8211,
-            "soldSeats": 1398,
-            "gross": 39789.75,
-            "occupancy": "17.03%"
+            "soldSeats": 1401,
+            "gross": 39864.75,
+            "occupancy": "17.06%"
           }
         },
         "sources": {
           "Hoyts": {
             "shows": 24,
             "totalSeats": 5814,
-            "soldSeats": 955,
-            "gross": 26865.5,
-            "occupancy": "16.43%"
+            "soldSeats": 958,
+            "gross": 26940.5,
+            "occupancy": "16.48%"
           },
           "Event Cinemas": {
             "shows": 13,
@@ -964,9 +964,9 @@
             "showTime": "19:30:00",
             "screenType": "",
             "totalSeats": 372,
-            "soldSeats": 106,
-            "occupancy": 28.49,
-            "gross": 2650.0,
+            "soldSeats": 109,
+            "occupancy": 29.3,
+            "gross": 2725.0,
             "maxGross": 9300.0,
             "Language": "English"
           },
