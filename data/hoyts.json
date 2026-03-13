@@ -4,10 +4,10 @@
     "2026-03-19": {
       "summary": {
         "shows": 147,
-        "totalSeats": 28810,
-        "soldSeats": 7858,
-        "gross": 230301.5,
-        "occupancy": "27.28%"
+        "totalSeats": 29290,
+        "soldSeats": 7946,
+        "gross": 232759.5,
+        "occupancy": "27.13%"
       },
       "shows": [
         {
@@ -1595,9 +1595,9 @@
           "showTime": "15:40:00",
           "screenType": "",
           "totalSeats": 198,
-          "soldSeats": 20,
-          "occupancy": 10.1,
-          "gross": 590.0,
+          "soldSeats": 18,
+          "occupancy": 9.09,
+          "gross": 531.0,
           "maxGross": 5841.0
         },
         {
@@ -1730,9 +1730,9 @@
           "showTime": "20:00:00",
           "screenType": "",
           "totalSeats": 230,
-          "soldSeats": 101,
-          "occupancy": 43.91,
-          "gross": 2676.5,
+          "soldSeats": 103,
+          "occupancy": 44.78,
+          "gross": 2729.5,
           "maxGross": 6095.0
         },
         {
@@ -1774,11 +1774,11 @@
           "sessionId": "291757",
           "showTime": "15:40:00",
           "screenType": "",
-          "totalSeats": 0,
-          "soldSeats": 0,
-          "occupancy": 0,
-          "gross": 0.0,
-          "maxGross": 0.0
+          "totalSeats": 177,
+          "soldSeats": 3,
+          "occupancy": 1.69,
+          "gross": 84.0,
+          "maxGross": 4956.0
         },
         {
           "cinemaId": "DOCCIN",
@@ -1819,11 +1819,11 @@
           "sessionId": "291260",
           "showTime": "20:30:00",
           "screenType": "",
-          "totalSeats": 0,
-          "soldSeats": 0,
-          "occupancy": 0,
-          "gross": 0.0,
-          "maxGross": 0.0
+          "totalSeats": 177,
+          "soldSeats": 64,
+          "occupancy": 36.16,
+          "gross": 1792.0,
+          "maxGross": 4956.0
         },
         {
           "cinemaId": "GRENSB",
@@ -1894,11 +1894,11 @@
           "sessionId": "291764",
           "showTime": "21:00:00",
           "screenType": "",
-          "totalSeats": 0,
-          "soldSeats": 0,
-          "occupancy": 0,
-          "gross": 0.0,
-          "maxGross": 0.0
+          "totalSeats": 126,
+          "soldSeats": 21,
+          "occupancy": 16.67,
+          "gross": 588.0,
+          "maxGross": 3528.0
         },
         {
           "cinemaId": "WETHER",
@@ -2220,10 +2220,10 @@
     "2026-03-21": {
       "summary": {
         "shows": 132,
-        "totalSeats": 26124,
-        "soldSeats": 7654,
-        "gross": 226114.5,
-        "occupancy": "29.3%"
+        "totalSeats": 26700,
+        "soldSeats": 7660,
+        "gross": 226286.5,
+        "occupancy": "28.69%"
       },
       "shows": [
         {
@@ -2235,11 +2235,11 @@
           "sessionId": "291760",
           "showTime": "15:50:00",
           "screenType": "",
-          "totalSeats": 0,
-          "soldSeats": 0,
-          "occupancy": 0,
-          "gross": 0.0,
-          "maxGross": 0.0
+          "totalSeats": 177,
+          "soldSeats": 4,
+          "occupancy": 2.26,
+          "gross": 112.0,
+          "maxGross": 4956.0
         },
         {
           "cinemaId": "GRENSB",
@@ -2250,11 +2250,11 @@
           "sessionId": "291761",
           "showTime": "20:40:00",
           "screenType": "",
-          "totalSeats": 0,
-          "soldSeats": 0,
-          "occupancy": 0,
-          "gross": 0.0,
-          "maxGross": 0.0
+          "totalSeats": 177,
+          "soldSeats": 2,
+          "occupancy": 1.13,
+          "gross": 56.0,
+          "maxGross": 4956.0
         },
         {
           "cinemaId": "GRENSB",
@@ -2265,11 +2265,11 @@
           "sessionId": "291765",
           "showTime": "21:30:00",
           "screenType": "",
-          "totalSeats": 0,
+          "totalSeats": 222,
           "soldSeats": 0,
-          "occupancy": 0,
+          "occupancy": 0.0,
           "gross": 0.0,
-          "maxGross": 0.0
+          "maxGross": 6216.0
         },
         {
           "cinemaId": "CHDSTN",
@@ -2761,9 +2761,9 @@
           "showTime": "15:45:00",
           "screenType": "",
           "totalSeats": 476,
-          "soldSeats": 51,
-          "occupancy": 10.71,
-          "gross": 1530.0,
+          "soldSeats": 53,
+          "occupancy": 11.13,
+          "gross": 1590.0,
           "maxGross": 14280.0
         },
         {
@@ -3616,9 +3616,9 @@
           "showTime": "20:45:00",
           "screenType": "",
           "totalSeats": 180,
-          "soldSeats": 70,
-          "occupancy": 38.89,
-          "gross": 1960.0,
+          "soldSeats": 68,
+          "occupancy": 37.78,
+          "gross": 1904.0,
           "maxGross": 5040.0
         },
         {
@@ -4211,10 +4211,10 @@
     "2026-03-22": {
       "summary": {
         "shows": 124,
-        "totalSeats": 24051,
-        "soldSeats": 4897,
-        "gross": 145874.0,
-        "occupancy": "20.36%"
+        "totalSeats": 24627,
+        "soldSeats": 4901,
+        "gross": 146006.0,
+        "occupancy": "19.9%"
       },
       "shows": [
         {
@@ -4271,11 +4271,11 @@
           "sessionId": "291766",
           "showTime": "21:30:00",
           "screenType": "",
-          "totalSeats": 0,
+          "totalSeats": 222,
           "soldSeats": 0,
-          "occupancy": 0,
+          "occupancy": 0.0,
           "gross": 0.0,
-          "maxGross": 0.0
+          "maxGross": 6216.0
         },
         {
           "cinemaId": "GRENSB",
@@ -4286,11 +4286,11 @@
           "sessionId": "291762",
           "showTime": "15:50:00",
           "screenType": "",
-          "totalSeats": 0,
+          "totalSeats": 177,
           "soldSeats": 0,
-          "occupancy": 0,
+          "occupancy": 0.0,
           "gross": 0.0,
-          "maxGross": 0.0
+          "maxGross": 4956.0
         },
         {
           "cinemaId": "GRENSB",
@@ -4301,11 +4301,11 @@
           "sessionId": "291763",
           "showTime": "20:40:00",
           "screenType": "",
-          "totalSeats": 0,
+          "totalSeats": 177,
           "soldSeats": 0,
-          "occupancy": 0,
+          "occupancy": 0.0,
           "gross": 0.0,
-          "maxGross": 0.0
+          "maxGross": 4956.0
         },
         {
           "cinemaId": "CHDSTN",
@@ -4422,9 +4422,9 @@
           "showTime": "11:20:00",
           "screenType": "",
           "totalSeats": 243,
-          "soldSeats": 75,
-          "occupancy": 30.86,
-          "gross": 2475.0,
+          "soldSeats": 79,
+          "occupancy": 32.51,
+          "gross": 2607.0,
           "maxGross": 8019.0
         },
         {
@@ -6082,10 +6082,10 @@
     "2026-03-20": {
       "summary": {
         "shows": 147,
-        "totalSeats": 28792,
-        "soldSeats": 7502,
-        "gross": 219308.0,
-        "occupancy": "26.06%"
+        "totalSeats": 29494,
+        "soldSeats": 7570,
+        "gross": 221212.0,
+        "occupancy": "25.67%"
       },
       "shows": [
         {
@@ -6097,11 +6097,11 @@
           "sessionId": "291755",
           "showTime": "21:30:00",
           "screenType": "",
-          "totalSeats": 0,
+          "totalSeats": 222,
           "soldSeats": 0,
-          "occupancy": 0,
+          "occupancy": 0.0,
           "gross": 0.0,
-          "maxGross": 0.0
+          "maxGross": 6216.0
         },
         {
           "cinemaId": "DOCCIN",
@@ -7957,11 +7957,11 @@
           "sessionId": "291759",
           "showTime": "15:50:00",
           "screenType": "",
-          "totalSeats": 0,
+          "totalSeats": 177,
           "soldSeats": 0,
-          "occupancy": 0,
+          "occupancy": 0.0,
           "gross": 0.0,
-          "maxGross": 0.0
+          "maxGross": 4956.0
         },
         {
           "cinemaId": "GRENSB",
@@ -7972,11 +7972,11 @@
           "sessionId": "291756",
           "showTime": "21:00:00",
           "screenType": "",
-          "totalSeats": 0,
-          "soldSeats": 0,
-          "occupancy": 0,
-          "gross": 0.0,
-          "maxGross": 0.0
+          "totalSeats": 126,
+          "soldSeats": 6,
+          "occupancy": 4.76,
+          "gross": 168.0,
+          "maxGross": 3528.0
         },
         {
           "cinemaId": "GRENSB",
@@ -7987,11 +7987,11 @@
           "sessionId": "291261",
           "showTime": "20:40:00",
           "screenType": "",
-          "totalSeats": 0,
-          "soldSeats": 0,
-          "occupancy": 0,
-          "gross": 0.0,
-          "maxGross": 0.0
+          "totalSeats": 177,
+          "soldSeats": 62,
+          "occupancy": 35.03,
+          "gross": 1736.0,
+          "maxGross": 4956.0
         },
         {
           "cinemaId": "TAYLOR",
@@ -9191,9 +9191,9 @@
       "summary": {
         "shows": 26,
         "totalSeats": 6371,
-        "soldSeats": 268,
-        "gross": 8449.0,
-        "occupancy": "4.21%"
+        "soldSeats": 265,
+        "gross": 8354.5,
+        "occupancy": "4.16%"
       },
       "shows": [
         {
@@ -9491,9 +9491,9 @@
           "showTime": "20:15:00",
           "screenType": "",
           "totalSeats": 287,
-          "soldSeats": 19,
-          "occupancy": 6.62,
-          "gross": 598.5,
+          "soldSeats": 16,
+          "occupancy": 5.57,
+          "gross": 504.0,
           "maxGross": 9040.5
         },
         {
