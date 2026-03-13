@@ -1427,11 +1427,11 @@
     },
     "2026-03-24": {
       "summary": {
-        "shows": 9,
-        "totalSeats": 1452,
+        "shows": 10,
+        "totalSeats": 2232,
         "soldSeats": 192,
         "gross": 5760.0,
-        "occupancy": "13.22%"
+        "occupancy": "8.6%"
       },
       "shows": [
         {
@@ -1568,13 +1568,28 @@
           "occupancy": 44.32,
           "gross": 2535.0,
           "maxGross": 5720.0
+        },
+        {
+          "cinemaId": "1005",
+          "cinemaName": "Riccarton",
+          "city": "Riccarton",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "324163",
+          "showTime": "20:45:00",
+          "screenType": "",
+          "totalSeats": 780,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 17940.0
         }
       ]
     },
     "2026-03-25": {
       "summary": {
-        "shows": 1,
-        "totalSeats": 372,
+        "shows": 2,
+        "totalSeats": 1152,
         "soldSeats": 0,
         "gross": 0.0,
         "occupancy": "0.0%"
@@ -1594,13 +1609,28 @@
           "occupancy": 0.0,
           "gross": 0.0,
           "maxGross": 9300.0
+        },
+        {
+          "cinemaId": "1005",
+          "cinemaName": "Riccarton",
+          "city": "Riccarton",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "324182",
+          "showTime": "20:45:00",
+          "screenType": "",
+          "totalSeats": 780,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 17940.0
         }
       ]
     },
     "2026-03-23": {
       "summary": {
-        "shows": 1,
-        "totalSeats": 372,
+        "shows": 2,
+        "totalSeats": 1152,
         "soldSeats": 0,
         "gross": 0.0,
         "occupancy": "0.0%"
@@ -1620,6 +1650,21 @@
           "occupancy": 0.0,
           "gross": 0.0,
           "maxGross": 9300.0
+        },
+        {
+          "cinemaId": "1005",
+          "cinemaName": "Riccarton",
+          "city": "Riccarton",
+          "country": "AU",
+          "Source": "Hoyts",
+          "sessionId": "324135",
+          "showTime": "20:45:00",
+          "screenType": "",
+          "totalSeats": 780,
+          "soldSeats": 0,
+          "occupancy": 0.0,
+          "gross": 0.0,
+          "maxGross": 17940.0
         }
       ]
     }
