@@ -4,10 +4,10 @@
     "2026-03-19": {
       "summary": {
         "shows": 15,
-        "totalSeats": 2901,
-        "soldSeats": 619,
-        "gross": 17960.25,
-        "occupancy": "21.34%"
+        "totalSeats": 2900,
+        "soldSeats": 622,
+        "gross": 18049.5,
+        "occupancy": "21.45%"
       },
       "shows": [
         {
@@ -79,9 +79,9 @@
           "sessionId": "2325555",
           "showTime": "19:30",
           "totalSeats": 291,
-          "soldSeats": 190,
-          "occupancy": 65.29,
-          "gross": 6452.0,
+          "soldSeats": 192,
+          "occupancy": 65.98,
+          "gross": 6516.5,
           "maxGross": 9886.25,
           "screenType": "Vmax"
         },
@@ -93,11 +93,11 @@
           "Source": "Event Cinemas",
           "sessionId": "2325566",
           "showTime": "19:15",
-          "totalSeats": 265,
+          "totalSeats": 264,
           "soldSeats": 118,
-          "occupancy": 44.53,
+          "occupancy": 44.7,
           "gross": 3746.5,
-          "maxGross": 8413.75,
+          "maxGross": 8382.0,
           "screenType": "Vmax"
         },
         {
@@ -154,9 +154,9 @@
           "sessionId": "2329658",
           "showTime": "18:30",
           "totalSeats": 203,
-          "soldSeats": 8,
-          "occupancy": 3.94,
-          "gross": 198.0,
+          "soldSeats": 9,
+          "occupancy": 4.43,
+          "gross": 222.75,
           "maxGross": 5024.25,
           "screenType": "Std"
         },
