@@ -5,9 +5,9 @@
       "summary": {
         "shows": 15,
         "totalSeats": 2900,
-        "soldSeats": 614,
-        "gross": 17850.5,
-        "occupancy": "21.17%"
+        "soldSeats": 618,
+        "gross": 17928.5,
+        "occupancy": "21.31%"
       },
       "shows": [
         {
@@ -109,9 +109,9 @@
           "sessionId": "2329713",
           "showTime": "14:10",
           "totalSeats": 439,
-          "soldSeats": 12,
-          "occupancy": 2.73,
-          "gross": 225.0,
+          "soldSeats": 13,
+          "occupancy": 2.96,
+          "gross": 243.75,
           "maxGross": 8231.25,
           "screenType": "Std"
         },
@@ -229,9 +229,9 @@
           "sessionId": "2325554",
           "showTime": "18:00",
           "totalSeats": 149,
-          "soldSeats": 36,
-          "occupancy": 24.16,
-          "gross": 711.0,
+          "soldSeats": 39,
+          "occupancy": 26.17,
+          "gross": 770.25,
           "maxGross": 2942.75,
           "screenType": "Std"
         }
@@ -241,9 +241,9 @@
       "summary": {
         "shows": 13,
         "totalSeats": 2397,
-        "soldSeats": 439,
-        "gross": 12808.25,
-        "occupancy": "18.31%"
+        "soldSeats": 443,
+        "gross": 12924.25,
+        "occupancy": "18.48%"
       },
       "shows": [
         {
@@ -330,9 +330,9 @@
           "sessionId": "2329628",
           "showTime": "19:30",
           "totalSeats": 291,
-          "soldSeats": 119,
-          "occupancy": 40.89,
-          "gross": 4093.25,
+          "soldSeats": 121,
+          "occupancy": 41.58,
+          "gross": 4158.75,
           "maxGross": 10031.75,
           "screenType": "Vmax"
         },
@@ -405,9 +405,9 @@
           "sessionId": "2329659",
           "showTime": "19:30",
           "totalSeats": 203,
-          "soldSeats": 9,
-          "occupancy": 4.43,
-          "gross": 227.25,
+          "soldSeats": 11,
+          "occupancy": 5.42,
+          "gross": 277.75,
           "maxGross": 5125.75,
           "screenType": "Std"
         },
