@@ -5,9 +5,9 @@
       "summary": {
         "shows": 147,
         "totalSeats": 28810,
-        "soldSeats": 7852,
-        "gross": 230048.5,
-        "occupancy": "27.25%"
+        "soldSeats": 7858,
+        "gross": 230301.5,
+        "occupancy": "27.28%"
       },
       "shows": [
         {
@@ -1057,8 +1057,8 @@
           "totalSeats": 108,
           "soldSeats": 41,
           "occupancy": 37.96,
-          "gross": 1107.0,
-          "maxGross": 2916.0
+          "gross": 1189.0,
+          "maxGross": 3132.0
         },
         {
           "cinemaId": "ERINAF",
@@ -1132,8 +1132,8 @@
           "totalSeats": 126,
           "soldSeats": 41,
           "occupancy": 32.54,
-          "gross": 1107.0,
-          "maxGross": 3402.0
+          "gross": 1025.0,
+          "maxGross": 3150.0
         },
         {
           "cinemaId": "STAFRD",
@@ -1147,8 +1147,8 @@
           "totalSeats": 105,
           "soldSeats": 25,
           "occupancy": 23.81,
-          "gross": 675.0,
-          "maxGross": 2835.0
+          "gross": 625.0,
+          "maxGross": 2625.0
         },
         {
           "cinemaId": "BMWCIN",
@@ -1190,9 +1190,9 @@
           "showTime": "21:15:00",
           "screenType": "",
           "totalSeats": 180,
-          "soldSeats": 69,
-          "occupancy": 38.33,
-          "gross": 2001.0,
+          "soldSeats": 71,
+          "occupancy": 39.44,
+          "gross": 2059.0,
           "maxGross": 5220.0
         },
         {
@@ -1222,8 +1222,8 @@
           "totalSeats": 108,
           "soldSeats": 68,
           "occupancy": 62.96,
-          "gross": 1836.0,
-          "maxGross": 2916.0
+          "gross": 1972.0,
+          "maxGross": 3132.0
         },
         {
           "cinemaId": "FHLCIN",
@@ -1520,9 +1520,9 @@
           "showTime": "22:00:00",
           "screenType": "",
           "totalSeats": 180,
-          "soldSeats": 68,
-          "occupancy": 37.78,
-          "gross": 1904.0,
+          "soldSeats": 70,
+          "occupancy": 38.89,
+          "gross": 1960.0,
           "maxGross": 5040.0
         },
         {
@@ -2120,9 +2120,9 @@
           "showTime": "14:00:00",
           "screenType": "",
           "totalSeats": 200,
-          "soldSeats": 2,
-          "occupancy": 1.0,
-          "gross": 53.0,
+          "soldSeats": 4,
+          "occupancy": 2.0,
+          "gross": 106.0,
           "maxGross": 5300.0
         },
         {
@@ -2221,9 +2221,9 @@
       "summary": {
         "shows": 132,
         "totalSeats": 26124,
-        "soldSeats": 7656,
-        "gross": 226040.5,
-        "occupancy": "29.31%"
+        "soldSeats": 7654,
+        "gross": 226114.5,
+        "occupancy": "29.3%"
       },
       "shows": [
         {
@@ -2326,9 +2326,9 @@
           "showTime": "21:15:00",
           "screenType": "",
           "totalSeats": 198,
-          "soldSeats": 51,
-          "occupancy": 25.76,
-          "gross": 1632.0,
+          "soldSeats": 49,
+          "occupancy": 24.75,
+          "gross": 1568.0,
           "maxGross": 6336.0
         },
         {
@@ -3258,8 +3258,8 @@
           "totalSeats": 108,
           "soldSeats": 55,
           "occupancy": 50.93,
-          "gross": 1485.0,
-          "maxGross": 2916.0
+          "gross": 1595.0,
+          "maxGross": 3132.0
         },
         {
           "cinemaId": "BMWCIN",
@@ -3303,8 +3303,8 @@
           "totalSeats": 108,
           "soldSeats": 36,
           "occupancy": 33.33,
-          "gross": 972.0,
-          "maxGross": 2916.0
+          "gross": 1044.0,
+          "maxGross": 3132.0
         },
         {
           "cinemaId": "BMWCIN",
@@ -3333,8 +3333,8 @@
           "totalSeats": 126,
           "soldSeats": 22,
           "occupancy": 17.46,
-          "gross": 594.0,
-          "maxGross": 3402.0
+          "gross": 550.0,
+          "maxGross": 3150.0
         },
         {
           "cinemaId": "BMWCIN",
@@ -4212,9 +4212,9 @@
       "summary": {
         "shows": 124,
         "totalSeats": 24051,
-        "soldSeats": 4892,
-        "gross": 145605.0,
-        "occupancy": "20.34%"
+        "soldSeats": 4897,
+        "gross": 145874.0,
+        "occupancy": "20.36%"
       },
       "shows": [
         {
@@ -5190,7 +5190,7 @@
           "soldSeats": 0,
           "occupancy": 0.0,
           "gross": 0.0,
-          "maxGross": 3402.0
+          "maxGross": 3150.0
         },
         {
           "cinemaId": "STAFRD",
@@ -5204,8 +5204,8 @@
           "totalSeats": 108,
           "soldSeats": 37,
           "occupancy": 34.26,
-          "gross": 999.0,
-          "maxGross": 2916.0
+          "gross": 1073.0,
+          "maxGross": 3132.0
         },
         {
           "cinemaId": "BMWCIN",
@@ -5264,8 +5264,8 @@
           "totalSeats": 108,
           "soldSeats": 16,
           "occupancy": 14.81,
-          "gross": 432.0,
-          "maxGross": 2916.0
+          "gross": 464.0,
+          "maxGross": 3132.0
         },
         {
           "cinemaId": "BMWCIN",
@@ -5607,9 +5607,9 @@
           "showTime": "16:30:00",
           "screenType": "",
           "totalSeats": 408,
-          "soldSeats": 164,
-          "occupancy": 40.2,
-          "gross": 5412.0,
+          "soldSeats": 169,
+          "occupancy": 41.42,
+          "gross": 5577.0,
           "maxGross": 13464.0
         },
         {
@@ -5819,8 +5819,8 @@
           "totalSeats": 60,
           "soldSeats": 1,
           "occupancy": 1.67,
-          "gross": 27.0,
-          "maxGross": 1620.0
+          "gross": 25.0,
+          "maxGross": 1500.0
         },
         {
           "cinemaId": "CHDSTN",
@@ -6083,9 +6083,9 @@
       "summary": {
         "shows": 147,
         "totalSeats": 28792,
-        "soldSeats": 7498,
-        "gross": 219169.0,
-        "occupancy": "26.04%"
+        "soldSeats": 7502,
+        "gross": 219308.0,
+        "occupancy": "26.06%"
       },
       "shows": [
         {
@@ -6773,9 +6773,9 @@
           "showTime": "15:15:00",
           "screenType": "",
           "totalSeats": 99,
-          "soldSeats": 4,
-          "occupancy": 4.04,
-          "gross": 112.0,
+          "soldSeats": 7,
+          "occupancy": 7.07,
+          "gross": 196.0,
           "maxGross": 2772.0
         },
         {
@@ -7240,8 +7240,8 @@
           "totalSeats": 126,
           "soldSeats": 41,
           "occupancy": 32.54,
-          "gross": 1107.0,
-          "maxGross": 3402.0
+          "gross": 1025.0,
+          "maxGross": 3150.0
         },
         {
           "cinemaId": "STAFRD",
@@ -7255,8 +7255,8 @@
           "totalSeats": 108,
           "soldSeats": 63,
           "occupancy": 58.33,
-          "gross": 1701.0,
-          "maxGross": 2916.0
+          "gross": 1827.0,
+          "maxGross": 3132.0
         },
         {
           "cinemaId": "STAFRD",
@@ -7270,8 +7270,8 @@
           "totalSeats": 108,
           "soldSeats": 15,
           "occupancy": 13.89,
-          "gross": 405.0,
-          "maxGross": 2916.0
+          "gross": 435.0,
+          "maxGross": 3132.0
         },
         {
           "cinemaId": "BMWCIN",
@@ -7330,8 +7330,8 @@
           "totalSeats": 105,
           "soldSeats": 30,
           "occupancy": 28.57,
-          "gross": 810.0,
-          "maxGross": 2835.0
+          "gross": 750.0,
+          "maxGross": 2625.0
         },
         {
           "cinemaId": "BMWCIN",
@@ -7448,9 +7448,9 @@
           "showTime": "11:30:00",
           "screenType": "",
           "totalSeats": 408,
-          "soldSeats": 55,
-          "occupancy": 13.48,
-          "gross": 1815.0,
+          "soldSeats": 56,
+          "occupancy": 13.73,
+          "gross": 1848.0,
           "maxGross": 13464.0
         },
         {
@@ -8035,8 +8035,8 @@
           "totalSeats": 108,
           "soldSeats": 4,
           "occupancy": 3.7,
-          "gross": 108.0,
-          "maxGross": 2916.0
+          "gross": 116.0,
+          "maxGross": 3132.0
         },
         {
           "cinemaId": "WWGCIN",
@@ -8300,7 +8300,7 @@
         "shows": 33,
         "totalSeats": 7391,
         "soldSeats": 454,
-        "gross": 13949.5,
+        "gross": 13965.5,
         "occupancy": "6.14%"
       },
       "shows": [
@@ -8542,7 +8542,7 @@
           "soldSeats": 0,
           "occupancy": 0.0,
           "gross": 0.0,
-          "maxGross": 2916.0
+          "maxGross": 3132.0
         },
         {
           "cinemaId": "STAFRD",
@@ -8556,8 +8556,8 @@
           "totalSeats": 108,
           "soldSeats": 8,
           "occupancy": 7.41,
-          "gross": 216.0,
-          "maxGross": 2916.0
+          "gross": 232.0,
+          "maxGross": 3132.0
         },
         {
           "cinemaId": "TAYLOR",
@@ -9191,9 +9191,9 @@
       "summary": {
         "shows": 26,
         "totalSeats": 6371,
-        "soldSeats": 265,
-        "gross": 8354.5,
-        "occupancy": "4.16%"
+        "soldSeats": 268,
+        "gross": 8449.0,
+        "occupancy": "4.21%"
       },
       "shows": [
         {
@@ -9491,9 +9491,9 @@
           "showTime": "20:15:00",
           "screenType": "",
           "totalSeats": 287,
-          "soldSeats": 16,
-          "occupancy": 5.57,
-          "gross": 504.0,
+          "soldSeats": 19,
+          "occupancy": 6.62,
+          "gross": 598.5,
           "maxGross": 9040.5
         },
         {
@@ -9596,7 +9596,7 @@
         "shows": 29,
         "totalSeats": 5266,
         "soldSeats": 239,
-        "gross": 6788.0,
+        "gross": 6780.0,
         "occupancy": "4.54%"
       },
       "shows": [
@@ -9853,7 +9853,7 @@
           "soldSeats": 0,
           "occupancy": 0.0,
           "gross": 0.0,
-          "maxGross": 2916.0
+          "maxGross": 3132.0
         },
         {
           "cinemaId": "TTPLZA",
@@ -9882,8 +9882,8 @@
           "totalSeats": 98,
           "soldSeats": 4,
           "occupancy": 4.08,
-          "gross": 108.0,
-          "maxGross": 2646.0
+          "gross": 100.0,
+          "maxGross": 2450.0
         },
         {
           "cinemaId": "TTPLZA",
@@ -10089,7 +10089,7 @@
           "soldSeats": 0,
           "occupancy": 0.0,
           "gross": 0.0,
-          "maxGross": 2646.0
+          "maxGross": 2450.0
         },
         {
           "cinemaId": "NORTHL",
@@ -10190,7 +10190,7 @@
           "soldSeats": 0,
           "occupancy": 0.0,
           "gross": 0.0,
-          "maxGross": 1782.0
+          "maxGross": 1650.0
         },
         {
           "cinemaId": "NORTHL",
