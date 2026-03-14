@@ -1,6 +1,6 @@
 {
   "region": "NEW ZEALAND",
-  "lastUpdated": "2026-03-14 02:53:10 UTC",
+  "lastUpdated": "2026-03-14 04:55:20 UTC",
   "movies": {
     "Dhurandhar: The Revenge": {
       "movieName": "Dhurandhar: The Revenge",
@@ -8,33 +8,33 @@
         "summary": {
           "shows": 41,
           "totalSeats": 8960,
-          "soldSeats": 1561,
-          "gross": 44114.5,
-          "occupancy": "17.42%"
+          "soldSeats": 1587,
+          "gross": 44805.25,
+          "occupancy": "17.71%"
         },
         "languages": {
           "English": {
             "shows": 41,
             "totalSeats": 8960,
-            "soldSeats": 1561,
-            "gross": 44114.5,
-            "occupancy": "17.42%"
+            "soldSeats": 1587,
+            "gross": 44805.25,
+            "occupancy": "17.71%"
           }
         },
         "sources": {
           "Hoyts": {
             "shows": 26,
             "totalSeats": 6060,
-            "soldSeats": 929,
-            "gross": 25789.5,
-            "occupancy": "15.33%"
+            "soldSeats": 956,
+            "gross": 26507.0,
+            "occupancy": "15.78%"
           },
           "Event Cinemas": {
             "shows": 15,
             "totalSeats": 2900,
-            "soldSeats": 632,
-            "gross": 18325.0,
-            "occupancy": "21.79%"
+            "soldSeats": 631,
+            "gross": 18298.25,
+            "occupancy": "21.76%"
           }
         },
         "shows": [
@@ -48,9 +48,9 @@
             "showTime": "16:00:00",
             "screenType": "",
             "totalSeats": 198,
-            "soldSeats": 2,
-            "occupancy": 1.01,
-            "gross": 55.0,
+            "soldSeats": 5,
+            "occupancy": 2.53,
+            "gross": 137.5,
             "maxGross": 5445.0,
             "Language": "English"
           },
@@ -96,9 +96,9 @@
             "showTime": "19:30:00",
             "screenType": "",
             "totalSeats": 176,
-            "soldSeats": 91,
-            "occupancy": 51.7,
-            "gross": 2957.5,
+            "soldSeats": 92,
+            "occupancy": 52.27,
+            "gross": 2990.0,
             "maxGross": 5720.0,
             "Language": "English"
           },
@@ -128,9 +128,9 @@
             "showTime": "19:30:00",
             "screenType": "",
             "totalSeats": 726,
-            "soldSeats": 78,
-            "occupancy": 10.74,
-            "gross": 2145.0,
+            "soldSeats": 83,
+            "occupancy": 11.43,
+            "gross": 2282.5,
             "maxGross": 19965.0,
             "Language": "English"
           },
@@ -160,9 +160,9 @@
             "showTime": "19:30:00",
             "screenType": "",
             "totalSeats": 69,
-            "soldSeats": 28,
-            "occupancy": 40.58,
-            "gross": 756.0,
+            "soldSeats": 30,
+            "occupancy": 43.48,
+            "gross": 810.0,
             "maxGross": 1863.0,
             "Language": "English"
           },
@@ -192,9 +192,9 @@
             "showTime": "18:30:00",
             "screenType": "",
             "totalSeats": 221,
-            "soldSeats": 26,
-            "occupancy": 11.76,
-            "gross": 728.0,
+            "soldSeats": 30,
+            "occupancy": 13.57,
+            "gross": 840.0,
             "maxGross": 6188.0,
             "Language": "English"
           },
@@ -272,9 +272,9 @@
             "showTime": "18:30:00",
             "screenType": "",
             "totalSeats": 162,
-            "soldSeats": 48,
-            "occupancy": 29.63,
-            "gross": 1344.0,
+            "soldSeats": 51,
+            "occupancy": 31.48,
+            "gross": 1428.0,
             "maxGross": 4536.0,
             "Language": "English"
           },
@@ -368,9 +368,9 @@
             "showTime": "20:45:00",
             "screenType": "",
             "totalSeats": 780,
-            "soldSeats": 34,
-            "occupancy": 4.36,
-            "gross": 782.0,
+            "soldSeats": 41,
+            "occupancy": 5.26,
+            "gross": 943.0,
             "maxGross": 17940.0,
             "Language": "English"
           },
@@ -384,9 +384,9 @@
             "showTime": "21:30:00",
             "screenType": "",
             "totalSeats": 72,
-            "soldSeats": 31,
-            "occupancy": 43.06,
-            "gross": 837.0,
+            "soldSeats": 33,
+            "occupancy": 45.83,
+            "gross": 891.0,
             "maxGross": 1944.0,
             "Language": "English"
           },
@@ -511,9 +511,9 @@
             "sessionId": "2325573",
             "showTime": "19:00",
             "totalSeats": 108,
-            "soldSeats": 46,
-            "occupancy": 42.59,
-            "gross": 1345.5,
+            "soldSeats": 44,
+            "occupancy": 40.74,
+            "gross": 1287.0,
             "maxGross": 3159.0,
             "screenType": "Std",
             "Language": "English"
@@ -543,9 +543,9 @@
             "sessionId": "2325566",
             "showTime": "19:15",
             "totalSeats": 264,
-            "soldSeats": 120,
-            "occupancy": 45.45,
-            "gross": 3810.0,
+            "soldSeats": 121,
+            "occupancy": 45.83,
+            "gross": 3841.75,
             "maxGross": 8382.0,
             "screenType": "Vmax",
             "Language": "English"
@@ -700,33 +700,33 @@
         "summary": {
           "shows": 37,
           "totalSeats": 8211,
-          "soldSeats": 1469,
-          "gross": 41798.5,
-          "occupancy": "17.89%"
+          "soldSeats": 1485,
+          "gross": 42196.75,
+          "occupancy": "18.09%"
         },
         "languages": {
           "English": {
             "shows": 37,
             "totalSeats": 8211,
-            "soldSeats": 1469,
-            "gross": 41798.5,
-            "occupancy": "17.89%"
+            "soldSeats": 1485,
+            "gross": 42196.75,
+            "occupancy": "18.09%"
           }
         },
         "sources": {
           "Hoyts": {
             "shows": 24,
             "totalSeats": 5814,
-            "soldSeats": 1013,
-            "gross": 28471.5,
-            "occupancy": "17.42%"
+            "soldSeats": 1024,
+            "gross": 28756.0,
+            "occupancy": "17.61%"
           },
           "Event Cinemas": {
             "shows": 13,
             "totalSeats": 2397,
-            "soldSeats": 456,
-            "gross": 13327.0,
-            "occupancy": "19.02%"
+            "soldSeats": 461,
+            "gross": 13440.75,
+            "occupancy": "19.23%"
           }
         },
         "shows": [
@@ -868,9 +868,9 @@
             "showTime": "20:45:00",
             "screenType": "",
             "totalSeats": 160,
-            "soldSeats": 40,
-            "occupancy": 25.0,
-            "gross": 820.0,
+            "soldSeats": 43,
+            "occupancy": 26.88,
+            "gross": 881.5,
             "maxGross": 3280.0,
             "Language": "English"
           },
@@ -1012,9 +1012,9 @@
             "showTime": "21:30:00",
             "screenType": "",
             "totalSeats": 312,
-            "soldSeats": 98,
-            "occupancy": 31.41,
-            "gross": 3185.0,
+            "soldSeats": 101,
+            "occupancy": 32.37,
+            "gross": 3282.5,
             "maxGross": 10140.0,
             "Language": "English"
           },
@@ -1060,9 +1060,9 @@
             "showTime": "20:45:00",
             "screenType": "",
             "totalSeats": 780,
-            "soldSeats": 38,
-            "occupancy": 4.87,
-            "gross": 874.0,
+            "soldSeats": 40,
+            "occupancy": 5.13,
+            "gross": 920.0,
             "maxGross": 17940.0,
             "Language": "English"
           },
@@ -1092,9 +1092,9 @@
             "showTime": "20:20:00",
             "screenType": "",
             "totalSeats": 216,
-            "soldSeats": 58,
-            "occupancy": 26.85,
-            "gross": 1537.0,
+            "soldSeats": 61,
+            "occupancy": 28.24,
+            "gross": 1616.5,
             "maxGross": 5724.0,
             "Language": "English"
           },
@@ -1155,9 +1155,9 @@
             "sessionId": "2325548",
             "showTime": "19:15",
             "totalSeats": 210,
-            "soldSeats": 31,
-            "occupancy": 14.76,
-            "gross": 891.25,
+            "soldSeats": 33,
+            "occupancy": 15.71,
+            "gross": 948.75,
             "maxGross": 6037.5,
             "screenType": "Std",
             "Language": "English"
@@ -1235,9 +1235,9 @@
             "sessionId": "2325561",
             "showTime": "19:15",
             "totalSeats": 441,
-            "soldSeats": 67,
-            "occupancy": 15.19,
-            "gross": 1256.25,
+            "soldSeats": 70,
+            "occupancy": 15.87,
+            "gross": 1312.5,
             "maxGross": 8268.75,
             "screenType": "Std",
             "Language": "English"
@@ -1328,33 +1328,33 @@
         "summary": {
           "shows": 37,
           "totalSeats": 8670,
-          "soldSeats": 1048,
-          "gross": 30424.75,
-          "occupancy": "12.09%"
+          "soldSeats": 1076,
+          "gross": 31144.75,
+          "occupancy": "12.41%"
         },
         "languages": {
           "English": {
             "shows": 37,
             "totalSeats": 8670,
-            "soldSeats": 1048,
-            "gross": 30424.75,
-            "occupancy": "12.09%"
+            "soldSeats": 1076,
+            "gross": 31144.75,
+            "occupancy": "12.41%"
           }
         },
         "sources": {
           "Hoyts": {
             "shows": 21,
             "totalSeats": 5288,
-            "soldSeats": 622,
-            "gross": 17762.0,
-            "occupancy": "11.76%"
+            "soldSeats": 642,
+            "gross": 18274.0,
+            "occupancy": "12.14%"
           },
           "Event Cinemas": {
             "shows": 16,
             "totalSeats": 3382,
-            "soldSeats": 426,
-            "gross": 12662.75,
-            "occupancy": "12.6%"
+            "soldSeats": 434,
+            "gross": 12870.75,
+            "occupancy": "12.83%"
           }
         },
         "shows": [
@@ -1368,9 +1368,9 @@
             "showTime": "20:45:00",
             "screenType": "",
             "totalSeats": 160,
-            "soldSeats": 26,
-            "occupancy": 16.25,
-            "gross": 533.0,
+            "soldSeats": 32,
+            "occupancy": 20.0,
+            "gross": 656.0,
             "maxGross": 3280.0,
             "Language": "English"
           },
@@ -1384,9 +1384,9 @@
             "showTime": "18:30:00",
             "screenType": "",
             "totalSeats": 162,
-            "soldSeats": 44,
-            "occupancy": 27.16,
-            "gross": 1232.0,
+            "soldSeats": 42,
+            "occupancy": 25.93,
+            "gross": 1176.0,
             "maxGross": 4536.0,
             "Language": "English"
           },
@@ -1400,9 +1400,9 @@
             "showTime": "16:15:00",
             "screenType": "",
             "totalSeats": 76,
-            "soldSeats": 4,
-            "occupancy": 5.26,
-            "gross": 112.0,
+            "soldSeats": 11,
+            "occupancy": 14.47,
+            "gross": 308.0,
             "maxGross": 2128.0,
             "Language": "English"
           },
@@ -1592,9 +1592,9 @@
             "showTime": "20:30:00",
             "screenType": "",
             "totalSeats": 114,
-            "soldSeats": 8,
-            "occupancy": 7.02,
-            "gross": 224.0,
+            "soldSeats": 11,
+            "occupancy": 9.65,
+            "gross": 308.0,
             "maxGross": 3192.0,
             "Language": "English"
           },
@@ -1608,9 +1608,9 @@
             "showTime": "19:30:00",
             "screenType": "",
             "totalSeats": 176,
-            "soldSeats": 74,
-            "occupancy": 42.05,
-            "gross": 2405.0,
+            "soldSeats": 76,
+            "occupancy": 43.18,
+            "gross": 2470.0,
             "maxGross": 5720.0,
             "Language": "English"
           },
@@ -1672,9 +1672,9 @@
             "showTime": "19:30:00",
             "screenType": "",
             "totalSeats": 372,
-            "soldSeats": 83,
-            "occupancy": 22.31,
-            "gross": 2075.0,
+            "soldSeats": 87,
+            "occupancy": 23.39,
+            "gross": 2175.0,
             "maxGross": 9300.0,
             "Language": "English"
           },
@@ -1719,9 +1719,9 @@
             "sessionId": "2325550",
             "showTime": "14:40",
             "totalSeats": 210,
-            "soldSeats": 21,
-            "occupancy": 10.0,
-            "gross": 593.25,
+            "soldSeats": 23,
+            "occupancy": 10.95,
+            "gross": 649.75,
             "maxGross": 5932.5,
             "screenType": "Std",
             "Language": "English"
@@ -1799,9 +1799,9 @@
             "sessionId": "2329630",
             "showTime": "19:30",
             "totalSeats": 291,
-            "soldSeats": 59,
-            "occupancy": 20.27,
-            "gross": 2076.75,
+            "soldSeats": 55,
+            "occupancy": 18.9,
+            "gross": 1929.75,
             "maxGross": 10031.75,
             "screenType": "Vmax",
             "Language": "English"
@@ -1815,9 +1815,9 @@
             "sessionId": "2329623",
             "showTime": "14:30",
             "totalSeats": 264,
-            "soldSeats": 41,
-            "occupancy": 15.53,
-            "gross": 1301.75,
+            "soldSeats": 43,
+            "occupancy": 16.29,
+            "gross": 1365.25,
             "maxGross": 8382.0,
             "screenType": "Vmax",
             "Language": "English"
@@ -1879,9 +1879,9 @@
             "sessionId": "2329654",
             "showTime": "14:40",
             "totalSeats": 55,
-            "soldSeats": 10,
-            "occupancy": 18.18,
-            "gross": 307.5,
+            "soldSeats": 14,
+            "occupancy": 25.45,
+            "gross": 430.5,
             "maxGross": 1691.25,
             "screenType": "Std",
             "Language": "English"
@@ -1895,9 +1895,9 @@
             "sessionId": "2325571",
             "showTime": "19:15",
             "totalSeats": 55,
-            "soldSeats": 36,
-            "occupancy": 65.45,
-            "gross": 1107.0,
+            "soldSeats": 38,
+            "occupancy": 69.09,
+            "gross": 1168.5,
             "maxGross": 1691.25,
             "screenType": "Std",
             "Language": "English"
@@ -1911,9 +1911,9 @@
             "sessionId": "2329660",
             "showTime": "19:30",
             "totalSeats": 203,
-            "soldSeats": 6,
-            "occupancy": 2.96,
-            "gross": 151.5,
+            "soldSeats": 8,
+            "occupancy": 3.94,
+            "gross": 202.0,
             "maxGross": 5125.75,
             "screenType": "Std",
             "Language": "English"
@@ -1956,26 +1956,26 @@
         "summary": {
           "shows": 32,
           "totalSeats": 7348,
-          "soldSeats": 293,
-          "gross": 8649.25,
-          "occupancy": "3.99%"
+          "soldSeats": 305,
+          "gross": 9039.25,
+          "occupancy": "4.15%"
         },
         "languages": {
           "English": {
             "shows": 32,
             "totalSeats": 7348,
-            "soldSeats": 293,
-            "gross": 8649.25,
-            "occupancy": "3.99%"
+            "soldSeats": 305,
+            "gross": 9039.25,
+            "occupancy": "4.15%"
           }
         },
         "sources": {
           "Hoyts": {
             "shows": 21,
             "totalSeats": 5143,
-            "soldSeats": 154,
-            "gross": 4413.5,
-            "occupancy": "2.99%"
+            "soldSeats": 166,
+            "gross": 4803.5,
+            "occupancy": "3.23%"
           },
           "Event Cinemas": {
             "shows": 11,
@@ -2156,9 +2156,9 @@
             "showTime": "14:45:00",
             "screenType": "",
             "totalSeats": 176,
-            "soldSeats": 20,
-            "occupancy": 11.36,
-            "gross": 650.0,
+            "soldSeats": 26,
+            "occupancy": 14.77,
+            "gross": 845.0,
             "maxGross": 5720.0,
             "Language": "English"
           },
@@ -2220,9 +2220,9 @@
             "showTime": "19:30:00",
             "screenType": "",
             "totalSeats": 176,
-            "soldSeats": 36,
-            "occupancy": 20.45,
-            "gross": 1170.0,
+            "soldSeats": 42,
+            "occupancy": 23.86,
+            "gross": 1365.0,
             "maxGross": 5720.0,
             "Language": "English"
           },
@@ -2565,26 +2565,26 @@
         "summary": {
           "shows": 10,
           "totalSeats": 2232,
-          "soldSeats": 196,
-          "gross": 5872.0,
-          "occupancy": "8.78%"
+          "soldSeats": 201,
+          "gross": 6012.0,
+          "occupancy": "9.01%"
         },
         "languages": {
           "English": {
             "shows": 10,
             "totalSeats": 2232,
-            "soldSeats": 196,
-            "gross": 5872.0,
-            "occupancy": "8.78%"
+            "soldSeats": 201,
+            "gross": 6012.0,
+            "occupancy": "9.01%"
           }
         },
         "sources": {
           "Hoyts": {
             "shows": 10,
             "totalSeats": 2232,
-            "soldSeats": 196,
-            "gross": 5872.0,
-            "occupancy": "8.78%"
+            "soldSeats": 201,
+            "gross": 6012.0,
+            "occupancy": "9.01%"
           }
         },
         "shows": [
@@ -2646,9 +2646,9 @@
             "showTime": "18:30:00",
             "screenType": "",
             "totalSeats": 162,
-            "soldSeats": 29,
-            "occupancy": 17.9,
-            "gross": 812.0,
+            "soldSeats": 32,
+            "occupancy": 19.75,
+            "gross": 896.0,
             "maxGross": 4536.0,
             "Language": "English"
           },
@@ -2694,9 +2694,9 @@
             "showTime": "18:00:00",
             "screenType": "",
             "totalSeats": 128,
-            "soldSeats": 8,
-            "occupancy": 6.25,
-            "gross": 224.0,
+            "soldSeats": 10,
+            "occupancy": 7.81,
+            "gross": 280.0,
             "maxGross": 3584.0,
             "Language": "English"
           },
