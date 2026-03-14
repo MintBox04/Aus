@@ -5,9 +5,9 @@
       "summary": {
         "shows": 24,
         "totalSeats": 5814,
-        "soldSeats": 1133,
-        "gross": 31852.0,
-        "occupancy": "19.49%"
+        "soldSeats": 1135,
+        "gross": 31908.0,
+        "occupancy": "19.52%"
       },
       "shows": [
         {
@@ -95,9 +95,9 @@
           "showTime": "18:30:00",
           "screenType": "",
           "totalSeats": 221,
-          "soldSeats": 49,
-          "occupancy": 22.17,
-          "gross": 1372.0,
+          "soldSeats": 51,
+          "occupancy": 23.08,
+          "gross": 1428.0,
           "maxGross": 6188.0
         },
         {
@@ -376,9 +376,9 @@
       "summary": {
         "shows": 26,
         "totalSeats": 6060,
-        "soldSeats": 1021,
-        "gross": 28292.5,
-        "occupancy": "16.85%"
+        "soldSeats": 1023,
+        "gross": 28342.5,
+        "occupancy": "16.88%"
       },
       "shows": [
         {
@@ -661,9 +661,9 @@
           "showTime": "19:30:00",
           "screenType": "",
           "totalSeats": 372,
-          "soldSeats": 100,
-          "occupancy": 26.88,
-          "gross": 2500.0,
+          "soldSeats": 102,
+          "occupancy": 27.42,
+          "gross": 2550.0,
           "maxGross": 9300.0
         },
         {
@@ -778,7 +778,7 @@
         "shows": 21,
         "totalSeats": 5288,
         "soldSeats": 710,
-        "gross": 20131.0,
+        "gross": 20137.0,
         "occupancy": "13.43%"
       },
       "shows": [
@@ -822,9 +822,9 @@
           "showTime": "16:15:00",
           "screenType": "",
           "totalSeats": 76,
-          "soldSeats": 13,
-          "occupancy": 17.11,
-          "gross": 364.0,
+          "soldSeats": 15,
+          "occupancy": 19.74,
+          "gross": 420.0,
           "maxGross": 2128.0
         },
         {
@@ -1077,9 +1077,9 @@
           "showTime": "19:30:00",
           "screenType": "",
           "totalSeats": 372,
-          "soldSeats": 100,
-          "occupancy": 26.88,
-          "gross": 2500.0,
+          "soldSeats": 98,
+          "occupancy": 26.34,
+          "gross": 2450.0,
           "maxGross": 9300.0
         },
         {
