@@ -1,9 +1,88 @@
 {
   "region": "AUSTRALIA",
-  "lastUpdated": "2026-03-14 06:03:14 UTC",
+  "lastUpdated": "2026-03-14 06:40:57 UTC",
   "movies": {
-    "Dhurandhar: The Revenge": {
-      "movieName": "Dhurandhar: The Revenge",
+    "Avatar Fire And Ash": {
+      "movieName": "Avatar Fire And Ash",
+      "2026-03-15": {
+        "summary": {
+          "shows": 1,
+          "totalSeats": 461,
+          "soldSeats": 40,
+          "gross": 1680.0,
+          "occupancy": "8.68%"
+        },
+        "languages": {
+          "English": {
+            "shows": 1,
+            "totalSeats": 461,
+            "soldSeats": 40,
+            "gross": 1680.0,
+            "occupancy": "8.68%"
+          }
+        },
+        "sources": {
+          "IMAX Melbourne": {
+            "shows": 1,
+            "totalSeats": 461,
+            "soldSeats": 40,
+            "gross": 1680.0,
+            "occupancy": "8.68%"
+          }
+        },
+        "shows": [
+          {
+            "Time": "7:15pm",
+            "totalSeats": 461,
+            "soldSeats": 40,
+            "gross": 1680.0,
+            "Source": "IMAX Melbourne",
+            "sessionId": "22126",
+            "Language": "English"
+          }
+        ]
+      },
+      "2026-03-17": {
+        "summary": {
+          "shows": 1,
+          "totalSeats": 461,
+          "soldSeats": 69,
+          "gross": 2898.0,
+          "occupancy": "14.97%"
+        },
+        "languages": {
+          "English": {
+            "shows": 1,
+            "totalSeats": 461,
+            "soldSeats": 69,
+            "gross": 2898.0,
+            "occupancy": "14.97%"
+          }
+        },
+        "sources": {
+          "IMAX Melbourne": {
+            "shows": 1,
+            "totalSeats": 461,
+            "soldSeats": 69,
+            "gross": 2898.0,
+            "occupancy": "14.97%"
+          }
+        },
+        "shows": [
+          {
+            "Time": "7:30pm",
+            "totalSeats": 461,
+            "soldSeats": 69,
+            "gross": 2898.0,
+            "Source": "IMAX Melbourne",
+            "sessionId": "22102",
+            "Language": "English"
+          }
+        ]
+      }
+    },
+    "Dhurandhar The Revenge": {
+      "movieName": "Dhurandhar The Revenge",
       "2026-03-19": {
         "summary": {
           "shows": 259,
@@ -17639,15 +17718,211 @@
         ]
       }
     },
+    "Epic Elvis Presley In Concert": {
+      "movieName": "Epic Elvis Presley In Concert",
+      "2026-03-15": {
+        "summary": {
+          "shows": 1,
+          "totalSeats": 461,
+          "soldSeats": 167,
+          "gross": 7014.0,
+          "occupancy": "36.23%"
+        },
+        "languages": {
+          "English": {
+            "shows": 1,
+            "totalSeats": 461,
+            "soldSeats": 167,
+            "gross": 7014.0,
+            "occupancy": "36.23%"
+          }
+        },
+        "sources": {
+          "IMAX Melbourne": {
+            "shows": 1,
+            "totalSeats": 461,
+            "soldSeats": 167,
+            "gross": 7014.0,
+            "occupancy": "36.23%"
+          }
+        },
+        "shows": [
+          {
+            "Time": "1:50pm",
+            "totalSeats": 461,
+            "soldSeats": 167,
+            "gross": 7014.0,
+            "Source": "IMAX Melbourne",
+            "sessionId": "22100",
+            "Language": "English"
+          }
+        ]
+      },
+      "2026-03-16": {
+        "summary": {
+          "shows": 1,
+          "totalSeats": 461,
+          "soldSeats": 23,
+          "gross": 966.0,
+          "occupancy": "4.99%"
+        },
+        "languages": {
+          "English": {
+            "shows": 1,
+            "totalSeats": 461,
+            "soldSeats": 23,
+            "gross": 966.0,
+            "occupancy": "4.99%"
+          }
+        },
+        "sources": {
+          "IMAX Melbourne": {
+            "shows": 1,
+            "totalSeats": 461,
+            "soldSeats": 23,
+            "gross": 966.0,
+            "occupancy": "4.99%"
+          }
+        },
+        "shows": [
+          {
+            "Time": "4:10pm",
+            "totalSeats": 461,
+            "soldSeats": 23,
+            "gross": 966.0,
+            "Source": "IMAX Melbourne",
+            "sessionId": "22127",
+            "Language": "English"
+          }
+        ]
+      },
+      "2026-03-18": {
+        "summary": {
+          "shows": 1,
+          "totalSeats": 461,
+          "soldSeats": 60,
+          "gross": 2520.0,
+          "occupancy": "13.02%"
+        },
+        "languages": {
+          "English": {
+            "shows": 1,
+            "totalSeats": 461,
+            "soldSeats": 60,
+            "gross": 2520.0,
+            "occupancy": "13.02%"
+          }
+        },
+        "sources": {
+          "IMAX Melbourne": {
+            "shows": 1,
+            "totalSeats": 461,
+            "soldSeats": 60,
+            "gross": 2520.0,
+            "occupancy": "13.02%"
+          }
+        },
+        "shows": [
+          {
+            "Time": "6:00pm",
+            "totalSeats": 461,
+            "soldSeats": 60,
+            "gross": 2520.0,
+            "Source": "IMAX Melbourne",
+            "sessionId": "22103",
+            "Language": "English"
+          }
+        ]
+      }
+    },
+    "The Revenant 10Th": {
+      "movieName": "The Revenant 10Th",
+      "2026-03-16": {
+        "summary": {
+          "shows": 1,
+          "totalSeats": 461,
+          "soldSeats": 31,
+          "gross": 1302.0,
+          "occupancy": "6.72%"
+        },
+        "languages": {
+          "English": {
+            "shows": 1,
+            "totalSeats": 461,
+            "soldSeats": 31,
+            "gross": 1302.0,
+            "occupancy": "6.72%"
+          }
+        },
+        "sources": {
+          "IMAX Melbourne": {
+            "shows": 1,
+            "totalSeats": 461,
+            "soldSeats": 31,
+            "gross": 1302.0,
+            "occupancy": "6.72%"
+          }
+        },
+        "shows": [
+          {
+            "Time": "7:00pm",
+            "totalSeats": 461,
+            "soldSeats": 31,
+            "gross": 1302.0,
+            "Source": "IMAX Melbourne",
+            "sessionId": "22101",
+            "Language": "English"
+          }
+        ]
+      },
+      "2026-03-17": {
+        "summary": {
+          "shows": 1,
+          "totalSeats": 461,
+          "soldSeats": 9,
+          "gross": 378.0,
+          "occupancy": "1.95%"
+        },
+        "languages": {
+          "English": {
+            "shows": 1,
+            "totalSeats": 461,
+            "soldSeats": 9,
+            "gross": 378.0,
+            "occupancy": "1.95%"
+          }
+        },
+        "sources": {
+          "IMAX Melbourne": {
+            "shows": 1,
+            "totalSeats": 461,
+            "soldSeats": 9,
+            "gross": 378.0,
+            "occupancy": "1.95%"
+          }
+        },
+        "shows": [
+          {
+            "Time": "4:10pm",
+            "totalSeats": 461,
+            "soldSeats": 9,
+            "gross": 378.0,
+            "Source": "IMAX Melbourne",
+            "sessionId": "22128",
+            "Language": "English"
+          }
+        ]
+      }
+    },
     "Ustaad Bhagat Singh": {
       "movieName": "Ustaad Bhagat Singh",
       "2026-03-19": {
         "summary": {
-          "shows": 33,
-          "totalSeats": 6103,
-          "soldSeats": 282,
-          "gross": 7912.25,
-          "occupancy": "4.62%"
+          "shows": 34,
+          "totalSeats": 6564,
+          "soldSeats": 485,
+          "gross": 16438.25,
+          "occupancy": "7.39%"
         },
         "languages": {
           "English": {
@@ -17656,6 +17931,13 @@
             "soldSeats": 282,
             "gross": 7912.25,
             "occupancy": "4.62%"
+          },
+          "Telugu": {
+            "shows": 1,
+            "totalSeats": 461,
+            "soldSeats": 203,
+            "gross": 8526.0,
+            "occupancy": "44.03%"
           }
         },
         "sources": {
@@ -17679,6 +17961,13 @@
             "soldSeats": 11,
             "gross": 253.0,
             "occupancy": "3.72%"
+          },
+          "IMAX Melbourne": {
+            "shows": 1,
+            "totalSeats": 461,
+            "soldSeats": 203,
+            "gross": 8526.0,
+            "occupancy": "44.03%"
           }
         },
         "shows": [
@@ -18209,6 +18498,15 @@
             "gross": 253.0,
             "maxGross": 6808.0,
             "Language": "English"
+          },
+          {
+            "Time": "5:00am",
+            "totalSeats": 461,
+            "soldSeats": 203,
+            "gross": 8526.0,
+            "Source": "IMAX Melbourne",
+            "sessionId": "22104",
+            "Language": "Telugu"
           }
         ]
       },

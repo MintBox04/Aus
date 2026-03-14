@@ -1,0 +1,110 @@
+{
+    "EPiC: Elvis Presley in Concert [pg]": {
+        "movieName": "EPiC: Elvis Presley in Concert [pg]",
+        "2026-03-15": {
+            "shows": [
+                {
+                    "Time": "1:50pm",
+                    "totalSeats": 461,
+                    "soldSeats": 167,
+                    "gross": 7014.0,
+                    "Source": "IMAX Melbourne",
+                    "sessionId": "22100"
+                }
+            ]
+        },
+        "2026-03-16": {
+            "shows": [
+                {
+                    "Time": "4:10pm",
+                    "totalSeats": 461,
+                    "soldSeats": 23,
+                    "gross": 966.0,
+                    "Source": "IMAX Melbourne",
+                    "sessionId": "22127"
+                }
+            ]
+        },
+        "2026-03-18": {
+            "shows": [
+                {
+                    "Time": "6:00pm",
+                    "totalSeats": 461,
+                    "soldSeats": 60,
+                    "gross": 2520.0,
+                    "Source": "IMAX Melbourne",
+                    "sessionId": "22103"
+                }
+            ]
+        }
+    },
+    "AVATAR: FIRE AND ASH 3D [m]": {
+        "movieName": "AVATAR: FIRE AND ASH 3D [m]",
+        "2026-03-15": {
+            "shows": [
+                {
+                    "Time": "7:15pm",
+                    "totalSeats": 461,
+                    "soldSeats": 40,
+                    "gross": 1680.0,
+                    "Source": "IMAX Melbourne",
+                    "sessionId": "22126"
+                }
+            ]
+        },
+        "2026-03-17": {
+            "shows": [
+                {
+                    "Time": "7:30pm",
+                    "totalSeats": 461,
+                    "soldSeats": 69,
+                    "gross": 2898.0,
+                    "Source": "IMAX Melbourne",
+                    "sessionId": "22102"
+                }
+            ]
+        }
+    },
+    "THE REVENANT - 10TH ANNIVERSARY [ma]": {
+        "movieName": "THE REVENANT - 10TH ANNIVERSARY [ma]",
+        "2026-03-16": {
+            "shows": [
+                {
+                    "Time": "7:00pm",
+                    "totalSeats": 461,
+                    "soldSeats": 31,
+                    "gross": 1302.0,
+                    "Source": "IMAX Melbourne",
+                    "sessionId": "22101"
+                }
+            ]
+        },
+        "2026-03-17": {
+            "shows": [
+                {
+                    "Time": "4:10pm",
+                    "totalSeats": 461,
+                    "soldSeats": 9,
+                    "gross": 378.0,
+                    "Source": "IMAX Melbourne",
+                    "sessionId": "22128"
+                }
+            ]
+        }
+    },
+    "USTAAD BHAGAT SINGH (Telugu) [ctc]": {
+        "movieName": "USTAAD BHAGAT SINGH (Telugu) [ctc]",
+        "2026-03-19": {
+            "shows": [
+                {
+                    "Time": "5:00am",
+                    "totalSeats": 461,
+                    "soldSeats": 203,
+                    "gross": 8526.0,
+                    "Source": "IMAX Melbourne",
+                    "sessionId": "22104"
+                }
+            ]
+        }
+    }
+}
