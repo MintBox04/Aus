@@ -5,9 +5,9 @@
       "summary": {
         "shows": 15,
         "totalSeats": 2900,
-        "soldSeats": 627,
-        "gross": 18182.25,
-        "occupancy": "21.62%"
+        "soldSeats": 632,
+        "gross": 18325.0,
+        "occupancy": "21.79%"
       },
       "shows": [
         {
@@ -19,9 +19,9 @@
           "sessionId": "2325556",
           "showTime": "18:20",
           "totalSeats": 266,
-          "soldSeats": 35,
-          "occupancy": 13.16,
-          "gross": 936.25,
+          "soldSeats": 32,
+          "occupancy": 12.03,
+          "gross": 856.0,
           "maxGross": 7115.5,
           "screenType": "Std"
         },
@@ -49,9 +49,9 @@
           "sessionId": "2325563",
           "showTime": "18:10",
           "totalSeats": 73,
-          "soldSeats": 22,
-          "occupancy": 30.14,
-          "gross": 577.5,
+          "soldSeats": 23,
+          "occupancy": 31.51,
+          "gross": 603.75,
           "maxGross": 1916.25,
           "screenType": "Std"
         },
@@ -64,9 +64,9 @@
           "sessionId": "2325573",
           "showTime": "19:00",
           "totalSeats": 108,
-          "soldSeats": 41,
-          "occupancy": 37.96,
-          "gross": 1199.25,
+          "soldSeats": 46,
+          "occupancy": 42.59,
+          "gross": 1345.5,
           "maxGross": 3159.0,
           "screenType": "Std"
         },
@@ -214,9 +214,9 @@
           "sessionId": "2325577",
           "showTime": "18:10",
           "totalSeats": 153,
-          "soldSeats": 12,
-          "occupancy": 7.84,
-          "gross": 303.0,
+          "soldSeats": 14,
+          "occupancy": 9.15,
+          "gross": 353.5,
           "maxGross": 3863.25,
           "screenType": "Std"
         },
@@ -241,9 +241,9 @@
       "summary": {
         "shows": 13,
         "totalSeats": 2397,
-        "soldSeats": 453,
-        "gross": 13216.75,
-        "occupancy": "18.9%"
+        "soldSeats": 456,
+        "gross": 13327.0,
+        "occupancy": "19.02%"
       },
       "shows": [
         {
@@ -330,9 +330,9 @@
           "sessionId": "2329628",
           "showTime": "19:30",
           "totalSeats": 291,
-          "soldSeats": 123,
-          "occupancy": 42.27,
-          "gross": 4224.25,
+          "soldSeats": 126,
+          "occupancy": 43.3,
+          "gross": 4334.5,
           "maxGross": 10031.75,
           "screenType": "Vmax"
         },
@@ -447,9 +447,9 @@
       "summary": {
         "shows": 16,
         "totalSeats": 3382,
-        "soldSeats": 388,
-        "gross": 11531.0,
-        "occupancy": "11.47%"
+        "soldSeats": 426,
+        "gross": 12662.75,
+        "occupancy": "12.6%"
       },
       "shows": [
         {
@@ -536,9 +536,9 @@
           "sessionId": "2329629",
           "showTime": "14:45",
           "totalSeats": 291,
-          "soldSeats": 40,
-          "occupancy": 13.75,
-          "gross": 1350.0,
+          "soldSeats": 50,
+          "occupancy": 17.18,
+          "gross": 1690.75,
           "maxGross": 9886.25,
           "screenType": "Vmax"
         },
@@ -551,9 +551,9 @@
           "sessionId": "2329630",
           "showTime": "19:30",
           "totalSeats": 291,
-          "soldSeats": 53,
-          "occupancy": 18.21,
-          "gross": 1856.25,
+          "soldSeats": 59,
+          "occupancy": 20.27,
+          "gross": 2076.75,
           "maxGross": 10031.75,
           "screenType": "Vmax"
         },
@@ -611,9 +611,9 @@
           "sessionId": "2325562",
           "showTime": "19:15",
           "totalSeats": 442,
-          "soldSeats": 37,
-          "occupancy": 8.37,
-          "gross": 693.75,
+          "soldSeats": 44,
+          "occupancy": 9.95,
+          "gross": 825.0,
           "maxGross": 8287.5,
           "screenType": "Std"
         },
@@ -626,9 +626,9 @@
           "sessionId": "2329654",
           "showTime": "14:40",
           "totalSeats": 55,
-          "soldSeats": 6,
-          "occupancy": 10.91,
-          "gross": 184.5,
+          "soldSeats": 10,
+          "occupancy": 18.18,
+          "gross": 307.5,
           "maxGross": 1691.25,
           "screenType": "Std"
         },
@@ -641,9 +641,9 @@
           "sessionId": "2325571",
           "showTime": "19:15",
           "totalSeats": 55,
-          "soldSeats": 27,
-          "occupancy": 49.09,
-          "gross": 830.25,
+          "soldSeats": 36,
+          "occupancy": 65.45,
+          "gross": 1107.0,
           "maxGross": 1691.25,
           "screenType": "Std"
         },
@@ -686,9 +686,9 @@
           "sessionId": "2325582",
           "showTime": "19:15",
           "totalSeats": 149,
-          "soldSeats": 5,
-          "occupancy": 3.36,
-          "gross": 98.75,
+          "soldSeats": 7,
+          "occupancy": 4.7,
+          "gross": 138.25,
           "maxGross": 2942.75,
           "screenType": "Std"
         }
@@ -698,9 +698,9 @@
       "summary": {
         "shows": 11,
         "totalSeats": 2205,
-        "soldSeats": 135,
-        "gross": 4099.75,
-        "occupancy": "6.12%"
+        "soldSeats": 139,
+        "gross": 4235.75,
+        "occupancy": "6.3%"
       },
       "shows": [
         {
@@ -757,9 +757,9 @@
           "sessionId": "2329632",
           "showTime": "13:45",
           "totalSeats": 291,
-          "soldSeats": 16,
-          "occupancy": 5.5,
-          "gross": 552.0,
+          "soldSeats": 18,
+          "occupancy": 6.19,
+          "gross": 624.5,
           "maxGross": 9886.25,
           "screenType": "Vmax"
         },
@@ -787,9 +787,9 @@
           "sessionId": "2329625",
           "showTime": "14:00",
           "totalSeats": 264,
-          "soldSeats": 20,
-          "occupancy": 7.58,
-          "gross": 635.0,
+          "soldSeats": 22,
+          "occupancy": 8.33,
+          "gross": 698.5,
           "maxGross": 8382.0,
           "screenType": "Vmax"
         },
