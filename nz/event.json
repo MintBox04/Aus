@@ -698,9 +698,9 @@
       "summary": {
         "shows": 11,
         "totalSeats": 2205,
-        "soldSeats": 166,
-        "gross": 5097.0,
-        "occupancy": "7.53%"
+        "soldSeats": 171,
+        "gross": 5255.75,
+        "occupancy": "7.76%"
       },
       "shows": [
         {
@@ -787,9 +787,9 @@
           "sessionId": "2329625",
           "showTime": "14:00",
           "totalSeats": 264,
-          "soldSeats": 22,
-          "occupancy": 8.33,
-          "gross": 698.5,
+          "soldSeats": 27,
+          "occupancy": 10.23,
+          "gross": 857.25,
           "maxGross": 8382.0,
           "screenType": "Vmax"
         },
